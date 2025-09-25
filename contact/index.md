@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-You can find us at the [Robotics with Multimodal Autonomy (RoMA)](https://christopherlu.github.io/group_website/) at [University College London](https://www.ucl.ac.uk/)
+You can find us at the [Robotics with Multimodal Autonomy (RoMA)Lab](https://christopherlu.github.io/group_website/) at [University College London](https://www.ucl.ac.uk/)
 
 {%
   include button.html
