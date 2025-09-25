@@ -1,9 +1,13 @@
-// Force logo image to be larger
-.logo img {
-  width: 80px;
-  height: 80px;
-  max-width: unset;
-  max-height: unset;
+
+// New approach: ensure .logo always has min size and its children fill it
+.logo {
+  min-width: 80px;
+  min-height: 80px;
+}
+.logo > * {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 ---
 ---
