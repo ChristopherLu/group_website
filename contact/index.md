@@ -7,27 +7,19 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+You can find us at the [Robotics with Multimodal Autonomy (RoMA)](https://christopherlu.github.io/group_website/) at [University College London](https://www.ucl.ac.uk/)
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="xiaoxuan.lu@ucl.ac.uk"
+  link="xiaoxuan.lu@ucl.ac.uk"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/dir//1+Pool+St,+London+E20+2AF/@51.5382365,-0.0921534,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x48761d66f90b73d1:0xcc0139dfc8c5e7c7!2m2!1d-0.0097532!2d51.5382654?entry=ttu&g_ep=EgoyMDI1MDkyMi4wIKXMDSoASAFQAw%3D%3D"
 %}
 
 {% include section.html %}
@@ -36,8 +28,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/ucl_east.jpg"
+  caption="One Pool Street"
 %}
 
 {% endcapture %}
@@ -46,8 +38,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/ucl_main.png"
+  caption="UCL"
 %}
 
 {% endcapture %}
@@ -75,3 +67,5 @@ sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+
