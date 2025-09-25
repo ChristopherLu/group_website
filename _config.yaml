@@ -9,11 +9,11 @@ proofer: false
 # site social media and other links
 links:
   email: xiaoxuan.lu@ucl.ac.uk
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  orcid: 0000-0002-3733-4480
+  google-scholar: idu78-EAAAAJ
   github: ChristopherLu
-  twitter: ChristopherLu
-  youtube: ChristopherLu
+  # twitter: ChristopherLu
+  # youtube: ChristopherLu
 
 ### jekyll settings
 
