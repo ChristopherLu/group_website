@@ -38,8 +38,8 @@ You can find us at the [Robotics with Multimodal Autonomy (RoMA)](https://christ
 
 {%
   include figure.html
-  image="images/ucl_main.png"
-  caption="UCL"
+  image="images/ucl_robotics.jpg"
+  caption="Robotics & AI Lab"
 %}
 
 {% endcapture %}
