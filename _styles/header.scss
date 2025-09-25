@@ -1,3 +1,19 @@
+// Force logo image to be larger
+.logo img {
+  width: 80px;
+  height: 80px;
+  max-width: unset;
+  max-height: unset;
+}
+---
+---
+
+$logo-big: 120px;
+$logo: 80px;
+$big-padding: 100px;
+$collapse: 700px;
+$sticky: true;
+
 header {
   display: flex;
   justify-content: space-between;
@@ -6,9 +22,12 @@ header {
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
-  position: sticky !important;
-  top: 0;
-  z-index: 10 !important;
+
+  @if $sticky {
+    position: sticky !important;
+    top: 0;
+    z-index: 10 !important;
+  }
 }
 
 header a {
@@ -27,7 +46,7 @@ header a {
 }
 
 .logo {
-  height: 80px;
+  height: $logo;
 }
 
 .logo > * {
@@ -100,20 +119,23 @@ nav > a:hover {
   color: var(--primary);
 }
 
-@media (max-width: 700px) {
-  header:not([data-big]) {
+header:not([data-big]) {
+  @media (max-width: $collapse) {
     justify-content: flex-end;
-  }
-  header:not([data-big]) .nav-toggle {
-    display: flex;
-  }
-  header:not([data-big]) .nav-toggle:not(:checked) + nav {
-    display: none;
-  }
-  header:not([data-big]) nav {
-    align-items: flex-end;
-    flex-direction: column;
-    width: 100%;
+
+    .nav-toggle {
+      display: flex;
+    }
+
+    .nav-toggle:not(:checked) + nav {
+      display: none;
+    }
+
+    nav {
+      align-items: flex-end;
+      flex-direction: column;
+      width: 100%;
+    }
   }
 }
 
@@ -121,27 +143,33 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 100px 20px;
-  top: unset;
-}
-header[data-big] .home {
-  flex-direction: column;
-  flex-grow: 0;
-}
-header[data-big] .logo {
-  height: 120px;
-  flex-shrink: 0;
-}
-header[data-big] .title-text {
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-}
-header[data-big] .title {
-  font-size: var(--xxl);
-}
-header[data-big] .subtitle {
-  font-size: var(--large);
-}
+  padding: $big-padding 20px;
 
-/*# sourceMappingURL=header.css.map */
+  @if $sticky {
+    top: unset;
+  }
+
+  .home {
+    flex-direction: column;
+    flex-grow: 0;
+  }
+
+  .logo {
+    height: $logo-big;
+    flex-shrink: 0;
+  }
+
+  .title-text {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .title {
+    font-size: var(--xxl);
+  }
+
+  .subtitle {
+    font-size: var(--large);
+  }
+}
