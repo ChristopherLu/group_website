@@ -13,7 +13,7 @@ You can find us at the [Robotics with Multimodal Autonomy (RoMA) Lab](https://ch
   include button.html
   type="email"
   text="xiaoxuan.lu@ucl.ac.uk"
-  <!-- link="xiaoxuan.lu@ucl.ac.uk" -->
+  link="xiaoxuan.lu@ucl.ac.uk"
 %}
 {%
   include button.html
