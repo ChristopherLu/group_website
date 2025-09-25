@@ -7,13 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-You can find us at the [Robotics with Multimodal Autonomy (RoMA)Lab](https://christopherlu.github.io/group_website/) at [University College London](https://www.ucl.ac.uk/)
+You can find us at the [Robotics with Multimodal Autonomy (RoMA) Lab](https://christopherlu.github.io/group_website/) at [University College London](https://www.ucl.ac.uk/)
 
 {%
   include button.html
   type="email"
   text="xiaoxuan.lu@ucl.ac.uk"
-  link="xiaoxuan.lu@ucl.ac.uk"
+  <!-- link="xiaoxuan.lu@ucl.ac.uk" -->
 %}
 {%
   include button.html
@@ -48,7 +48,7 @@ You can find us at the [Robotics with Multimodal Autonomy (RoMA)Lab](https://chr
 
 {% include section.html dark=true %}
 
-{% capture col1 %}
+<!-- {% capture col1 %}
 Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
 sed do eiusmod tempor
@@ -67,5 +67,5 @@ sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
-
+ -->
 
