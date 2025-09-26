@@ -9,11 +9,11 @@ nav:
 
 ## Postdoctoral Positions:
 
-We are happy to discuss the possibility of supporting postdoctoral candidates in applying for fellowships like [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). If you are interested, please [email Chris](/contact) with your research interests and your CV.
+We are happy to discuss the possibility of supporting postdoctoral candidates in applying for fellowships like [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). If you are interested, please [email Chris]({{ site.baseurl }}/contact) with your research interests and your CV.
 
 ## PhD Students:
 
-For informal enquiries, please [email Chris](/contact) with your CV, explaining your academic background and research interests.
+For informal enquiries, please [email Chris]({{ site.baseurl }}/contact) with your CV, explaining your academic background and research interests.
 
 I constantly recruit 1-2 PhD students every year. Please contact me if you are interested. 
 
