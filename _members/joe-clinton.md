@@ -2,7 +2,8 @@
 name: Joe Clinton
 image: images/joe_clinton.jpeg
 role: phd
-order: 3
+aliases:
+  - 2025-02
 links:
   email: joe.clinton.25@ucl.ac.uk
 ---
