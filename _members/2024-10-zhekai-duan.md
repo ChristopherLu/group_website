@@ -1,5 +1,5 @@
 ---
-name: Ahekai Duan
+name: Zhekai Duan
 image: images/zhekai_duan.jpg
 role: phd
 weight: 1
