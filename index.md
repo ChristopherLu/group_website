@@ -11,12 +11,12 @@ At [UCL](https://www.ucl.ac.uk/) [RoMA Lab](https://christopherlu.github.io/grou
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We develop advanced foundation models for robotic systems, focusing on multimodal perception, planning, and control. Our research spans computer vision, machine learning, and robotic manipulation.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Learn more about our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -30,6 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   link="research"
   title="Our Research"
   text=text
+  flip=true
 %}
 
 <!-- {% capture text %}
@@ -59,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are building a dynamic team of researchers passionate about robotics and AI. We welcome diverse expertise and perspectives, and are currently recruiting at all levels.
 
 {%
   include button.html
