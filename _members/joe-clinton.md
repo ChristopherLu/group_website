@@ -2,7 +2,7 @@
 name: Joe Clinton
 image: images/joe_clinton.jpeg
 role: phd
-date: 2025-09-02
+start-date: 2025-09-02
 links:
   email: joe.clinton.25@ucl.ac.uk
 ---
