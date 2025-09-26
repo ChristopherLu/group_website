@@ -1,6 +1,6 @@
 ---
 name: Xiangyu Wen
-image: images/xiangyu-wen.jpeg
+image: images/xiangyu_wen.jpeg
 role: phd
 # group: alum
 links:

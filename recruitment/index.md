@@ -13,9 +13,7 @@ We are happy to discuss the possibility of supporting postdoctoral candidates in
 
 ## PhD Students:
 
-For informal enquiries, please [email Chris]({{ site.baseurl }}/contact) with your CV, explaining your academic background and research interests.
-
-I constantly recruit 1-2 PhD students every year. Please contact me if you are interested. 
+We constantly recruit 1-2 PhD students every year. For informal enquiries, please [email Chris]({{ site.baseurl }}/contact) with your CV, explaining your academic background and research interests.
 
 Our lab is recruiting through: 
 - [UCL Research Excellence Scholarship](https://www.ucl.ac.uk/scholarships/research-excellence-scholarship)
