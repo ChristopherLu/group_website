@@ -60,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-We are building a dynamic team of researchers passionate about robotics and AI. We welcome diverse expertise and perspectives, and are currently recruiting at all levels.
+We are building a dynamic team of researchers passionate about robotics and AI, esp. visual-language-action models. We welcome diverse expertise and perspectives.
 
 {%
   include button.html
