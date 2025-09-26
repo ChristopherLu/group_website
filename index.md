@@ -26,7 +26,7 @@ We develop advanced foundation models for robotic systems, focusing on multimoda
 
 {%
   include feature.html
-  image="images/project_cover.png"
+  image="images/research_cover.png"
   link="research"
   title="Our Research"
   text=text
