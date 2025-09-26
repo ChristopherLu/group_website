@@ -2,8 +2,7 @@
 name: Zhekai Duan
 image: images/zhekai_duan.jpg
 role: phd
-aliases:
-  - 2024-01
+priority: 1
 # group: alum
 links:
   email: zhekai.duan.24@ucl.ac.uk

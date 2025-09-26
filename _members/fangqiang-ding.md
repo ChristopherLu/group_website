@@ -4,7 +4,6 @@ image: images/fangqiang_ding.jpeg # Add their photo to the images directory
 role: alumni # You can specify their previous role like 'phd', 'postdoc', etc.
 alumni: true
 links:
-  home-page:: https://toytiny.github.io/
   google-scholar: Ja8dgh8AAAAJ
 ---
 
