@@ -6,6 +6,7 @@ baseurl: "/group_website"
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
+default-dark-mode: true
 
 # site social media and other links
 links:

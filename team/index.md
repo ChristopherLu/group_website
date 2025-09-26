@@ -23,7 +23,7 @@ At RoMA, we are a dedicated team of passionate researchers to advance the fronti
 
 {% include list.html data="members" component="portrait" filter="alumni == true" %}
 
-{% include section.html background="images/ucl_robotics.jpg" dark=true %}
+{% include section.html background="images/ucl_main.jpg" dark=true %}
 
 Do you want to hear more?
 
