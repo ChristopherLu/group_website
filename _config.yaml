@@ -2,6 +2,7 @@
 title: Robotics & Multimodal Autonomy (RoMA) Lab
 subtitle: at University College London
 description: Advancing embodied intelligence with multimodal foundation models.
+baseurl: "/group_website"
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
