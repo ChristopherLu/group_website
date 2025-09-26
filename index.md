@@ -1,9 +1,9 @@
 ---
 ---
 
-# ChristopherLu's Website
+# Rome wasn’t built in a day — RoMA builds the future of robotics step by step.
 
-An engaging 1-3 sentence description of your lab.
+At UCL RoMA Lab, we scale Visual-Language-Action (VLA) foundation models for robotics, transforming multimodal perception into intelligent action. Our work advances embodied AI by tackling generalization across diverse sensors, computational efficiency on real-world hardware, and seamless human–robot interaction. The mission is to enable autonomous systems that operate reliably in **complex, dynamic environments**.
 
 {% include section.html %}
 
