@@ -23,7 +23,7 @@ Do you want to hear more?
 
 {% include section.html %}
 
-Please [reach out](/recruitment) if you are interested in joining. We are happy to support Early Career/postdoc fellowships. 
+Please [reach out]({{ site.baseurl }}/recruitment) if you are interested in joining. We are happy to support Early Career/postdoc fellowships. 
 
 {% capture content %}
 
