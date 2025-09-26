@@ -2,6 +2,7 @@
 name: Zhekai Duan
 image: images/zhekai_duan.jpg
 role: phd
+order: 1
 # group: alum
 links:
   email: zhekai.duan.24@ucl.ac.uk
