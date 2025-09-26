@@ -15,8 +15,7 @@ At RoMA, we are a dedicated team of passionate researchers to advance the fronti
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
-{% assign sorted_members = site.members | where_exp: "item", "item.role != 'principal-investigator' and item.alumni != true" | sort: "order" %}
-{% include list.html data=sorted_members component="portrait" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and alumni != true" sort_by="order" %}
 
 {% include section.html background="images/ucl_robotics.jpg" dark=true %}
 
