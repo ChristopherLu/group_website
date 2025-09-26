@@ -15,7 +15,8 @@ At RoMA, we are a dedicated team of passionate researchers to advance the fronti
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and alumni != true" sort_by="priority" %}
+{% assign students = site.members | where_exp: "item", "item.role != 'principal-investigator' and item.alumni != true" | sort: "date" %}
+{% include list.html data=students component="portrait" %}
 
 {% include section.html %}
 
