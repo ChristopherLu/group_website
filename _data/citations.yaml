@@ -9,11 +9,12 @@
   - Oisin Mac Aodha
   - Chris Xiaoxuan Lu
   publisher: arXiv
-  date: '2024-01-01'
+  date: '2024-03-21'
   link: https://doi.org/g946wm
   orcid: 0000-0002-3733-4480
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: article
 - id: doi:10.1145/3628453
   title: End-to-End Target Liveness Detection via mmWave Radar and Vision Fusion for
     Autonomous Vehicles
@@ -101,11 +102,12 @@
   - Yiming Li
   - Chris Xiaoxuan Lu
   publisher: arXiv
-  date: '2024-01-01'
+  date: '2024-05-22'
   link: https://doi.org/g946wq
   orcid: 0000-0002-3733-4480
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: article
 - id: doi:10.1109/TITS.2023.3305487
   title: Robust Metric Localization in Autonomous Driving via Doppler Compensation
     With Single-Chip Radar
