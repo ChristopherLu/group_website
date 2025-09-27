@@ -10,9 +10,14 @@
   publisher: NeurIPS
   image: images/works/radarocc.png
 
-- id: chen2025invertwin
-  title: 'InverTwin: Solving Inverse Problems via Differentiable Radio Frequency Digital Twin'
+- id: ding2025thermohands
+  title: 'Thermohands: A benchmark for 3d hand pose estimation from egocentric thermal images'
   authors:
+  - Fangqiang Ding
+  - Yunzhou Zhu
+  - Xiangyu Wen
+  - Gaowen Liu
   - Chris Xiaoxuan Lu
-  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems
+  publisher: Proceedings of the 23rd ACM Conference on Embedded Networked Sensor Systems
   date: '2025'
+  type: paper-conference
