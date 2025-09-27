@@ -7,14 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+At RoMA, our research focuses on developing foundation models for next-generation robotics. Our work spans multiple domains including computer vision, SLAM, sensor fusion, and deep learning.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors" style="rich" %}
 
 {% include section.html %}
 

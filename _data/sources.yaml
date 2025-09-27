@@ -1,2 +1,26 @@
 - id: doi:10.1101/2025.05.28.656648
   publisher: Pre-print on biorxiv
+
+- id: doi:10.48550/arXiv.2403.14526
+  title: 'Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors'
+  authors:
+  - Nikolaos Tsagkas
+  - Jack Rome
+  - Subramanian Ramamoorthy
+  - Oisin Mac Aodha
+  - Chris Xiaoxuan Lu
+  date: '2024-03-21'
+  publisher: arXiv
+  type: article
+
+- id: doi:10.48550/arXiv.2405.14014
+  title: 'RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar'
+  authors:
+  - Fangqiang Ding
+  - Xiangyu Wen
+  - Yunzhou Zhu
+  - Yiming Li
+  - Chris Xiaoxuan Lu
+  date: '2024-05-22'
+  publisher: arXiv
+  type: article
