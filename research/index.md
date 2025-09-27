@@ -13,7 +13,7 @@ At RoMA, our research focuses on developing foundation models for next-generatio
 
 ## Highlighted
 
-{% include citation.html lookup="Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors" style="rich" %}
+{% include citation.html lookup="RadarOcc" style="rich" %}
 
 {% include section.html %}
 
