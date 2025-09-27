@@ -1,1 +1,0 @@
-{"version":3,"sourceRoot":"","sources":["period.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA;EACA","sourcesContent":[".portrait-period {\n  display: block;\n  font-size: 0.9rem;\n  color: var(--gray);\n  line-height: 1.1;\n}"],"file":"period.css"}
