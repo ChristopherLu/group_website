@@ -14,10 +14,3 @@
   image: images/works/radarocc.png
   plugin: sources.py
   file: sources.yaml
-
-- id: chen2025invertwin
-  title: 'InverTwin: Solving Inverse Problems via Differentiable Radio Frequency Digital Twin'
-  authors:
-  - Chris Xiaoxuan Lu
-  publisher: IROS
-  date: '2025'
