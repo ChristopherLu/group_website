@@ -1,0 +1,15 @@
+.portrait[data-style=small] {
+  width: 150px;
+}
+.portrait[data-style=small] .portrait-name {
+  white-space: nowrap;
+}
+.portrait[data-style=small] .portrait-period {
+  display: block;
+  font-size: 0.9em;
+  color: var(--text);
+  opacity: 0.8;
+  margin-top: 5px;
+}
+
+/*# sourceMappingURL=portrait-alumni.css.map */
