@@ -1,6 +1,3 @@
-- id: doi:10.1101/2025.05.28.656648
-  publisher: Pre-print on biorxiv
-
 - id: doi:10.48550/arXiv.2403.14526
   title: 'Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors'
   authors:
