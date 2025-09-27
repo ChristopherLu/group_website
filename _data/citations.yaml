@@ -1503,19 +1503,3 @@
   orcid: 0000-0002-3733-4480
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.05.28.656648
-  title: 'Dynamic Landscape Analysis of Cell Fate Decisions: Predictive Models of
-    Neural Development From Single-Cell Data'
-  authors:
-  - Marine Fontaine
-  - M. Joaquina Delas
-  - Meritxell Saez
-  - Rory J. Maizels
-  - Elizabeth Finnie
-  - James Briscoe
-  - David A. Rand
-  publisher: Pre-print on biorxiv
-  date: '2025-05-28'
-  link: https://doi.org/g9mwf7
-  plugin: sources.py
-  file: sources.yaml
