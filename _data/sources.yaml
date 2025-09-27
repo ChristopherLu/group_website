@@ -10,7 +10,7 @@
   publisher: NeurIPS
   image: images/works/radarocc.png
 
-- id: IROS2025
+- id: chen2025invertwin
   title: 'InverTwin: Solving Inverse Problems via Differentiable Radio Frequency Digital Twin'
   authors:
   - Chris Xiaoxuan Lu
