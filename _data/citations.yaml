@@ -9,12 +9,11 @@
   - Oisin Mac Aodha
   - Chris Xiaoxuan Lu
   publisher: arXiv
-  date: '2024-03-21'
+  date: '2024-01-01'
   link: https://doi.org/g946wm
   orcid: 0000-0002-3733-4480
-  plugin: sources.py
-  file: sources.yaml
-  type: article
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3628453
   title: End-to-End Target Liveness Detection via mmWave Radar and Vision Fusion for
     Autonomous Vehicles
