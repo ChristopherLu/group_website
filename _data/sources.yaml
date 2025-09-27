@@ -9,3 +9,17 @@
   date: '2024-05-22'
   publisher: NeurIPS
   image: images/works/radarocc.png
+
+- id: IROS2025
+  title: 'InverTwin: Solving Inverse Problems via Differentiable Radio Frequency Digital Twin'
+  authors:
+  - Chris Xiaoxuan Lu
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems
+  date: '2025'
+
+- id: IROS2025
+  title: 'ABC'
+  authors:
+  - Fangqiang Ding
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems
+  date: '2025'
