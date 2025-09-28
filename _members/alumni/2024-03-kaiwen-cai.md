@@ -7,4 +7,5 @@ links:
   google-scholar: 8T6VF-gAAAAJ
 ---
 
-Kaiwen was a PhD student and then a PodtDoc at RoMA lab from 2020-2024. He joined Li Auto as a research scientist in 2024. His research at RoMA focused on the perception systems for autonomous driving vehicles. 
+Kaiwen was a PhD student and then a PodtDoc at RoMA lab from 2020-2024. His research spans roboust perception and contrastive learning for autonomous driving vehicles, with work published in top venues such as ECCV, ICRA, IROS, IEEE Robotics & Automation Letters.
+He is now a senior research scientist at Li Auto.
