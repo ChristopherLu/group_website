@@ -25,3 +25,44 @@
   publisher: Proceedings of the 23rd ACM Conference on Embedded Networked Sensor Systems
   date: '2025-01-01'
   link: https://arxiv.org/abs/2403.09871
+
+- id: doi:10.48550/ARXIV.2506.07639
+  type: doi
+  title: 'Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse'
+  authors:
+  - Zhekai Duan
+  - Yuan Zhang
+  - Shikai Geng
+  - Gaowen Liu
+  - Joschka Boedecker
+  - Chris Xiaoxuan Lu
+  journal: CoRR
+  year: 2025
+  date: '2025-06-15'
+  url: https://doi.org/10.48550/arXiv.2506.07639
+- id: doi:10.1109/TNNLS.2022.3176677
+  type: doi
+  title: Learning Selective Sensor Fusion for State Estimation
+  authors:
+  - Changhao Chen
+  - Stefano Rosa
+  - Chris Xiaoxuan Lu
+  - Bing Wang
+  - Niki Trigoni
+  - Andrew Markham
+  journal: IEEE Trans. Neural Networks Learn. Syst.
+  year: 2025
+  date: '2025-06-15'
+  url: https://doi.org/10.1109/TNNLS.2022.3176677
+- id: doi:10.1609/AAAI.V39I26.34931
+  type: doi
+  title: Risk Controlled Image Retrieval
+  authors:
+  - Kaiwen Cai
+  - Chris Xiaoxuan Lu
+  - Xingyu Zhao
+  - Wei Huang
+  - Xiaowei Huang
+  year: 2025
+  date: '2025-06-15'
+  url: https://doi.org/10.1609/aaai.v39i26.34931
