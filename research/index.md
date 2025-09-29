@@ -13,7 +13,7 @@ At RoMA, our research focuses on developing foundation models for next-generatio
 
 ## Highlighted
 
-{% include citation.html lookup="RadarOcc" style="rich" %}
+{% include list.html data="highlights" component="citation" style="rich" %}
 
 {% include section.html %}
 
@@ -23,4 +23,21 @@ At RoMA, our research focuses on developing foundation models for next-generatio
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% comment %}
+Display all publications except those already highlighted to avoid duplicates
+{% endcomment %}
+{% assign highlight_ids = site.data.highlights | map: "id" %}
+{% for citation in site.data.citations %}
+  {% unless highlight_ids contains citation.id %}
+    {% include citation.html 
+       id=citation.id
+       type=citation.type
+       title=citation.title
+       authors=citation.authors
+       publisher=citation.publisher
+       date=citation.date
+       link=citation.link
+       style="rich"
+    %}
+  {% endunless %}
+{% endfor %}
