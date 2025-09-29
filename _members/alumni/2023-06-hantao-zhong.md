@@ -1,7 +1,7 @@
 ---
-name: Zhijun Pan
-image: images/hantao_zhong.jpeg # Add their photo to the images directory
-role: alumni # You can specify their previous role like 'phd', 'postdoc', etc.
+name: Hantao Zhong
+image: images/member_photos/hantao_zhong.jpeg
+role: alumni
 alumni: true
 links:
   google-scholar: 7LfKE0MAAAAJ

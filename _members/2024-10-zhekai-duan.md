@@ -1,6 +1,6 @@
 ---
 name: Zhekai Duan
-image: images/zhekai_duan.jpg
+image: images/member_photos/zhekai_duan.jpg
 role: phd
 weight: 1
 # group: alum

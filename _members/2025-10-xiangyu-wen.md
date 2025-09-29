@@ -1,6 +1,6 @@
 ---
 name: Xiangyu Wen
-image: images/xiangyu_wen.jpeg
+image: images/member_photos/xiangyu_wen.jpeg
 role: phd
 weight: 4
 # group: alum

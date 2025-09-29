@@ -1,7 +1,7 @@
 ---
 name: Zhijun Pan
-image: images/zhijun_pan.webp # Add their photo to the images directory
-role: alumni # You can specify their previous role like 'phd', 'postdoc', etc.
+image: images/member_photos/zhijun_pan.webp
+role: alumni
 alumni: true
 links:
   google-scholar: MbzyV9YAAAAJ

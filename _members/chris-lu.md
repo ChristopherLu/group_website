@@ -1,6 +1,6 @@
 ---
 name: Chris Xiaoxuan Lu
-image: images/chris_lu.jpg
+image: images/member_photos/chris_lu.jpg
 role: principal-investigator
 aliases:
   - Xiaoxuan Lu

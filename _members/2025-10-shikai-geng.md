@@ -1,6 +1,6 @@
 ---
 name: Shikai Geng
-image: images/shikai_geng.jpg
+image: images/member_photos/shikai_geng.jpg
 role: phd
 weight: 2
 # group: alum

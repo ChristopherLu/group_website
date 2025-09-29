@@ -1,7 +1,7 @@
 ---
 name: Kaiwen Cai
-image: images/kaiwen_cai.jpeg # Add their photo to the images directory
-role: alumni # You can specify their previous role like 'phd', 'postdoc', etc.
+image: images/member_photos/kaiwen_cai.jpeg
+role: alumni
 alumni: true
 links:
   google-scholar: 8T6VF-gAAAAJ

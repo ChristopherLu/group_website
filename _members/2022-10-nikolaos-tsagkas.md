@@ -1,6 +1,6 @@
 ---
 name: Nikolaos Tsagkas
-image: images/nikolaos_tsagkas.jpeg # Add their photo to the images directory
+image: images/member_photos/nikolaos_tsagkas.jpeg
 role: phd
 links:
   home-page: http://tsagkas.github.io/

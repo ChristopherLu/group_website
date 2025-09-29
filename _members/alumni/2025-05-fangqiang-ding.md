@@ -1,7 +1,7 @@
 ---
 name: Fangqiang Ding
-image: images/fangqiang_ding.jpeg # Add their photo to the images directory
-role: alumni # You can specify their previous role like 'phd', 'postdoc', etc.
+image: images/member_photos/fangqiang_ding.jpeg
+role: alumni
 alumni: true
 links:
   google-scholar: Ja8dgh8AAAAJ

@@ -1,6 +1,6 @@
 ---
 name: Joe Clinton
-image: images/joe_clinton.jpeg
+image: images/member_photos/joe_clinton.jpeg
 role: phd
 weight: 3
 links:
