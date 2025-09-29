@@ -13,7 +13,23 @@ At RoMA, our research focuses on developing foundation models for next-generatio
 
 ## Highlighted
 
-{% include list.html data="highlights" component="citation" style="rich" %}
+{% comment %}
+Display highlighted publications without year grouping
+{% endcomment %}
+{% for highlight in site.data.highlights %}
+  {% include citation.html 
+     id=highlight.id
+     type=highlight.type
+     title=highlight.title
+     authors=highlight.authors
+     publisher=highlight.publisher
+     date=highlight.date
+     link=highlight.link
+     image=highlight.image
+     description=highlight.description
+     style="rich"
+  %}
+{% endfor %}
 
 {% include section.html %}
 
@@ -24,11 +40,18 @@ At RoMA, our research focuses on developing foundation models for next-generatio
 {% include search-info.html %}
 
 {% comment %}
-Display all publications except those already highlighted to avoid duplicates
+Display all publications grouped by year, excluding highlighted ones to avoid duplicates
 {% endcomment %}
 {% assign highlight_ids = site.data.highlights | map: "id" %}
-{% for citation in site.data.citations %}
-  {% unless highlight_ids contains citation.id %}
+{% assign filtered_citations = site.data.citations | where_exp: "citation", "highlight_ids contains citation.id == false" %}
+{% assign years = filtered_citations | group_by_exp: "d", "d.date | date: '%Y'" | sort: "name" | reverse %}
+
+{% for year in years %}
+  {% assign data = year.items | sort: "date" | reverse %}
+  
+  <h3 id="{{ year.name }}">{{ year.name }}</h3>
+  
+  {% for citation in data %}
     {% include citation.html 
        id=citation.id
        type=citation.type
@@ -39,5 +62,5 @@ Display all publications except those already highlighted to avoid duplicates
        link=citation.link
        style="rich"
     %}
-  {% endunless %}
+  {% endfor %}
 {% endfor %}
