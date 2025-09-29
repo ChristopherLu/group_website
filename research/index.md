@@ -43,7 +43,12 @@ Display highlighted publications without year grouping
 Display all publications grouped by year, excluding highlighted ones to avoid duplicates
 {% endcomment %}
 {% assign highlight_ids = site.data.highlights | map: "id" %}
-{% assign filtered_citations = site.data.citations | where_exp: "citation", "highlight_ids contains citation.id == false" %}
+{% assign filtered_citations = "" | split: "," %}
+{% for citation in site.data.citations %}
+  {% unless highlight_ids contains citation.id %}
+    {% assign filtered_citations = filtered_citations | push: citation %}
+  {% endunless %}
+{% endfor %}
 {% assign years = filtered_citations | group_by_exp: "d", "d.date | date: '%Y'" | sort: "name" | reverse %}
 
 {% for year in years %}
