@@ -84,6 +84,10 @@
   margin: 0;
 }
 
+.citation-no-image .citation-text {
+  padding-left: 20px;
+}
+
 @container (max-width: 800px) {
   .citation {
     flex-direction: column;
