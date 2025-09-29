@@ -1,19 +1,5 @@
 # Manual citations file - edit as needed
 
-- id: doi:10.48550/arXiv.2405.14014
-  title: 'RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar'
-  authors:
-  - Fangqiang Ding
-  - Xiangyu Wen
-  - Yunzhou Zhu
-  - Yiming Li
-  - Chris Xiaoxuan Lu
-  publisher: NeurIPS
-  date: '2024-05-22'
-  link: https://doi.org/g946wq
-  image: images/works/radarocc.png
-  type: paper-conference
-
 - id: doi:10.48550/ARXIV.2506.07639
   type: doi
   title: 'Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse'
@@ -230,6 +216,7 @@
     December 10 - 15, 2024'
   year: 2024
   date: '2024-06-15'
+  image: images/works/radar_occ.png
   link: http://papers.nips.cc/paper_files/paper/2024/hash/b81d83165e3145a2e7d33bb5e33ea913-Abstract-Conference.html
 
 - id: doi:10.1109/ICRA57147.2024.10610368
