@@ -91,6 +91,11 @@ $wrap: 800px;
   margin: 0;
 }
 
+// Citations without images should have better padding
+.citation-no-image .citation-text {
+  padding-left: 20px;
+}
+
 @container (max-width: #{$wrap}) {
   .citation {
     flex-direction: column;

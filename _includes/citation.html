@@ -9,8 +9,8 @@
 {% endif %}
 
 <div class="citation-container">
-  <div class="citation">
-    {% if include.style == "rich" %}
+  <div class="citation{% unless include.style == 'rich' and citation.image %} citation-no-image{% endunless %}">
+    {% if include.style == "rich" and citation.image %}
       <a
         {% if citation.link %}
           href="{{ citation.link | relative_url | uri_escape }}"
