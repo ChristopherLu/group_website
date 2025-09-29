@@ -1,21 +1,5 @@
 # Featured/highlighted publications with custom images and descriptions
 # This file is manually maintained and won't be overwritten by auto-generation
-
-- id: doi:10.48550/arXiv.2405.14014
-  title: 'RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar'
-  authors:
-  - Fangqiang Ding
-  - Xiangyu Wen
-  - Yunzhou Zhu
-  - Yiming Li
-  - Chris Xiaoxuan Lu
-  publisher: NeurIPS
-  date: '2024-05-22'
-  link: https://doi.org/g946wq
-  image: images/works/radar_occ.png
-  type: paper-conference
-  description: "A novel approach for robust 3D occupancy prediction using 4D imaging radar, advancing autonomous driving perception in challenging conditions."
-
 - id: doi:10.48550/ARXIV.2506.07639
   title: 'Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse'
   authors:
@@ -31,6 +15,21 @@
   image: images/works/fast_ecot.png
   type: preprint
   description: "Efficient embodied reasoning through thought reuse, enabling faster decision-making in robotic applications."
+
+- id: doi:10.48550/arXiv.2405.14014
+  title: 'RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar'
+  authors:
+  - Fangqiang Ding
+  - Xiangyu Wen
+  - Yunzhou Zhu
+  - Yiming Li
+  - Chris Xiaoxuan Lu
+  publisher: NeurIPS
+  date: '2024-05-22'
+  link: https://doi.org/g946wq
+  image: images/works/radar_occ.png
+  type: paper-conference
+  description: "A novel approach for robust 3D occupancy prediction using 4D imaging radar, advancing autonomous driving perception in challenging conditions."
 
 - id: doi:10.1007/978-3-031-73390-1_18
   title: 'Self-adapting Large Visual-Language Models to Edge Devices Across Visual Modalities'
