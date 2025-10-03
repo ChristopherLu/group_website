@@ -16,7 +16,7 @@ phd:
 
 undergrad:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: UG Student
 
 programmer:
   icon: fa-solid fa-code

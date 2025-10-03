@@ -1,6 +1,6 @@
 ---
 name: Shikai Geng
-image: images/member_photos/shikai_geng.jpg
+image: images/member_photos/shikai_geng.png
 role: phd
 # group: alum
 links:
