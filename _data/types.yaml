@@ -14,10 +14,6 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-ug-researcher:
-  icon: fa-solid fa-user-graduate
-  description: UG Researcher
-
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
