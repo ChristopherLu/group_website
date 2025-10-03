@@ -1,7 +1,7 @@
 ---
 name: Zhekai Duan
 image: images/member_photos/guanming_wang.jpg
-role: ug-researcher
+role: undergrad
 weight: 1
 # group: alum
 links:
