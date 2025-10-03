@@ -2,7 +2,6 @@
 name: Xiangyu Wen
 image: images/member_photos/xiangyu_wen.jpeg
 role: phd
-weight: 4
 # group: alum
 links:
   email: xiangyu.wen.25@ucl.ac.uk

@@ -1,8 +1,7 @@
 ---
-name: Zhekai Duan
+name: Guanming Wang
 image: images/member_photos/guanming_wang.jpg
 role: undergrad
-weight: 1
 # group: alum
 links:
   email: guanming.wang.23@ucl.ac.uk

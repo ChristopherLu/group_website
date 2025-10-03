@@ -2,7 +2,6 @@
 name: Joe Clinton
 image: images/member_photos/joe_clinton.jpeg
 role: phd
-weight: 3
 links:
   email: joe.clinton.25@ucl.ac.uk
 ---

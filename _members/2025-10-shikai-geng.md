@@ -2,7 +2,6 @@
 name: Shikai Geng
 image: images/member_photos/shikai_geng.jpg
 role: phd
-weight: 2
 # group: alum
 links:
   email: shikai.geng.24@ucl.ac.uk
