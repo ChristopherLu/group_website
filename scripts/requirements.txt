@@ -1,0 +1,9 @@
+# Requirements for monthly update script
+# Install with: pip install -r scripts/requirements.txt
+
+PyYAML~=6.0
+rich~=13.6
+inquirer~=3.1
+
+# Optional: for bibtex-to-manubot integration
+# pip install git+https://github.com/ChristopherLu/bibtex-to-manubot.git

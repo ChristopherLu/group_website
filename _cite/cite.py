@@ -2,11 +2,111 @@
 cite process to convert sources and metasources into full citations
 """
 
+import re
 import traceback
 from importlib import import_module
 from pathlib import Path
 from dotenv import load_dotenv
 from util import *
+
+
+def is_arxiv_paper(citation):
+    """
+    Check if a citation is an arXiv/preprint paper.
+    Based on bibtex-to-manubot deduplication logic.
+    """
+    _id = get_safe(citation, "id", "").lower()
+    publisher = get_safe(citation, "publisher", "").lower()
+    link = get_safe(citation, "link", "").lower()
+
+    # Check various indicators of arXiv papers
+    if "arxiv" in _id:
+        return True
+    if publisher in ["arxiv", "corr"]:
+        return True
+    if "arxiv.org" in link:
+        return True
+    return False
+
+
+def normalize_title(title):
+    """Normalize title for comparison by lowercasing and extracting words."""
+    if not title:
+        return []
+    title = title.lower()
+    # Extract words using regex
+    words = re.findall(r'\b\w+\b', title)
+    return words
+
+
+def find_title_overlap(title1, title2, min_words=6):
+    """
+    Find the longest consecutive word overlap between two titles.
+    Returns the count of consecutive matching words.
+    """
+    words1 = normalize_title(title1)
+    words2 = normalize_title(title2)
+
+    if not words1 or not words2:
+        return 0
+
+    max_overlap = 0
+
+    # Check all possible starting positions
+    for i in range(len(words1)):
+        for j in range(len(words2)):
+            # Count consecutive matches starting from these positions
+            overlap = 0
+            while (i + overlap < len(words1) and
+                   j + overlap < len(words2) and
+                   words1[i + overlap] == words2[j + overlap]):
+                overlap += 1
+            max_overlap = max(max_overlap, overlap)
+
+    return max_overlap
+
+
+def remove_arxiv_duplicates(citations, min_overlap=6):
+    """
+    Remove arXiv papers that have published versions.
+    Based on bibtex-to-manubot Smart Deduplication logic.
+    """
+    # Separate arXiv and non-arXiv papers
+    arxiv_papers = [c for c in citations if is_arxiv_paper(c)]
+    non_arxiv_papers = [c for c in citations if not is_arxiv_paper(c)]
+
+    log(f"Found {len(arxiv_papers)} arXiv paper(s) and {len(non_arxiv_papers)} published paper(s)")
+
+    # Track which arXiv papers to remove
+    arxiv_ids_to_remove = set()
+
+    # Compare each arXiv paper with non-arXiv papers
+    for arxiv_paper in arxiv_papers:
+        arxiv_title = get_safe(arxiv_paper, "title", "")
+        arxiv_id = get_safe(arxiv_paper, "id", "")
+
+        for published_paper in non_arxiv_papers:
+            published_title = get_safe(published_paper, "title", "")
+
+            overlap = find_title_overlap(arxiv_title, published_title, min_overlap)
+
+            if overlap >= min_overlap:
+                arxiv_ids_to_remove.add(arxiv_id)
+                log(f"Removing arXiv duplicate: '{arxiv_title[:50]}...'", indent=1)
+                log(f"  Published version: '{published_title[:50]}...' (overlap: {overlap} words)", indent=1)
+                break  # No need to check other published papers
+
+    # Filter out duplicates
+    filtered_citations = [
+        c for c in citations
+        if get_safe(c, "id", "") not in arxiv_ids_to_remove
+    ]
+
+    removed_count = len(citations) - len(filtered_citations)
+    if removed_count > 0:
+        log(f"Removed {removed_count} arXiv duplicate(s)", level="INFO")
+
+    return filtered_citations
 
 
 # load environment variables
@@ -29,7 +129,7 @@ log("Compiling sources")
 sources = []
 
 # in-order list of plugins to run
-plugins = ["google-scholar", "pubmed", "orcid", "sources"]
+plugins = ["google-scholar", "pubmed", "orcid", "dblp", "sources"]
 
 # loop through plugins
 for plugin in plugins:
@@ -169,6 +269,16 @@ for index, source in enumerate(sources):
 
     # add new citation to list
     citations.append(citation)
+
+
+log()
+
+log("Removing arXiv duplicates")
+
+# Remove arXiv papers that have published versions (Smart Deduplication)
+citations = remove_arxiv_duplicates(citations, min_overlap=6)
+
+log(f"{len(citations)} citation(s) after deduplication")
 
 
 log()

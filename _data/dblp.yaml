@@ -1,0 +1,7 @@
+# DBLP configuration for fetching publications
+# This file is processed by the dblp plugin in _cite/plugins/dblp.py
+
+# Your DBLP author profile
+# Find your PID at: https://dblp.org/ (search your name, then check the URL)
+# Example URL: https://dblp.org/pid/154/4313.html -> author_id: "154/4313"
+- author_id: "154/4313"

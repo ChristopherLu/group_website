@@ -1,0 +1,2406 @@
+<?xml version="1.0"?>
+<dblpperson name="Xiaoxuan Lu 0001" pid="154/4313" n="140">
+<person key="homepages/154/4313" mdate="2025-06-07">
+<author pid="154/4313">Xiaoxuan Lu 0001</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<note type="affiliation">University College London, UK</note>
+<note label="former" type="affiliation">University of Edinburgh, UK</note>
+<note label="former" type="affiliation">University of Liverpool, UK</note>
+<note label="PhD" type="affiliation">University of Oxford, UK</note>
+<url>https://christopherlu.github.io/</url>
+<url>https://orcid.org/0000-0002-3733-4480</url>
+<url>https://www.wikidata.org/entity/Q130868316</url>
+</person>
+<homonyms n="2">
+<h f="l/Lu:Xiaoxuan"><name>Xiaoxuan Lu</name>
+</h>
+<h f="l/Lu_0002:Xiaoxuan"><person key="homepages/154/4313-2" mdate="2019-03-12">
+<author pid="154/4313-2">Xiaoxuan Lu 0002</author>
+<note type="affiliation">China University of Petroleum, Tsingdao, China</note>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/tnn/ChenRLWTM25" mdate="2025-04-08">
+<author orcid="0000-0002-8341-6399" pid="215/3933">Changhao Chen</author>
+<author orcid="0000-0001-6458-6344" pid="77/9807">Stefano Rosa</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0003-0977-0426" pid="06/1909-13">Bing Wang 0013</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<author orcid="0000-0001-5716-3941" pid="83/7169">Andrew Markham</author>
+<title>Learning Selective Sensor Fusion for State Estimation.</title>
+<pages>4103-4117</pages>
+<year>2025</year>
+<month>March</month>
+<volume>36</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TNNLS.2022.3176677</ee>
+<url>db/journals/tnn/tnn36.html#ChenRLWTM25</url>
+<stream>streams/journals/tnn</stream>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/CaiL0H025" mdate="2025-11-15">
+<author pid="267/0681">Kaiwen Cai</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0002-3474-349X" pid="83/504-1">Xingyu Zhao 0001</author>
+<author pid="81/6685-35">Wei Huang 0035</author>
+<author pid="60/5414-1">Xiaowei Huang 0001</author>
+<title>Risk Controlled Image Retrieval.</title>
+<pages>27224-27232</pages>
+<year>2025</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v39i26.34931</ee>
+<crossref>conf/aaai/2025</crossref>
+<url>db/conf/aaai/aaai2025.html#CaiL0H025</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/LiuZCHXYLZ25" mdate="2026-01-07">
+<author pid="72/1394">Kezhong Liu</author>
+<author pid="142/6100">Yiwen Zhou</author>
+<author pid="260/7206">Mozi Chen</author>
+<author pid="40/3669">Jianhua He</author>
+<author pid="203/7191">Jingao Xu</author>
+<author pid="59/5806-2">Zheng Yang 0002</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="24/9532">Shengkai Zhang</author>
+<title>VISC: mmWave Radar Scene Flow Estimation using Pervasive Visual-Inertial Supervision.</title>
+<pages>6765-6770</pages>
+<year>2025</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS60139.2025.11246830</ee>
+<crossref>conf/iros/2025</crossref>
+<url>db/conf/iros/iros2025.html#LiuZCHXYLZ25</url>
+<stream>streams/conf/iros</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/DingZWLL25" mdate="2025-05-09">
+<author orcid="0000-0001-5287-7128" pid="249/5356">Fangqiang Ding</author>
+<author orcid="0009-0002-5360-3510" pid="372/2711">Yunzhou Zhu</author>
+<author orcid="0009-0007-7619-3709" pid="263/6833">Xiangyu Wen</author>
+<author orcid="0009-0007-9048-9274" pid="136/1007">Gaowen Liu</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>ThermoHands: A Benchmark for 3D Hand Pose Estimation from Egocentric Thermal Images.</title>
+<pages>533-546</pages>
+<year>2025</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3715014.3722058</ee>
+<crossref>conf/sensys/2025</crossref>
+<url>db/conf/sensys/sensys2025.html#DingZWLL25</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-03270" mdate="2025-03-11">
+<author pid="253/1483">Nikolaos Tsagkas</author>
+<author pid="285/6237">Andreas Sochopoulos</author>
+<author pid="286/5096">Duolikun Danier</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="90/8653">Oisin Mac Aodha</author>
+<title>When Pre-trained Visual Representations Fall Short: Limitations in Visuo-Motor Robot Learning.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.03270</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.03270</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-03270</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2506-07639" mdate="2025-11-14">
+<author pid="348/6573">Zhekai Duan</author>
+<author pid="48/2168-27">Yuan Zhang 0027</author>
+<author pid="410/0027">Shikai Geng</author>
+<author pid="136/1007">Gaowen Liu</author>
+<author pid="84/5457">Joschka Boedecker</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse.</title>
+<year>2025</year>
+<month>June</month>
+<volume>abs/2506.07639</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2506.07639</ee>
+<url>db/journals/corr/corr2506.html#abs-2506-07639</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2507-03938" mdate="2025-08-11">
+<author pid="72/1394">Kezhong Liu</author>
+<author pid="142/6100">Yiwen Zhou</author>
+<author pid="260/7206">Mozi Chen</author>
+<author pid="40/3669">Jianhua He</author>
+<author pid="203/7191">Jingao Xu</author>
+<author pid="59/5806-2">Zheng Yang 0002</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="24/9532">Shengkai Zhang</author>
+<title>VISC: mmWave Radar Scene Flow Estimation using Pervasive Visual-Inertial Supervision.</title>
+<year>2025</year>
+<month>July</month>
+<volume>abs/2507.03938</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2507.03938</ee>
+<url>db/journals/corr/corr2507.html#abs-2507-03938</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2511-10762" mdate="2026-01-09">
+<author pid="253/1483">Nikolaos Tsagkas</author>
+<author pid="285/6237">Andreas Sochopoulos</author>
+<author pid="286/5096">Duolikun Danier</author>
+<author pid="68/1347">Sethu Vijayakumar</author>
+<author pid="172/0699">Alexandros Kouris</author>
+<author pid="90/8653">Oisin Mac Aodha</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Attentive Feature Aggregation or: How Policies Learn to Stop Worrying about Robustness and Attend to Task-Relevant Visual Cues.</title>
+<year>2025</year>
+<month>November</month>
+<volume>abs/2511.10762</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2511.10762</ee>
+<url>db/journals/corr/corr2511.html#abs-2511-10762</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2512-12378" mdate="2026-01-24">
+<author pid="290/5285">Junqiao Fan</author>
+<author pid="327/3251">Yunjiao Zhou</author>
+<author pid="37/11052-1">Yizhuo Yang 0001</author>
+<author pid="270/1294">Xinyuan Cui</author>
+<author pid="194/0368">Jiarui Zhang</author>
+<author pid="40/2499">Lihua Xie 0001</author>
+<author pid="06/5852">Jianfei Yang</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="249/5356">Fangqiang Ding</author>
+<title>M4Human: A Large-Scale Multimodal mmWave Radar Benchmark for Human Mesh Reconstruction.</title>
+<year>2025</year>
+<month>December</month>
+<volume>abs/2512.12378</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2512.12378</ee>
+<url>db/journals/corr/corr2512.html#abs-2512-12378</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/eaai/ZhangDWXLH24" mdate="2024-10-06">
+<author pid="173/9526">Tianhang Zhang</author>
+<author orcid="0000-0001-5287-7128" pid="249/5356">Fangqiang Ding</author>
+<author orcid="0000-0002-7728-2056" pid="42/898">Zilong Wang</author>
+<author pid="91/8079">Fu Xiao</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0002-0584-8452" pid="126/4799">Xinyan Huang</author>
+<title>Forecasting backdraft with multimodal method: Fusion of fire image and sensor data.</title>
+<pages>107939</pages>
+<year>2024</year>
+<volume>132</volume>
+<journal>Eng. Appl. Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.engappai.2024.107939</ee>
+<url>db/journals/eaai/eaai132.html#ZhangDWXLH24</url>
+</article>
+</r>
+<r><article key="journals/tits/GaoZWL24" mdate="2024-02-10">
+<author orcid="0000-0001-6398-0710" pid="309/8348">Pengen Gao</author>
+<author orcid="0000-0003-0154-4897" pid="24/9532">Shengkai Zhang</author>
+<author orcid="0000-0002-2772-4856" pid="35/7092-50">Wei Wang 0050</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Robust Metric Localization in Autonomous Driving via Doppler Compensation With Single-Chip Radar.</title>
+<pages>491-502</pages>
+<year>2024</year>
+<month>January</month>
+<volume>25</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TITS.2023.3305487</ee>
+<url>db/journals/tits/tits25.html#GaoZWL24</url>
+</article>
+</r>
+<r><article key="journals/tnn/ChenWLTM24" mdate="2025-06-15">
+<author orcid="0000-0002-8341-6399" pid="215/3933">Changhao Chen</author>
+<author orcid="0000-0003-0977-0426" pid="06/1909-13">Bing Wang 0013</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<author orcid="0000-0001-5716-3941" pid="83/7169">Andrew Markham</author>
+<title>Deep Learning for Visual Localization and Mapping: A Survey.</title>
+<pages>17000-17020</pages>
+<year>2024</year>
+<month>December</month>
+<volume>35</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.1109/TNNLS.2023.3309809</ee>
+<url>db/journals/tnn/tnn35.html#ChenWLTM24</url>
+<stream>streams/journals/tnn</stream>
+</article>
+</r>
+<r><article key="journals/tosn/HuCLWLM24" mdate="2024-10-03">
+<author orcid="0000-0002-7935-886X" pid="71/9969-1">Pengfei Hu 0001</author>
+<author orcid="0000-0002-3215-2696" pid="06/4240-15">Zhe Chen 0015</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0002-4759-8674" pid="27/10801">Xuyu Wang</author>
+<author orcid="0000-0002-7036-5158" pid="42/2501-1">Jun Luo 0001</author>
+<author orcid="0000-0002-2768-5308" pid="m/PrasantMohapatra">Prasant Mohapatra</author>
+<title>Introduction to the Special Section on Contact-free Smart Sensing in AIoT.</title>
+<pages>76:1-76:4</pages>
+<year>2024</year>
+<month>July</month>
+<volume>20</volume>
+<journal>ACM Trans. Sens. Networks</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3639406</ee>
+<url>db/journals/tosn/tosn20.html#HuCLWLM24</url>
+<stream>streams/journals/tosn</stream>
+</article>
+</r>
+<r><article key="journals/tosn/WangMYLLJL24" mdate="2025-01-19">
+<author pid="42/1503-8">Shuai Wang 0008</author>
+<author orcid="0000-0003-2338-0256" pid="301/6040">Luoyu Mei</author>
+<author pid="130/9834-1">Zhimeng Yin 0001</author>
+<author pid="17/5705">Hao Li</author>
+<author pid="207/1798">Ruofeng Liu</author>
+<author pid="55/7618">Wenchao Jiang</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>End-to-End Target Liveness Detection via mmWave Radar and Vision Fusion for Autonomous Vehicles.</title>
+<pages>93:1-93:26</pages>
+<year>2024</year>
+<month>July</month>
+<volume>20</volume>
+<journal>ACM Trans. Sens. Networks</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3628453</ee>
+<ee>https://www.wikidata.org/entity/Q130836647</ee>
+<url>db/journals/tosn/tosn20.html#WangMYLLJL24</url>
+<stream>streams/journals/tosn</stream>
+</article>
+</r>
+<r><inproceedings key="conf/eccv/DingLZL24" mdate="2024-12-22">
+<author orcid="0000-0001-5287-7128" pid="249/5356">Fangqiang Ding</author>
+<author orcid="0009-0006-7815-7464" pid="93/1458">Zhen Luo</author>
+<author orcid="0000-0003-2843-6941" pid="166/6002">Peijun Zhao</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>milliFlow: Scene Flow Estimation on mmWave Radar Point Cloud for Human Motion Sensing.</title>
+<pages>202-221</pages>
+<year>2024</year>
+<booktitle>ECCV (24)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-72691-0_12</ee>
+<crossref>conf/eccv/2024-24</crossref>
+<url>db/conf/eccv/eccv2024-24.html#DingLZL24</url>
+<stream>streams/conf/eccv</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/CaiDLFL24" mdate="2024-11-30">
+<author orcid="0000-0001-7988-837X" pid="267/0681">Kaiwen Cai</author>
+<author orcid="0000-0002-0283-8419" pid="348/6573">Zhekai Duan</author>
+<author pid="136/1007">Gaowen Liu</author>
+<author pid="18/3177">Charles Fleming</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Self-adapting Large Visual-Language Models to Edge Devices Across Visual Modalities.</title>
+<pages>301-318</pages>
+<year>2024</year>
+<booktitle>ECCV (28)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-73390-1_18</ee>
+<crossref>conf/eccv/2024-28</crossref>
+<url>db/conf/eccv/eccv2024-28.html#CaiDLFL24</url>
+<stream>streams/conf/eccv</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/PanDZL24" mdate="2025-08-05">
+<author orcid="0000-0003-4010-3648" pid="314/9873">Zhijun Pan</author>
+<author orcid="0000-0001-5287-7128" pid="249/5356">Fangqiang Ding</author>
+<author pid="357/1276">Hantao Zhong</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>RaTrack: Moving Object Detection and Tracking with 4D Radar Point Cloud.</title>
+<pages>4480-4487</pages>
+<year>2024</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA57147.2024.10610368</ee>
+<crossref>conf/icra/2024</crossref>
+<url>db/conf/icra/icra2024.html#PanDZL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/DengCZL24" mdate="2025-03-03">
+<author orcid="0000-0003-2096-4176" pid="305/9193">Jianning Deng</author>
+<author pid="178/1812">Gabriel Chan</author>
+<author pid="357/1276">Hantao Zhong</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Robust 3D Object Detection from LiDAR-Radar Point Clouds via Cross-Modal Feature Augmentation.</title>
+<pages>6585-6591</pages>
+<year>2024</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA57147.2024.10610775</ee>
+<crossref>conf/icra/2024</crossref>
+<url>db/conf/icra/icra2024.html#DengCZL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/YiWXLZAL24" mdate="2024-08-19">
+<author pid="327/9646">Zhaoguang Yi</author>
+<author pid="263/6833">Xiangyu Wen</author>
+<author pid="351/0659">Qiyue Xia</author>
+<author pid="254/1325">Peize Li</author>
+<author pid="120/5018">Francisco Zampella</author>
+<author pid="155/7031">Firas Alsehly</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Multimodal Indoor Localization Using Crowdsourced Radio Maps.</title>
+<pages>13666-13672</pages>
+<year>2024</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA57147.2024.10610683</ee>
+<crossref>conf/icra/2024</crossref>
+<url>db/conf/icra/icra2024.html#YiWXLZAL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/TsagkasRRAL24" mdate="2025-01-03">
+<author pid="253/1483">Nikolaos Tsagkas</author>
+<author pid="372/5060">Jack Rome</author>
+<author pid="97/5598">Subramanian Ramamoorthy</author>
+<author pid="90/8653">Oisin Mac Aodha</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors.</title>
+<pages>11610-11617</pages>
+<year>2024</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS58592.2024.10801488</ee>
+<crossref>conf/iros/2024</crossref>
+<url>db/conf/iros/iros2024.html#TsagkasRRAL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/DingWZ0L24" mdate="2025-02-13">
+<author pid="249/5356">Fangqiang Ding</author>
+<author pid="263/6833">Xiangyu Wen</author>
+<author pid="372/2711">Yunzhou Zhu</author>
+<author pid="l/YimingLi-3">Yiming Li 0003</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar.</title>
+<year>2024</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2024/hash/b81d83165e3145a2e7d33bb5e33ea913-Abstract-Conference.html</ee>
+<crossref>conf/nips/2024</crossref>
+<url>db/conf/nips/neurips2024.html#DingWZ0L24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-04908" mdate="2024-10-06">
+<author pid="267/0681">Kaiwen Cai</author>
+<author pid="348/6573">Zhekai Duan</author>
+<author pid="136/1007">Gaowen Liu</author>
+<author pid="18/3177">Charles Fleming</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Self-Adapting Large Visual-Language Models to Edge Devices across Visual Modalities.</title>
+<year>2024</year>
+<volume>abs/2403.04908</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.04908</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-04908</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-09871" mdate="2024-10-06">
+<author orcid="0000-0001-5287-7128" pid="249/5356">Fangqiang Ding</author>
+<author pid="372/2711">Yunzhou Zhu</author>
+<author pid="263/6833">Xiangyu Wen</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>ThermoHands: A Benchmark for 3D Hand Pose Estimation from Egocentric Thermal Image.</title>
+<year>2024</year>
+<volume>abs/2403.09871</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.09871</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-09871</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-14526" mdate="2024-10-06">
+<author pid="253/1483">Nikolaos Tsagkas</author>
+<author pid="372/5060">Jack Rome</author>
+<author pid="97/5598">Subramanian Ramamoorthy</author>
+<author pid="90/8653">Oisin Mac Aodha</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors.</title>
+<year>2024</year>
+<volume>abs/2403.14526</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.14526</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-14526</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-14014" mdate="2025-03-03">
+<author orcid="0000-0001-5287-7128" pid="249/5356">Fangqiang Ding</author>
+<author pid="263/6833">Xiangyu Wen</author>
+<author pid="372/2711">Yunzhou Zhu</author>
+<author pid="l/YimingLi-3">Yiming Li 0003</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar.</title>
+<year>2024</year>
+<volume>abs/2405.14014</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.14014</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-14014</url>
+</article>
+</r>
+<r><article key="journals/imwut/WangCLJYL23" mdate="2025-01-19">
+<author orcid="0000-0002-3609-2205" pid="42/1503-8">Shuai Wang 0008</author>
+<author orcid="0000-0002-0429-1779" pid="324/4699">Dongjiang Cao</author>
+<author orcid="0000-0001-9804-3727" pid="207/1798">Ruofeng Liu</author>
+<author orcid="0000-0001-6765-2466" pid="55/7618">Wenchao Jiang</author>
+<author orcid="0000-0001-7530-1420" pid="84/5022">Tianshun Yao</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Human Parsing with Joint Learning for Dynamic mmWave Radar Point Cloud.</title>
+<pages>34:1-34:22</pages>
+<year>2023</year>
+<month>March</month>
+<volume>7</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3580779</ee>
+<ee>https://www.wikidata.org/entity/Q130868317</ee>
+<url>db/journals/imwut/imwut7.html#WangCLJYL23</url>
+</article>
+</r>
+<r><article key="journals/imwut/WangTYL23" mdate="2025-01-19">
+<author orcid="0000-0002-7101-4763" pid="61/6922">Rongrong Wang</author>
+<author orcid="0000-0001-8441-9973" pid="00/5179-1">Rui Tan 0001</author>
+<author orcid="0000-0002-4433-5211" pid="57/1273-2">Zhenyu Yan 0002</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Orientation-Aware 3D SLAM in Alternating Magnetic Field from Powerlines.</title>
+<pages>182:1-182:25</pages>
+<year>2023</year>
+<month>December</month>
+<volume>7</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3631446</ee>
+<ee>https://www.wikidata.org/entity/Q130121786</ee>
+<url>db/journals/imwut/imwut7.html#WangTYL23</url>
+</article>
+</r>
+<r><article key="journals/iotj/DengYYZLX23" mdate="2025-08-19">
+<author orcid="0000-0003-4137-6074" pid="327/9288">Lang Deng</author>
+<author orcid="0000-0002-8075-0439" pid="06/5852">Jianfei Yang</author>
+<author orcid="0009-0003-1887-6342" pid="133/3411">Shenghai Yuan</author>
+<author orcid="0000-0002-8063-5211" pid="147/5139">Han Zou</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0002-7137-4136" pid="40/2499">Lihua Xie 0001</author>
+<title>GaitFi: Robust Device-Free Human Identification via WiFi and Vision Multimodal Learning.</title>
+<pages>625-636</pages>
+<year>2023</year>
+<volume>10</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/JIOT.2022.3203559</ee>
+<url>db/journals/iotj/iotj10.html#DengYYZLX23</url>
+</article>
+</r>
+<r><article key="journals/iotj/ZhaoLWTM23" mdate="2025-03-03">
+<author orcid="0000-0003-2843-6941" pid="166/6002">Peijun Zhao</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0003-0977-0426" pid="06/1909-13">Bing Wang 0013</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<author orcid="0000-0001-5716-3941" pid="83/7169">Andrew Markham</author>
+<title>CubeLearn: End-to-End Learning for Human Motion Recognition From Raw mmWave Radar Signals.</title>
+<pages>10236-10249</pages>
+<year>2023</year>
+<month>june15</month>
+<volume>10</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/JIOT.2023.3237494</ee>
+<url>db/journals/iotj/iotj10.html#ZhaoLWTM23</url>
+</article>
+</r>
+<r><article key="journals/patterns/YangCZLWSX23" mdate="2025-12-04">
+<author pid="06/5852">Jianfei Yang</author>
+<author pid="318/1400-2">Xinyan Chen 0002</author>
+<author pid="147/5139">Han Zou</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="283/2872">Dazhuo Wang</author>
+<author pid="46/3348">Sumei Sun</author>
+<author orcid="0000-0002-7137-4136" pid="40/2499">Lihua Xie 0001</author>
+<title>SenseFi: A library and benchmark on deep-learning-empowered WiFi human sensing.</title>
+<pages>100703</pages>
+<year>2023</year>
+<month>March</month>
+<volume>4</volume>
+<journal>Patterns</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1016/j.patter.2023.100703</ee>
+<url>db/journals/patterns/patterns4.html#YangCZLWSX23</url>
+</article>
+</r>
+<r><article key="journals/ral/CaiLH23" mdate="2023-04-29">
+<author orcid="0000-0001-7988-837X" pid="267/0681">Kaiwen Cai</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0001-6267-0366" pid="60/5414-1">Xiaowei Huang 0001</author>
+<title>Uncertainty Estimation for 3D Dense Prediction via Cross-Point Embeddings.</title>
+<pages>2558-2565</pages>
+<year>2023</year>
+<month>May</month>
+<volume>8</volume>
+<journal>IEEE Robotics Autom. Lett.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/LRA.2023.3256085</ee>
+<url>db/journals/ral/ral8.html#CaiLH23</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/DingPGL23" mdate="2023-09-30">
+<author pid="249/5356">Fangqiang Ding</author>
+<author orcid="0000-0003-1663-4967" pid="248/3208">Andras Palffy</author>
+<author pid="g/DariuGavrila">Dariu M. Gavrila</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision.</title>
+<pages>9340-9349</pages>
+<year>2023</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR52729.2023.00901</ee>
+<crossref>conf/cvpr/2023</crossref>
+<url>db/conf/cvpr/cvpr2023.html#DingPGL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ewsn/CaiXLLS23" mdate="2024-05-16">
+<author pid="267/0681">Kaiwen Cai</author>
+<author pid="351/0659">Qiyue Xia</author>
+<author pid="254/1325">Peize Li</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="s/JohnAStankovic">John A. Stankovic</author>
+<title>Robust Human Detection under Visual Degradation via Thermal and mmWave Radar Fusion.</title>
+<pages>192-203</pages>
+<year>2023</year>
+<booktitle>EWSN</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/3639940.3639965</ee>
+<crossref>conf/ewsn/2023</crossref>
+<url>db/conf/ewsn/ewsn2023.html#CaiXLLS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/WangSLTM23" mdate="2024-01-05">
+<author pid="195/2701">Jialu Wang</author>
+<author pid="172/7604">Muhamad Risqi Utama Saputra</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Conditions.</title>
+<pages>3335-3342</pages>
+<year>2023</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS55552.2023.10341653</ee>
+<url>db/conf/iros/iros2023.html#WangSLTM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/DengLDLK23" mdate="2025-03-03">
+<author orcid="0000-0003-2096-4176" pid="305/9193">Jianning Deng</author>
+<author pid="254/1325">Peize Li</author>
+<author pid="192/3897">Kevin Dhaliwal</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="164/8163">Mohsen Khadem</author>
+<title>Feature-based Visual Odometry for Bronchoscopy: A Dataset and Benchmark.</title>
+<pages>6557-6564</pages>
+<year>2023</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS55552.2023.10342034</ee>
+<url>db/conf/iros/iros2023.html#DengLDLK23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ndss/ChenLCZLP0X0Q23" mdate="2024-09-27">
+<author pid="59/7651">Xingyu Chen</author>
+<author pid="217/8466">Zhengxiong Li</author>
+<author pid="134/1201">Baicheng Chen</author>
+<author pid="67/4972-12">Yi Zhu 0012</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="184/3264">Zhengyu Peng</author>
+<author pid="75/2611-4">Feng Lin 0004</author>
+<author pid="11/6689">Wenyao Xu</author>
+<author pid="20/6179-1">Kui Ren 0001</author>
+<author pid="60/6865">Chunming Qiao</author>
+<title>MetaWave: Attacking mmWave Sensing with Meta-material-enhanced Tags.</title>
+<year>2023</year>
+<booktitle>NDSS</booktitle>
+<ee type="oa">https://www.ndss-symposium.org/ndss-paper/metawave-attacking-mmwave-sensing-with-meta-material-enhanced-tags/</ee>
+<crossref>conf/ndss/2023</crossref>
+<url>db/conf/ndss/ndss2023.html#ChenLCZLP0X0Q23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/YangHZCXYZLX23" mdate="2025-12-04">
+<author pid="06/5852">Jianfei Yang</author>
+<author pid="75/4947">He Huang</author>
+<author pid="327/3251">Yunjiao Zhou</author>
+<author pid="318/1400-2">Xinyan Chen 0002</author>
+<author pid="242/7964">Yuecong Xu</author>
+<author pid="133/3411">Shenghai Yuan</author>
+<author pid="147/5139">Han Zou</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="40/2499">Lihua Xie 0001</author>
+<title>MM-Fi: Multi-Modal Non-Intrusive 4D Human Dataset for Versatile Wireless Sensing.</title>
+<year>2023</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2023/hash/3baf7a39d07e9f4f1e258a412df94521-Abstract-Datasets_and_Benchmarks.html</ee>
+<crossref>conf/nips/2023</crossref>
+<url>db/conf/nips/neurips2023.html#YangHZCXYZLX23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/WenYZAL23" mdate="2025-01-19">
+<author orcid="0009-0007-7619-3709" pid="263/6833">Xiangyu Wen</author>
+<author orcid="0009-0002-1209-7041" pid="327/9646">Zhaoguang Yi</author>
+<author orcid="0000-0002-3691-9604" pid="120/5018">Francisco Zampella</author>
+<author orcid="0000-0001-6369-2591" pid="155/7031">Firas Alsehly</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Poster Abstract: Multimodal Indoor Localization Using Crowdsourced Radio Maps.</title>
+<pages>530-531</pages>
+<year>2023</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3625687.3628398</ee>
+<ee>https://www.wikidata.org/entity/Q131014082</ee>
+<crossref>conf/sensys/2023</crossref>
+<url>db/conf/sensys/sensys2023.html#WenYZAL23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-00462" mdate="2024-10-06">
+<author pid="249/5356">Fangqiang Ding</author>
+<author pid="248/3208">Andras Palffy</author>
+<author pid="g/DariuGavrila">Dariu M. Gavrila</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision.</title>
+<year>2023</year>
+<volume>abs/2303.00462</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.00462</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-00462</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-10345" mdate="2025-12-04">
+<author pid="06/5852">Jianfei Yang</author>
+<author pid="75/4947">He Huang</author>
+<author pid="327/3251">Yunjiao Zhou</author>
+<author pid="318/1400-2">Xinyan Chen 0002</author>
+<author orcid="0000-0002-4292-7379" pid="242/7964">Yuecong Xu</author>
+<author orcid="0009-0003-1887-6342" pid="133/3411">Shenghai Yuan</author>
+<author pid="147/5139">Han Zou</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0002-7137-4136" pid="40/2499">Lihua Xie 0001</author>
+<title>MM-Fi: Multi-Modal Non-Intrusive 4D Human Dataset for Versatile Wireless Sensing.</title>
+<year>2023</year>
+<volume>abs/2305.10345</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.10345</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-10345</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-12427" mdate="2023-05-26">
+<author pid="253/1483">Nikolaos Tsagkas</author>
+<author pid="90/8653">Oisin Mac Aodha</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>VL-Fields: Towards Language-Grounded Neural Implicit Spatial Representations.</title>
+<year>2023</year>
+<volume>abs/2305.12427</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.12427</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-12427</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-17010" mdate="2024-10-06">
+<author orcid="0000-0001-5287-7128" pid="249/5356">Fangqiang Ding</author>
+<author pid="93/1458">Zhen Luo</author>
+<author pid="166/6002">Peijun Zhao</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>milliFlow: Scene Flow Estimation on mmWave Radar Point Cloud for Human Motion Sensing.</title>
+<year>2023</year>
+<volume>abs/2306.17010</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.17010</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-17010</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-03623" mdate="2023-07-10">
+<author pid="267/0681">Kaiwen Cai</author>
+<author pid="351/0659">Qiyue Xia</author>
+<author pid="254/1325">Peize Li</author>
+<author pid="s/JohnAStankovic">John A. Stankovic</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Robust Human Detection under Visual Degradation via Thermal and mmWave Radar Fusion.</title>
+<year>2023</year>
+<volume>abs/2307.03623</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.03623</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-03623</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-07336" mdate="2025-11-15">
+<author pid="267/0681">Kaiwen Cai</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0002-3474-349X" pid="83/504-1">Xingyu Zhao 0001</author>
+<author pid="60/5414-1">Xiaowei Huang 0001</author>
+<title>Risk Controlled Image Retrieval.</title>
+<year>2023</year>
+<volume>abs/2307.07336</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.07336</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-07336</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-14039" mdate="2025-03-03">
+<author pid="215/3933">Changhao Chen</author>
+<author orcid="0000-0003-0977-0426" pid="06/1909-13">Bing Wang 0013</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>Deep Learning for Visual Localization and Mapping: A Survey.</title>
+<year>2023</year>
+<volume>abs/2308.14039</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.14039</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-14039</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-09737" mdate="2024-10-06">
+<author orcid="0000-0003-4010-3648" pid="314/9873">Zhijun Pan</author>
+<author orcid="0000-0001-5287-7128" pid="249/5356">Fangqiang Ding</author>
+<author pid="357/1276">Hantao Zhong</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Moving Object Detection and Tracking with 4D Radar Point Cloud.</title>
+<year>2023</year>
+<volume>abs/2309.09737</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.09737</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-09737</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-17336" mdate="2024-10-06">
+<author pid="305/9193">Jianning Deng</author>
+<author pid="178/1812">Gabriel Chan</author>
+<author pid="357/1276">Hantao Zhong</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>See Beyond Seeing: Robust 3D Object Detection from Point Clouds via Cross-Modal Hallucination.</title>
+<year>2023</year>
+<volume>abs/2309.17336</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.17336</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-17336</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-10601" mdate="2024-10-06">
+<author pid="327/9646">Zhaoguang Yi</author>
+<author pid="263/6833">Xiangyu Wen</author>
+<author pid="351/0659">Qiyue Xia</author>
+<author pid="254/1325">Peize Li</author>
+<author pid="120/5018">Francisco Zampella</author>
+<author pid="155/7031">Firas Alsehly</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Multimodal Indoor Localization Using Crowdsourced Radio Maps.</title>
+<year>2023</year>
+<volume>abs/2311.10601</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.10601</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-10601</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-13182" mdate="2024-10-06">
+<author pid="59/7651">Xingyu Chen</author>
+<author pid="58/4582-3">Xinyu Zhang 0003</author>
+<author pid="351/0659">Qiyue Xia</author>
+<author pid="305/9208">Xinmin Fang</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="217/8466">Zhengxiong Li</author>
+<title>Differentiable Radio Frequency Ray Tracing for Millimeter-Wave Sensing.</title>
+<year>2023</year>
+<volume>abs/2311.13182</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.13182</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-13182</url>
+</article>
+</r>
+<r><article key="journals/imwut/CaoLLWJL22" mdate="2025-01-19">
+<author pid="324/4699">Dongjiang Cao</author>
+<author orcid="0000-0001-9804-3727" pid="207/1798">Ruofeng Liu</author>
+<author pid="17/5705">Hao Li</author>
+<author pid="42/1503-8">Shuai Wang 0008</author>
+<author pid="55/7618">Wenchao Jiang</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Cross Vision-RF Gait Re-identification with Low-cost RGB-D Cameras and mmWave Radars.</title>
+<pages>102:1-102:25</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3550325</ee>
+<ee>https://www.wikidata.org/entity/Q130854551</ee>
+<url>db/journals/imwut/imwut6.html#CaoLLWJL22</url>
+</article>
+</r>
+<r><article key="journals/ral/DingPDDL22" mdate="2022-08-08">
+<author orcid="0000-0001-5287-7128" pid="249/5356">Fangqiang Ding</author>
+<author orcid="0000-0003-4010-3648" pid="314/9873">Zhijun Pan</author>
+<author orcid="0000-0003-1813-5512" pid="17/7396">Yimin Deng</author>
+<author orcid="0000-0003-2096-4176" pid="305/9193">Jianning Deng</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Self-Supervised Scene Flow Estimation With 4-D Automotive Radar.</title>
+<pages>8233-8240</pages>
+<year>2022</year>
+<volume>7</volume>
+<journal>IEEE Robotics Autom. Lett.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/LRA.2022.3187248</ee>
+<url>db/journals/ral/ral7.html#DingPDDL22</url>
+</article>
+</r>
+<r><article key="journals/trob/SaputraLGWMT22" mdate="2025-03-03">
+<author orcid="0000-0001-6067-630X" pid="172/7604">Muhamad Risqi Utama Saputra</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0002-7072-9898" pid="88/10808">Pedro Porto Buarque de Gusm&#227;o</author>
+<author orcid="0000-0003-0977-0426" pid="06/1909-13">Bing Wang 0013</author>
+<author pid="83/7169">Andrew Markham</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Graph-Based Thermal-Inertial SLAM With Probabilistic Neural Networks.</title>
+<pages>1875-1893</pages>
+<year>2022</year>
+<volume>38</volume>
+<journal>IEEE Trans. Robotics</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TRO.2021.3120036</ee>
+<url>db/journals/trob/trob38.html#SaputraLGWMT22</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/HanLMW22" mdate="2022-07-18">
+<author pid="241/7909">Dongge Han</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="69/391">Tomasz P. Michalak</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Multiagent Model-based Credit Assignment for Continuous Control.</title>
+<pages>571-579</pages>
+<year>2022</year>
+<booktitle>AAMAS</booktitle>
+<ee type="oa">https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p571.pdf</ee>
+<ee>https://dl.acm.org/doi/10.5555/3535850.3535915</ee>
+<crossref>conf/atal/2022</crossref>
+<url>db/conf/atal/aamas2022.html#HanLMW22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/Cai0L22" mdate="2025-03-03">
+<author orcid="0000-0001-7988-837X" pid="267/0681">Kaiwen Cai</author>
+<author orcid="0000-0003-0977-0426" pid="06/1909-13">Bing Wang 0013</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>AutoPlace: Robust Place Recognition with Single-chip Automotive Radar.</title>
+<pages>2222-2228</pages>
+<year>2022</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA46639.2022.9811869</ee>
+<crossref>conf/icra/2022</crossref>
+<url>db/conf/icra/icra2022.html#Cai0L22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/GaoZ0L22" mdate="2024-10-06">
+<author pid="309/8348">Pengen Gao</author>
+<author orcid="0000-0003-0154-4897" pid="24/9532">Shengkai Zhang</author>
+<author pid="35/7092-50">Wei Wang 0050</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>DC-Loc: Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation.</title>
+<pages>4128-4134</pages>
+<year>2022</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA46639.2022.9811561</ee>
+<crossref>conf/icra/2022</crossref>
+<url>db/conf/icra/icra2022.html#GaoZ0L22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipsn/WangYWTL22" mdate="2024-10-06">
+<author pid="61/6922">Rongrong Wang</author>
+<author pid="57/1273-2">Zhenyu Yan 0002</author>
+<author pid="09/10409">Yuting Wu</author>
+<author pid="00/5179-1">Rui Tan 0001</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Demo Abstract: 3D Simultaneous localization and Mapping with Power Network Electromagnetic Radiation.</title>
+<pages>491-492</pages>
+<year>2022</year>
+<booktitle>IPSN</booktitle>
+<ee>https://doi.org/10.1109/IPSN54338.2022.00046</ee>
+<crossref>conf/ipsn/2022</crossref>
+<url>db/conf/ipsn/ipsn2022.html#WangYWTL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/LiCSDL22" mdate="2024-10-06">
+<author pid="254/1325">Peize Li</author>
+<author orcid="0000-0001-7988-837X" pid="267/0681">Kaiwen Cai</author>
+<author pid="172/7604">Muhamad Risqi Utama Saputra</author>
+<author orcid="0000-0002-6098-115X" pid="267/4598">Zhuangzhuang Dai</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum.</title>
+<pages>3845-3850</pages>
+<year>2022</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS47612.2022.9981865</ee>
+<crossref>conf/iros/2022</crossref>
+<url>db/conf/iros/iros2022.html#LiCSDL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/CaiLH22" mdate="2024-10-06">
+<author orcid="0000-0001-7988-837X" pid="267/0681">Kaiwen Cai</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="60/5414-1">Xiaowei Huang 0001</author>
+<title>STUN: Self-Teaching Uncertainty Estimation for Place Recognition.</title>
+<pages>6614-6621</pages>
+<year>2022</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS47612.2022.9981546</ee>
+<crossref>conf/iros/2022</crossref>
+<url>db/conf/iros/iros2022.html#CaiLH22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ndss/LiCCLX0L0X22" mdate="2023-06-15">
+<author pid="217/8466">Zhengxiong Li</author>
+<author pid="134/1201">Baicheng Chen</author>
+<author pid="59/7651">Xingyu Chen</author>
+<author pid="204/1605">Huining Li</author>
+<author pid="183/1735">Chenhan Xu</author>
+<author pid="75/2611-4">Feng Lin 0004</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="20/6179-1">Kui Ren 0001</author>
+<author pid="11/6689">Wenyao Xu</author>
+<title>SpiralSpy: Exploring a Stealthy and Practical Covert Channel to Attack Air-gapped Computing Devices via mmWave Sensing.</title>
+<year>2022</year>
+<booktitle>NDSS</booktitle>
+<ee type="oa">https://www.ndss-symposium.org/ndss-paper/auto-draft-219/</ee>
+<crossref>conf/ndss/2022</crossref>
+<url>db/conf/ndss/ndss2022.html#LiCCLX0L0X22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/secon/LiLWJL22" mdate="2024-10-06">
+<author pid="17/5705">Hao Li</author>
+<author orcid="0000-0001-9804-3727" pid="207/1798">Ruofeng Liu</author>
+<author pid="42/1503-8">Shuai Wang 0008</author>
+<author pid="55/7618">Wenchao Jiang</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Pedestrian Liveness Detection Based on mmWave Radar and Camera Fusion.</title>
+<pages>262-270</pages>
+<year>2022</year>
+<booktitle>SECON</booktitle>
+<ee>https://doi.org/10.1109/SECON55815.2022.9918553</ee>
+<crossref>conf/secon/2022</crossref>
+<url>db/conf/secon/secon2022.html#LiLWJL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/0002T0L22" mdate="2025-09-06">
+<author pid="57/1273-2">Zhenyu Yan 0002</author>
+<author pid="00/5179-1">Rui Tan 0001</author>
+<author orcid="0000-0002-3611-9404" pid="29/4368-1">Qun Song 0001</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Telesonar: Robocall Alarm System by Detecting Echo Channel and Breath Timing.</title>
+<pages>61-74</pages>
+<year>2022</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3560905.3568500</ee>
+<crossref>conf/sensys/2022</crossref>
+<url>db/conf/sensys/sensys2022.html#0002T0L22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-01137" mdate="2024-10-06">
+<author pid="249/5356">Fangqiang Ding</author>
+<author pid="314/9873">Zhijun Pan</author>
+<author pid="17/7396">Yimin Deng</author>
+<author pid="305/9193">Jianning Deng</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Self-Supervised Scene Flow Estimation with 4D Automotive Radar.</title>
+<year>2022</year>
+<volume>abs/2203.01137</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.01137</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-01137</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-01851" mdate="2024-10-06">
+<author pid="267/0681">Kaiwen Cai</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="60/5414-1">Xiaowei Huang 0001</author>
+<title>STUN: Self-Teaching Uncertainty Estimation for Place Recognition.</title>
+<year>2022</year>
+<volume>abs/2203.01851</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.01851</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-01851</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-01589" mdate="2024-10-06">
+<author pid="254/1325">Peize Li</author>
+<author pid="267/0681">Kaiwen Cai</author>
+<author pid="172/7604">Muhamad Risqi Utama Saputra</author>
+<author pid="267/4598">Zhuangzhuang Dai</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum.</title>
+<year>2022</year>
+<volume>abs/2206.01589</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.01589</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-01589</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-07859" mdate="2025-12-04">
+<author pid="06/5852">Jianfei Yang</author>
+<author pid="318/1400-2">Xinyan Chen 0002</author>
+<author pid="283/2872">Dazhuo Wang</author>
+<author pid="147/5139">Han Zou</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="46/3348">Sumei Sun</author>
+<author orcid="0000-0002-7137-4136" pid="40/2499">Lihua Xie 0001</author>
+<title>Deep Learning and Its Applications to WiFi Human Sensing: A Benchmark and A Tutorial.</title>
+<year>2022</year>
+<volume>abs/2207.07859</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.07859</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-07859</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-07896" mdate="2024-10-06">
+<author pid="324/4699">Dongjiang Cao</author>
+<author pid="207/1798">Ruofeng Liu</author>
+<author pid="17/5705">Hao Li</author>
+<author pid="42/1503-8">Shuai Wang 0008</author>
+<author pid="55/7618">Wenchao Jiang</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Cross Vision-RF Gait Re-identification with Low-cost RGB-D Cameras and mmWave Radars.</title>
+<year>2022</year>
+<volume>abs/2207.07896</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.07896</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-07896</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-14326" mdate="2025-10-14">
+<author pid="327/9288">Lang Deng</author>
+<author pid="06/5852">Jianfei Yang</author>
+<author orcid="0009-0003-1887-6342" pid="133/3411">Shenghai Yuan</author>
+<author pid="147/5139">Han Zou</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0002-7137-4136" pid="40/2499">Lihua Xie 0001</author>
+<title>GaitFi: Robust Device-Free Human Identification via WiFi and Vision Multimodal Learning.</title>
+<year>2022</year>
+<volume>abs/2208.14326</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.14326</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-14326</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-14602" mdate="2024-10-06">
+<author pid="267/0681">Kaiwen Cai</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="60/5414-1">Xiaowei Huang 0001</author>
+<title>Exploring Cross-Point Embeddings for 3D Dense Uncertainty Estimation.</title>
+<year>2022</year>
+<volume>abs/2209.14602</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.14602</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-14602</url>
+</article>
+</r>
+<r><article key="journals/adhoc/ZhaoLWCWTM21" mdate="2024-10-06">
+<author pid="166/6002">Peijun Zhao</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="49/6053">Jianan Wang</author>
+<author pid="215/3933">Changhao Chen</author>
+<author pid="35/7092-226">Wei Wang 0226</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>Human tracking and identification through a millimeter wave radar.</title>
+<pages>102475</pages>
+<year>2021</year>
+<volume>116</volume>
+<journal>Ad Hoc Networks</journal>
+<ee>https://doi.org/10.1016/j.adhoc.2021.102475</ee>
+<url>db/journals/adhoc/adhoc116.html#ZhaoLWCWTM21</url>
+</article>
+</r>
+<r><article key="journals/tmc/ChenLWMT21" mdate="2023-08-28">
+<author orcid="0000-0002-8341-6399" pid="215/3933">Changhao Chen</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0003-2058-0834" pid="128/7583">Johan Wahlstr&#246;m</author>
+<author pid="83/7169">Andrew Markham</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Deep Neural Network Based Inertial Odometry Using Low-Cost Inertial Measurement Units.</title>
+<pages>1351-1364</pages>
+<year>2021</year>
+<volume>20</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TMC.2019.2960780</ee>
+<ee>https://www.wikidata.org/entity/Q114191846</ee>
+<url>db/journals/tmc/tmc20.html#ChenLWMT21</url>
+</article>
+</r>
+<r><article key="journals/tnn/ChenLWTM21" mdate="2025-03-03">
+<author orcid="0000-0002-8341-6399" pid="215/3933">Changhao Chen</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0003-0977-0426" pid="06/1909-13">Bing Wang 0013</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>DynaNet: Neural Kalman Dynamical Model for Motion Estimation and Prediction.</title>
+<pages>5479-5491</pages>
+<year>2021</year>
+<volume>32</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TNNLS.2021.3112460</ee>
+<url>db/journals/tnn/tnn32.html#ChenLWTM21</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccv/0013CCQLYZD0TM21" mdate="2025-12-02">
+<author orcid="0000-0003-0977-0426" pid="06/1909-13">Bing Wang 0013</author>
+<author pid="215/3933">Changhao Chen</author>
+<author pid="28/7484">Zhaopeng Cui</author>
+<author pid="30/5781-4">Jie Qin 0004</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="286/8249">Zhengdi Yu</author>
+<author pid="166/6002">Peijun Zhao</author>
+<author pid="60/1749-5">Zhen Dong 0005</author>
+<author pid="96/2445-1">Fan Zhu 0001</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>P2-Net: Joint Description and Detection of Local Features for Pixel and Point Matching.</title>
+<pages>15984-15993</pages>
+<year>2021</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV48922.2021.01570</ee>
+<crossref>conf/iccv/2021</crossref>
+<url>db/conf/iccv/iccv2021.html#0013CCQLYZD0TM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/ZhaoL0TM21" mdate="2025-03-03">
+<author pid="166/6002">Peijun Zhao</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0003-0977-0426" pid="06/1909-13">Bing Wang 0013</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>3D Motion Capture of an Unmodified Drone with Single-chip Millimeter Wave Radar.</title>
+<pages>5186-5192</pages>
+<year>2021</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA48506.2021.9561738</ee>
+<crossref>conf/icra/2021</crossref>
+<url>db/conf/icra/icra2021.html#ZhaoL0TM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/DengCL21" mdate="2024-12-04">
+<author pid="305/9193">Jianning Deng</author>
+<author pid="267/0681">Kaiwen Cai</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Can Image Style Transfer Save Automotive Radar?</title>
+<pages>391-392</pages>
+<year>2021</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3485730.3492888</ee>
+<crossref>conf/sensys/2021</crossref>
+<url>db/conf/sensys/sensys2021.html#DengCL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/LiL21" mdate="2024-12-04">
+<author pid="254/1325">Peize Li</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Motion Tracklet Oriented 6-DoF Inertial Tracking Using Commodity Smartphones.</title>
+<pages>542-545</pages>
+<year>2021</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3485730.3494116</ee>
+<crossref>conf/sensys/2021</crossref>
+<url>db/conf/sensys/sensys2021.html#LiL21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-07061" mdate="2021-01-22">
+<author pid="269/9996">Rooholla Khorrambakht</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="270/0010">Hamed Damirchi</author>
+<author pid="03/7457">Zhenghua Chen</author>
+<author pid="46/4171">Zhengguo Li</author>
+<title>Deep Inertial Odometry with Accurate IMU Preintegration.</title>
+<year>2021</year>
+<volume>abs/2101.07061</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.07061</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-07061</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-01055" mdate="2025-12-02">
+<author pid="06/1909-13">Bing Wang 0013</author>
+<author pid="215/3933">Changhao Chen</author>
+<author pid="28/7484">Zhaopeng Cui</author>
+<author pid="30/5781-4">Jie Qin 0004</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="286/8249">Zhengdi Yu</author>
+<author pid="166/6002">Peijun Zhao</author>
+<author pid="60/1749-5">Zhen Dong 0005</author>
+<author pid="96/2445-1">Fan Zhu 0001</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>P2-Net: Joint Description and Detection of Local Features for Pixel and Point Matching.</title>
+<year>2021</year>
+<volume>abs/2103.01055</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.01055</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-01055</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-07196" mdate="2022-06-13">
+<author pid="172/7604">Muhamad Risqi Utama Saputra</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="88/10808">Pedro P. B. de Gusmao</author>
+<author pid="06/1909-13">Bing Wang 0013</author>
+<author pid="83/7169">Andrew Markham</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Graph-based Thermal-Inertial SLAM with Probabilistic Neural Networks.</title>
+<year>2021</year>
+<volume>abs/2104.07196</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.07196</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-07196</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2109-08652" mdate="2021-09-22">
+<author pid="267/0681">Kaiwen Cai</author>
+<author pid="06/1909-13">Bing Wang 0013</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>AutoPlace: Robust Place Recognition with Low-cost Single-chip Automotive Radar.</title>
+<year>2021</year>
+<volume>abs/2109.08652</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2109.08652</ee>
+<url>db/journals/corr/corr2109.html#abs-2109-08652</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-03976" mdate="2021-11-10">
+<author pid="166/6002">Peijun Zhao</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="06/1909-13">Bing Wang 0013</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>CubeLearn: End-to-end Learning for Human Motion Recognition from Raw mmWave Radar Signals.</title>
+<year>2021</year>
+<volume>abs/2111.03976</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.03976</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-03976</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-02469" mdate="2022-06-13">
+<author pid="195/2701">Jialu Wang</author>
+<author pid="172/7604">Muhamad Risqi Utama Saputra</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="308/0960">Niki Trigon</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather.</title>
+<year>2021</year>
+<volume>abs/2112.02469</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.02469</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-02469</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-05665" mdate="2022-06-13">
+<author pid="267/4598">Zhuangzhuang Dai</author>
+<author pid="172/7604">Muhamad Risqi Utama Saputra</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="83/7169">Andrew Markham</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Deep Odometry Systems on Edge with EKF-LoRa Backend for Real-Time Positioning in Adverse Environment.</title>
+<year>2021</year>
+<volume>abs/2112.05665</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.05665</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-05665</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-13937" mdate="2022-01-04">
+<author pid="241/7909">Dongge Han</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="69/391">Tomasz P. Michalak</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Multiagent Model-based Credit Assignment for Continuous Control.</title>
+<year>2021</year>
+<volume>abs/2112.13937</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.13937</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-13937</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-14887" mdate="2022-01-05">
+<author pid="309/8348">Pengen Gao</author>
+<author pid="24/9532">Shengkai Zhang</author>
+<author pid="35/7092-50">Wei Wang 0050</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<title>Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation.</title>
+<year>2021</year>
+<volume>abs/2112.14887</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.14887</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-14887</url>
+</article>
+</r>
+<r><article key="journals/iotj/ChenZLWMT20" mdate="2023-08-28">
+<author orcid="0000-0002-8341-6399" pid="215/3933">Changhao Chen</author>
+<author pid="166/6002">Peijun Zhao</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0002-6992-8531" pid="35/7092-226">Wei Wang 0226</author>
+<author pid="83/7169">Andrew Markham</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Deep-Learning-Based Pedestrian Inertial Navigation: Methods, Data Set, and On-Device Inference.</title>
+<pages>4431-4441</pages>
+<year>2020</year>
+<volume>7</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/JIOT.2020.2966773</ee>
+<ee>https://www.wikidata.org/entity/Q114191860</ee>
+<url>db/journals/iotj/iotj7.html#ChenZLWMT20</url>
+</article>
+</r>
+<r><article key="journals/ral/SaputraTGLARCWW20" mdate="2023-08-28">
+<author orcid="0000-0001-6067-630X" pid="172/7604">Muhamad Risqi Utama Saputra</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="88/10808">Pedro P. B. de Gusmao</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0002-9251-7853" pid="200/7940">Yasin Almalioglu</author>
+<author orcid="0000-0001-6458-6344" pid="77/9807">Stefano Rosa</author>
+<author orcid="0000-0002-8341-6399" pid="215/3933">Changhao Chen</author>
+<author orcid="0000-0003-2058-0834" pid="128/7583">Johan Wahlstr&#246;m</author>
+<author orcid="0000-0002-6992-8531" pid="35/7092-226">Wei Wang 0226</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>DeepTIO: A Deep Thermal-Inertial Odometry With Visual Hallucination.</title>
+<pages>1672-1679</pages>
+<year>2020</year>
+<volume>5</volume>
+<journal>IEEE Robotics Autom. Lett.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/LRA.2020.2969170</ee>
+<ee>https://www.wikidata.org/entity/Q114191865</ee>
+<url>db/journals/ral/ral5.html#SaputraTGLARCWW20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/WangCLZTM20" mdate="2023-10-21">
+<author pid="06/1909-13">Bing Wang 0013</author>
+<author pid="215/3933">Changhao Chen</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="166/6002">Peijun Zhao</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>AtLoc: Attention Guided Camera Localization.</title>
+<pages>10393-10401</pages>
+<year>2020</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v34i06.6608</ee>
+<ee>https://www.wikidata.org/entity/Q114191867</ee>
+<crossref>conf/aaai/2020</crossref>
+<url>db/conf/aaai/aaai2020.html#WangCLZTM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/ZhaoLWCXWTM20" mdate="2025-03-03">
+<author pid="166/6002">Peijun Zhao</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0003-0977-0426" pid="06/1909-13">Bing Wang 0013</author>
+<author pid="215/3933">Changhao Chen</author>
+<author pid="202/1741">Linhai Xie</author>
+<author pid="179/8319">Mengyu Wang</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>Heart Rate Sensing with a Robot Mounted mmWave Radar.</title>
+<pages>2812-2818</pages>
+<year>2020</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA40945.2020.9197437</ee>
+<ee>https://www.wikidata.org/entity/Q114191862</ee>
+<crossref>conf/icra/2020</crossref>
+<url>db/conf/icra/icra2020.html#ZhaoLWCXWTM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobisys/LuRZWCSTM20" mdate="2024-10-06">
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0001-6458-6344" pid="77/9807">Stefano Rosa</author>
+<author pid="166/6002">Peijun Zhao</author>
+<author orcid="0000-0003-0977-0426" pid="06/1909-13">Bing Wang 0013</author>
+<author pid="215/3933">Changhao Chen</author>
+<author pid="s/JohnAStankovic">John A. Stankovic</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>See through smoke: robust indoor mapping with low-cost mmWave radar.</title>
+<pages>14-27</pages>
+<year>2020</year>
+<booktitle>MobiSys</booktitle>
+<ee>https://doi.org/10.1145/3386901.3388945</ee>
+<ee>https://www.wikidata.org/entity/Q114191858</ee>
+<crossref>conf/mobisys/2020</crossref>
+<url>db/conf/mobisys/mobisys2020.html#LuRZWCSTM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/LuSZAGC0TM20" mdate="2024-10-06">
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0001-6067-630X" pid="172/7604">Muhamad Risqi Utama Saputra</author>
+<author pid="166/6002">Peijun Zhao</author>
+<author pid="200/7940">Yasin Almalioglu</author>
+<author pid="88/10808">Pedro P. B. de Gusmao</author>
+<author pid="215/3933">Changhao Chen</author>
+<author orcid="0000-0001-9563-1398" pid="69/476-12">Ke Sun 0012</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>milliEgo: single-chip mmWave radar aided egomotion estimation via deep sensor fusion.</title>
+<pages>109-122</pages>
+<year>2020</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3384419.3430776</ee>
+<ee>https://www.wikidata.org/entity/Q114191854</ee>
+<crossref>conf/sensys/2020</crossref>
+<url>db/conf/sensys/sensys2020.html#LuSZAGC0TM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/DaiSLTM20" mdate="2024-10-06">
+<author orcid="0000-0002-6098-115X" pid="267/4598">Zhuangzhuang Dai</author>
+<author orcid="0000-0001-6067-630X" pid="172/7604">Muhamad Risqi Utama Saputra</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>Indoor positioning system in visually-degraded environments with millimetre-wave radar and inertial sensors: demo abstract.</title>
+<pages>623-624</pages>
+<year>2020</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3384419.3430421</ee>
+<ee>https://www.wikidata.org/entity/Q114191853</ee>
+<crossref>conf/sensys/2020</crossref>
+<url>db/conf/sensys/sensys2020.html#DaiSLTM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/Lu0XL20" mdate="2024-10-06">
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0003-0132-2127" pid="37/4190-73">Yang Li 0073</author>
+<author pid="186/4450">Yuanbo Xiangli</author>
+<author pid="217/8466">Zhengxiong Li</author>
+<title>Nowhere to Hide: Cross-modal Identity Leakage between Biometrics and Devices.</title>
+<pages>212-223</pages>
+<year>2020</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3366423.3380108</ee>
+<crossref>conf/www/2020</crossref>
+<url>db/conf/www/www2020.html#Lu0XL20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-04061" mdate="2020-03-31">
+<author pid="215/3933">Changhao Chen</author>
+<author pid="166/6002">Peijun Zhao</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="35/7092-226">Wei Wang 0226</author>
+<author pid="83/7169">Andrew Markham</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Deep Learning based Pedestrian Inertial Navigation: Methods, Dataset and On-Device Inference.</title>
+<year>2020</year>
+<volume>abs/2001.04061</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.04061</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-04061</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-08211" mdate="2020-02-12">
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="37/4190-73">Yang Li 0073</author>
+<author pid="186/4450">Yuanbo Xiangli</author>
+<author pid="217/8466">Zhengxiong Li</author>
+<title>Nowhere to Hide: Cross-modal Identity Leakage between Biometrics and Devices.</title>
+<year>2020</year>
+<volume>abs/2001.08211</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.08211</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-08211</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-02266" mdate="2022-06-13">
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="172/7604">Muhamad Risqi Utama Saputra</author>
+<author pid="166/6002">Peijun Zhao</author>
+<author pid="200/7940">Yasin Almalioglu</author>
+<author pid="88/10808">Pedro P. B. de Gusmao</author>
+<author pid="215/3933">Changhao Chen</author>
+<author pid="69/476-12">Ke Sun 0012</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>milliEgo: mmWave Aided Egomotion Estimation with Deep Sensor Fusion.</title>
+<year>2020</year>
+<volume>abs/2006.02266</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.02266</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-02266</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-12567" mdate="2021-01-26">
+<author pid="215/3933">Changhao Chen</author>
+<author orcid="0000-0003-0977-0426" pid="06/1909-13">Bing Wang 0013</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>A Survey on Deep Learning for Localization and Mapping: Towards the Age of Spatial Machine Intelligence.</title>
+<year>2020</year>
+<volume>abs/2006.12567</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.12567</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-12567</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-13750" mdate="2022-06-13">
+<author pid="267/4598">Zhuangzhuang Dai</author>
+<author pid="172/7604">Muhamad Risqi Utama Saputra</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>Demo Abstract: Indoor Positioning System in Visually-Degraded Environments with Millimetre-Wave Radar and Inertial Sensors.</title>
+<year>2020</year>
+<volume>abs/2010.13750</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.13750</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-13750</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-06730" mdate="2020-11-18">
+<author pid="166/6002">Peijun Zhao</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="06/1909-13">Bing Wang 0013</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>3-D Motion Capture of an Unmodified Drone with Single-chip Millimeter Wave Radar.</title>
+<year>2020</year>
+<volume>abs/2011.06730</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.06730</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-06730</url>
+</article>
+</r>
+<r><article key="journals/iotj/LuXZCTM19" mdate="2023-08-28">
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="186/4450">Yuanbo Xiangli</author>
+<author pid="166/6002">Peijun Zhao</author>
+<author orcid="0000-0002-8341-6399" pid="215/3933">Changhao Chen</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>Autonomous Learning of Speaker Identity and WiFi Geofence From Noisy Sensor Data.</title>
+<pages>8284-8295</pages>
+<year>2019</year>
+<volume>6</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/JIOT.2019.2926645</ee>
+<ee>https://www.wikidata.org/entity/Q114191873</ee>
+<url>db/journals/iotj/iotj6.html#LuXZCTM19</url>
+</article>
+</r>
+<r><article key="journals/thms/RosaPLT19" mdate="2024-10-06">
+<author orcid="0000-0001-6458-6344" pid="77/9807">Stefano Rosa</author>
+<author pid="169/0621">Andrea Patane</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Semantic Place Understanding for Human-Robot Coexistence - Toward Intelligent Workplaces.</title>
+<pages>160-170</pages>
+<year>2019</year>
+<volume>49</volume>
+<journal>IEEE Trans. Hum. Mach. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/THMS.2018.2875079</ee>
+<ee>https://www.wikidata.org/entity/Q114191891</ee>
+<url>db/journals/thms/thms49.html#RosaPLT19</url>
+</article>
+</r>
+<r><article key="journals/tmc/WenCWLDHT19" mdate="2025-01-17">
+<author orcid="0000-0003-1159-090X" pid="55/7703">Hongkai Wen 0001</author>
+<author orcid="0000-0002-6344-5299" pid="138/3006">Ronald Clark</author>
+<author orcid="0000-0003-1537-8834" pid="69/6403-2">Sen Wang 0002</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Xiaoxuan Lu 0001</author>
+<author orcid="0000-0002-3755-4870" pid="94/4213-2">Bowen Du 0002</author>
+<author orcid="0000-0002-4076-1811" pid="01/6410-1">Wen Hu 0001</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Efficient Indoor Positioning with Visual Experiences via Lifelong Learning.</title>
+<pages>814-829</pages>
+<year>2019</year>
+<volume>18</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TMC.2018.2852645</ee>
+<ee>https://www.wikidata.org/entity/Q114191892</ee>
+<url>db/journals/tmc/tmc18.html#WenCWLDHT19</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ChenMLXBMT19" mdate="2023-08-28">
+<author pid="215/3933">Changhao Chen</author>
+<author pid="122/3274">Yishu Miao</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="202/1741">Linhai Xie</author>
+<author pid="96/4705">Phil Blunsom</author>
+<author pid="83/7169">Andrew Markham</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>MotionTransformer: Transferring Neural Inertial Tracking between Domains.</title>
+<pages>8009-8016</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v33i01.33018009</ee>
+<ee>https://www.wikidata.org/entity/Q114191877</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenMLXBMT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ChenRMLWMT19" mdate="2024-10-06">
+<author pid="215/3933">Changhao Chen</author>
+<author orcid="0000-0001-6458-6344" pid="77/9807">Stefano Rosa</author>
+<author pid="122/3274">Yishu Miao</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="95/6985">Wei Wu</author>
+<author pid="83/7169">Andrew Markham</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Selective Sensor Fusion for Neural Visual-Inertial Odometry.</title>
+<pages>10542-10551</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Selective_Sensor_Fusion_for_Neural_Visual-Inertial_Odometry_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.01079</ee>
+<ee>https://www.wikidata.org/entity/Q114191879</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#ChenRMLWMT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dcoss/ZhaoLWCWTM19" mdate="2024-10-06">
+<author pid="166/6002">Peijun Zhao</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="49/6053">Jianan Wang</author>
+<author pid="215/3933">Changhao Chen</author>
+<author pid="35/7092-226">Wei Wang 0226</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>mID: Tracking and Identifying People with Millimeter Wave Radar.</title>
+<pages>33-40</pages>
+<year>2019</year>
+<booktitle>DCOSS</booktitle>
+<ee>https://doi.org/10.1109/DCOSS.2019.00028</ee>
+<ee>https://www.wikidata.org/entity/Q114191888</ee>
+<crossref>conf/dcoss/2019</crossref>
+<url>db/conf/dcoss/dcoss2019.html#ZhaoLWCWTM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/huc/XiangliLZCM19" mdate="2024-10-06">
+<author pid="186/4450">Yuanbo Xiangli</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="166/6002">Peijun Zhao</author>
+<author pid="215/3933">Changhao Chen</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>iSCAN: automatic speaker adaptation via iterative cross-modality association.</title>
+<pages>529-533</pages>
+<year>2019</year>
+<booktitle>UbiComp/ISWC Adjunct</booktitle>
+<ee>https://doi.org/10.1145/3341162.3344858</ee>
+<crossref>conf/huc/2019ap</crossref>
+<url>db/conf/huc/ubicomp2019ap.html#XiangliLZCM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcn/DuLKWLHLKSW19" mdate="2024-10-06">
+<author pid="94/4213-2">Bowen Du 0002</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="211/5244">Xuan Kan</author>
+<author pid="94/4728">Kai Wu</author>
+<author pid="44/10036-1">Man Luo 0001</author>
+<author pid="65/1309">Jianfeng Hou</author>
+<author orcid="0000-0002-0517-2392" pid="199/3954">Kai Li 0002</author>
+<author orcid="0000-0002-1835-3475" pid="42/840">Salil S. Kanhere</author>
+<author pid="71/11188-1">Yiran Shen 0001</author>
+<author pid="55/7703">Hongkai Wen 0001</author>
+<title>HydraDoctor: real-time liquids intake monitoring by collaborative sensing.</title>
+<pages>213-217</pages>
+<year>2019</year>
+<booktitle>ICDCN</booktitle>
+<ee>https://doi.org/10.1145/3288599.3288635</ee>
+<crossref>conf/icdcn/2019</crossref>
+<url>db/conf/icdcn/icdcn2019.html#DuLKWLHLKSW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/LuKDC0MTS19" mdate="2024-10-06">
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="211/5244">Xuan Kan</author>
+<author pid="94/4213-2">Bowen Du 0002</author>
+<author pid="215/3933">Changhao Chen</author>
+<author pid="55/7703">Hongkai Wen 0001</author>
+<author pid="83/7169">Andrew Markham</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="s/JohnAStankovic">John A. Stankovic</author>
+<title>Autonomous Learning for Face Recognition in the Wild via Ambient Wireless Cues.</title>
+<pages>1175-1186</pages>
+<year>2019</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3308558.3313398</ee>
+<ee>https://www.wikidata.org/entity/Q114191882</ee>
+<crossref>conf/www/2019</crossref>
+<url>db/conf/www/www2019.html#LuKDC0MTS19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-01534" mdate="2019-03-30">
+<author pid="215/3933">Changhao Chen</author>
+<author pid="77/9807">Stefano Rosa</author>
+<author pid="122/3274">Yishu Miao</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="95/6985">Wei Wu</author>
+<author pid="83/7169">Andrew Markham</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Selective Sensor Fusion for Neural Visual-Inertial Odometry.</title>
+<year>2019</year>
+<volume>abs/1903.01534</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.01534</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-01534</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-03918" mdate="2021-01-26">
+<author pid="215/3933">Changhao Chen</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0003-0977-0426" pid="06/1909-13">Bing Wang 0013</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>DynaNet: Neural Kalman Dynamical Model for Motion Estimation and Prediction.</title>
+<year>2019</year>
+<volume>abs/1908.03918</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.03918</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-03918</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-09002" mdate="2022-03-15">
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="211/5244">Xuan Kan</author>
+<author pid="94/4213-2">Bowen Du 0002</author>
+<author pid="215/3933">Changhao Chen</author>
+<author pid="55/7703">Hongkai Wen 0001</author>
+<author pid="83/7169">Andrew Markham</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="s/JohnAStankovic">John A. Stankovic</author>
+<title>Autonomous Learning for Face Recognition in the Wild via Ambient Wireless Cues.</title>
+<year>2019</year>
+<volume>abs/1908.09002</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.09002</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-09002</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-03557" mdate="2021-01-23">
+<author orcid="0000-0003-0977-0426" pid="06/1909-13">Bing Wang 0013</author>
+<author pid="215/3933">Changhao Chen</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="166/6002">Peijun Zhao</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>AtLoc: Attention Guided Camera Localization.</title>
+<year>2019</year>
+<volume>abs/1909.03557</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.03557</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-03557</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-05774" mdate="2019-09-18">
+<author pid="200/7940">Yasin Almalioglu</author>
+<author pid="138/6295">Mehmet Turan</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>Milli-RIO: Ego-Motion Estimation with Millimetre-Wave Radar and Inertial Measurement Unit Sensor.</title>
+<year>2019</year>
+<volume>abs/1909.05774</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.05774</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-05774</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-07231" mdate="2022-06-13">
+<author pid="172/7604">Muhamad Risqi Utama Saputra</author>
+<author pid="88/10808">Pedro P. B. de Gusmao</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="200/7940">Yasin Almalioglu</author>
+<author pid="77/9807">Stefano Rosa</author>
+<author pid="215/3933">Changhao Chen</author>
+<author pid="128/7583">Johan Wahlstr&#246;m</author>
+<author pid="35/7092-226">Wei Wang 0226</author>
+<author pid="83/7169">Andrew Markham</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination.</title>
+<year>2019</year>
+<volume>abs/1909.07231</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.07231</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-07231</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-04836" mdate="2022-03-15">
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="94/4213-2">Bowen Du 0002</author>
+<author pid="55/7703">Hongkai Wen 0001</author>
+<author pid="69/6403-2">Sen Wang 0002</author>
+<author pid="83/7169">Andrew Markham</author>
+<author pid="87/2623">Ivan Martinovic</author>
+<author pid="71/11188-1">Yiran Shen 0001</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Snoopy: Sniffing Your Smartwatch Passwords via Deep Sequence Learning.</title>
+<year>2019</year>
+<volume>abs/1912.04836</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.04836</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-04836</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-13077" mdate="2020-01-04">
+<author pid="215/3933">Changhao Chen</author>
+<author pid="77/9807">Stefano Rosa</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="83/7169">Andrew Markham</author>
+<title>SelectFusion: A Generic Framework to Selectively Learn Multisensory Fusion.</title>
+<year>2019</year>
+<volume>abs/1912.13077</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.13077</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-13077</url>
+</article>
+</r>
+<r><phdthesis key="phd/ethos/Lu18b" mdate="2022-04-05">
+<author pid="154/4313">Xiaoxuan Lu 0001</author>
+<title>Robustly inferring identity across digital and physical worlds.</title>
+<year>2018</year>
+<school>University of Oxford, UK</school>
+<ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.772559</ee>
+<ee>http://ora.ox.ac.uk/objects/uuid:c29bd383-e6ba-4669-b070-2afd785b739e</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/aaai/ChenLMT18" mdate="2023-09-04">
+<author pid="215/3933">Changhao Chen</author>
+<author pid="154/4313">Xiaoxuan Lu 0001</author>
+<author pid="83/7169">Andrew Markham</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>IONet: Learning to Cure the Curse of Drift in Inertial Odometry.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v32i1.12102</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ChenLMT18</url>
+<pages>6468-6476</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/YangLLLWMT18" mdate="2024-10-06">
+<author orcid="0000-0002-2419-4140" pid="46/999-27">Bo Yang 0027</author>
+<author pid="227/2343">Zihang Lai</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Xiaoxuan Lu 0001</author>
+<author pid="195/9823">Shuyu Lin</author>
+<author pid="55/7703">Hongkai Wen 0001</author>
+<author pid="83/7169">Andrew Markham</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Learning 3D Scene Semantics and Structure From a Single Depth Image.</title>
+<pages>309-312</pages>
+<year>2018</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018_workshops/w9/html/Yang_Learning_3D_Scene_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW.2018.00069</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPRW.2018.00069</ee>
+<ee>https://www.wikidata.org/entity/Q114191906</ee>
+<crossref>conf/cvpr/2018w</crossref>
+<url>db/conf/cvpr/cvprw2018.html#YangLLLWMT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/huc/LuDZWSMT18" mdate="2024-10-06">
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="94/4213-2">Bowen Du 0002</author>
+<author pid="166/6002">Peijun Zhao</author>
+<author orcid="0000-0003-1159-090X" pid="55/7703">Hongkai Wen 0001</author>
+<author pid="71/11188-1">Yiran Shen 0001</author>
+<author pid="83/7169">Andrew Markham</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Deepauth: in-situ authentication for smartwatches via deeply learned behavioural biometrics.</title>
+<pages>204-207</pages>
+<year>2018</year>
+<booktitle>UbiComp</booktitle>
+<ee>https://doi.org/10.1145/3267242.3267252</ee>
+<ee>https://www.wikidata.org/entity/Q114191897</ee>
+<crossref>conf/huc/2018</crossref>
+<url>db/conf/huc/ubicomp2018.html#LuDZWSMT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/LuLZCXWTT18" mdate="2024-10-06">
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="37/4190-147">Yang Li 0147</author>
+<author pid="166/6002">Peijun Zhao</author>
+<author pid="215/3933">Changhao Chen</author>
+<author pid="202/1741">Linhai Xie</author>
+<author orcid="0000-0003-1159-090X" pid="55/7703">Hongkai Wen 0001</author>
+<author pid="00/5179-1">Rui Tan 0001</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Simultaneous Localization and Mapping with Power Network Electromagnetic Field.</title>
+<pages>607-622</pages>
+<year>2018</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3241539.3241540</ee>
+<ee>https://www.wikidata.org/entity/Q114191902</ee>
+<crossref>conf/mobicom/2018</crossref>
+<url>db/conf/mobicom/mobicom2018.html#LuLZCXWTT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobisys/RosaPLT18" mdate="2024-10-06">
+<author orcid="0000-0001-6458-6344" pid="77/9807">Stefano Rosa</author>
+<author pid="169/0621">Andrea Patan&#232;</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Xiaoxuan Lu 0001</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>CommonSense: Collaborative learning of scene semantics by robots and humans.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>IoPARTS@MobiSys</booktitle>
+<ee>https://doi.org/10.1145/3215525.3215526</ee>
+<ee>https://www.wikidata.org/entity/Q114191896</ee>
+<crossref>conf/mobisys/2018ioparts</crossref>
+<url>db/conf/mobisys/ioparts2018.html#RosaPLT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/LuZDWMRT18" mdate="2024-12-04">
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="166/6002">Peijun Zhao</author>
+<author pid="94/4213-2">Bowen Du 0002</author>
+<author orcid="0000-0003-1159-090X" pid="55/7703">Hongkai Wen 0001</author>
+<author pid="83/7169">Andrew Markham</author>
+<author orcid="0000-0001-6458-6344" pid="77/9807">Stefano Rosa</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Automatic Face Recognition Adaptation via Ambient Wireless Identifiers.</title>
+<pages>377-378</pages>
+<year>2018</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3274783.3275191</ee>
+<ee>https://www.wikidata.org/entity/Q114191903</ee>
+<crossref>conf/sensys/2018</crossref>
+<url>db/conf/sensys/sensys2018.html#LuZDWMRT18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-02209" mdate="2019-03-12">
+<author pid="215/3933">Changhao Chen</author>
+<author pid="154/4313">Xiaoxuan Lu 0001</author>
+<author pid="83/7169">Andrew Markham</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>IONet: Learning to Cure the Curse of Drift in Inertial Odometry.</title>
+<year>2018</year>
+<volume>abs/1802.02209</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.02209</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-02209</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-07491" mdate="2020-03-31">
+<author pid="215/3933">Changhao Chen</author>
+<author pid="166/6002">Peijun Zhao</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="35/7092-226">Wei Wang 0226</author>
+<author pid="83/7169">Andrew Markham</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>OxIOD: The Dataset for Deep Inertial Odometry.</title>
+<year>2018</year>
+<volume>abs/1809.07491</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.07491</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-07491</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-02076" mdate="2019-03-12">
+<author pid="215/3933">Changhao Chen</author>
+<author pid="122/3274">Yishu Miao</author>
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="96/4705">Phil Blunsom</author>
+<author pid="83/7169">Andrew Markham</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Transferring Physical Motion Between Domains for Neural Inertial Tracking.</title>
+<year>2018</year>
+<volume>abs/1810.02076</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.02076</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-02076</url>
+</article>
+</r>
+<r><article key="journals/imwut/LuDWWMMST17" mdate="2023-08-28">
+<author pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="94/4213-2">Bowen Du 0002</author>
+<author orcid="0000-0003-1159-090X" pid="55/7703">Hongkai Wen 0001</author>
+<author pid="69/6403-2">Sen Wang 0002</author>
+<author pid="83/7169">Andrew Markham</author>
+<author pid="87/2623">Ivan Martinovic</author>
+<author pid="71/11188-1">Yiran Shen 0001</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Snoopy: Sniffing Your Smartwatch Passwords via Deep Sequence Learning.</title>
+<pages>152:1-152:29</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3161196</ee>
+<ee>https://www.wikidata.org/entity/Q114191916</ee>
+<url>db/journals/imwut/imwut1.html#LuDWWMMST17</url>
+</article>
+</r>
+<r><inproceedings key="conf/hri/RosaLWT17" mdate="2024-10-06">
+<author orcid="0000-0001-6458-6344" pid="77/9807">Stefano Rosa</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Xiaoxuan Lu 0001</author>
+<author orcid="0000-0003-1159-090X" pid="55/7703">Hongkai Wen 0001</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Leveraging User Activities and Mobile Robots for Semantic Mapping and User Localization.</title>
+<pages>267-268</pages>
+<year>2017</year>
+<booktitle>HRI (Companion)</booktitle>
+<ee>https://doi.org/10.1145/3029798.3038343</ee>
+<ee>https://www.wikidata.org/entity/Q114192897</ee>
+<crossref>conf/hri/2017c</crossref>
+<url>db/conf/hri/hri2017c.html#RosaLWT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipsn/LuWWMT17" mdate="2024-10-06">
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author orcid="0000-0003-1159-090X" pid="55/7703">Hongkai Wen 0001</author>
+<author orcid="0000-0003-1537-8834" pid="69/6403-2">Sen Wang 0002</author>
+<author orcid="0000-0001-5716-3941" pid="83/7169">Andrew Markham</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>SCAN: learning speaker identity from noisy sensor data.</title>
+<pages>67-78</pages>
+<year>2017</year>
+<booktitle>IPSN</booktitle>
+<ee>https://doi.org/10.1145/3055031.3055073</ee>
+<ee>https://ieeexplore.ieee.org/document/7944780</ee>
+<ee>https://www.wikidata.org/entity/Q114191917</ee>
+<crossref>conf/ipsn/2017</crossref>
+<url>db/conf/ipsn/ipsn2017.html#LuWWMT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/LuDKWMT17" mdate="2024-12-04">
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="94/4213-2">Bowen Du 0002</author>
+<author pid="211/5244">Xuan Kan</author>
+<author orcid="0000-0003-1159-090X" pid="55/7703">Hongkai Wen 0001</author>
+<author orcid="0000-0001-5716-3941" pid="83/7169">Andrew Markham</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>VeriNet: User Verification on Smartwatches via Behavior Biometrics.</title>
+<pages>68-73</pages>
+<year>2017</year>
+<booktitle>CrowdSenSys@SenSys</booktitle>
+<ee>https://doi.org/10.1145/3139243.3139251</ee>
+<ee>https://www.wikidata.org/entity/Q114191919</ee>
+<crossref>conf/sensys/2017crowdsensys</crossref>
+<url>db/conf/sensys/crowdsensys2017.html#LuDKWMT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/LuKRDWMT17" mdate="2024-12-04">
+<author orcid="0000-0002-3733-4480" pid="154/4313">Chris Xiaoxuan Lu</author>
+<author pid="211/5244">Xuan Kan</author>
+<author orcid="0000-0001-6458-6344" pid="77/9807">Stefano Rosa</author>
+<author pid="94/4213-2">Bowen Du 0002</author>
+<author orcid="0000-0003-1159-090X" pid="55/7703">Hongkai Wen 0001</author>
+<author orcid="0000-0001-5716-3941" pid="83/7169">Andrew Markham</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Towards Self-supervised Face Labeling via Cross-modality Association.</title>
+<pages>70:1-70:2</pages>
+<year>2017</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3131672.3136991</ee>
+<crossref>conf/sensys/2017</crossref>
+<url>db/conf/sensys/sensys2017.html#LuKRDWMT17</url>
+</inproceedings>
+</r>
+<r><article key="journals/sensors/ZouJLZLX16" mdate="2025-08-19">
+<author pid="147/5139">Han Zou</author>
+<author pid="38/6049-8">Hao Jiang 0008</author>
+<author pid="96/4586">Yiwen Luo</author>
+<author pid="186/2776">Jianjie Zhu</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Xiaoxuan Lu 0001</author>
+<author orcid="0000-0002-7137-4136" pid="40/2499">Lihua Xie 0001</author>
+<title>BlueDetect: An iBeacon-Enabled Scheme for Accurate and Energy-Efficient Indoor-Outdoor Detection and Seamless Location-Based Service.</title>
+<pages>268</pages>
+<year>2016</year>
+<volume>16</volume>
+<journal>Sensors</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3390/s16020268</ee>
+<ee>https://www.wikidata.org/entity/Q30387604</ee>
+<url>db/journals/sensors/sensors16.html#ZouJLZLX16</url>
+</article>
+</r>
+<r><article key="journals/tcyb/LuZZXH16" mdate="2025-08-19">
+<author orcid="0000-0002-3733-4480" pid="154/4313">Xiaoxuan Lu 0001</author>
+<author pid="147/5139">Han Zou</author>
+<author pid="37/8439">Hongming Zhou</author>
+<author orcid="0000-0002-7137-4136" pid="40/2499">Lihua Xie 0001</author>
+<author orcid="0000-0002-2480-4965" pid="95/5912">Guang-Bin Huang</author>
+<title>Robust Extreme Learning Machine With its Application to Indoor Positioning.</title>
+<pages>194-205</pages>
+<year>2016</year>
+<volume>46</volume>
+<journal>IEEE Trans. Cybern.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCYB.2015.2399420</ee>
+<ee>https://www.wikidata.org/entity/Q47338953</ee>
+<url>db/journals/tcyb/tcyb46.html#LuZZXH16</url>
+</article>
+</r>
+<r><article key="journals/twc/ZouHLJX16" mdate="2025-08-19">
+<author pid="147/5139">Han Zou</author>
+<author pid="77/5794">Baoqi Huang</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Xiaoxuan Lu 0001</author>
+<author pid="38/6049-8">Hao Jiang 0008</author>
+<author orcid="0000-0002-7137-4136" pid="40/2499">Lihua Xie 0001</author>
+<title>A Robust Indoor Positioning System Based on the Procrustes Analysis and Weighted Extreme Learning Machine.</title>
+<pages>1252-1266</pages>
+<year>2016</year>
+<volume>15</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TWC.2015.2487963</ee>
+<url>db/journals/twc/twc15.html#ZouHLJX16</url>
+</article>
+</r>
+<r><inproceedings key="conf/wcnc/ZouHLJX16" mdate="2025-08-19">
+<author pid="147/5139">Han Zou</author>
+<author pid="77/5794">Baoqi Huang</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Xiaoxuan Lu 0001</author>
+<author pid="38/6049-8">Hao Jiang 0008</author>
+<author orcid="0000-0002-7137-4136" pid="40/2499">Lihua Xie 0001</author>
+<title>Standardizing location fingerprints across heterogeneous mobile devices for indoor localization.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2016.7564800</ee>
+<crossref>conf/wcnc/2016</crossref>
+<url>db/conf/wcnc/wcnc2016.html#ZouHLJX16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wimob/LuWZJXT16" mdate="2025-08-19">
+<author orcid="0000-0002-3733-4480" pid="154/4313">Xiaoxuan Lu 0001</author>
+<author orcid="0000-0003-1159-090X" pid="55/7703">Hongkai Wen 0001</author>
+<author pid="147/5139">Han Zou</author>
+<author pid="38/6049-8">Hao Jiang 0008</author>
+<author orcid="0000-0002-7137-4136" pid="40/2499">Lihua Xie 0001</author>
+<author orcid="0000-0001-6236-9645" pid="t/NikiTrigoni">Niki Trigoni</author>
+<title>Robust occupancy inference with commodity WiFi.</title>
+<pages>1-8</pages>
+<year>2016</year>
+<booktitle>WiMob</booktitle>
+<ee>https://doi.org/10.1109/WiMOB.2016.7763228</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WiMOB.2016.7763228</ee>
+<ee>https://www.wikidata.org/entity/Q114192878</ee>
+<crossref>conf/wimob/2016</crossref>
+<url>db/conf/wimob/wimob2016.html#LuWZJXT16</url>
+</inproceedings>
+</r>
+<r><article key="journals/sensors/ZouLJX15" mdate="2025-08-19">
+<author pid="147/5139">Han Zou</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Xiaoxuan Lu 0001</author>
+<author pid="38/6049-8">Hao Jiang 0008</author>
+<author orcid="0000-0002-7137-4136" pid="40/2499">Lihua Xie 0001</author>
+<title>A Fast and Precise Indoor Localization Algorithm Based on an Online Sequential Extreme Learning Machine.</title>
+<year>2015</year>
+<volume>15</volume>
+<journal>Sensors</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.3390/s150101804</ee>
+<ee>https://www.wikidata.org/entity/Q35081061</ee>
+<url>db/journals/sensors/sensors15.html#ZouLJX15</url>
+<pages>1804-1824</pages>
+</article>
+</r>
+<r><inproceedings key="conf/case/ZouLLJX15" mdate="2025-08-19">
+<author pid="147/5139">Han Zou</author>
+<author pid="96/4586">Yiwen Luo</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Xiaoxuan Lu 0001</author>
+<author pid="38/6049-8">Hao Jiang 0008</author>
+<author orcid="0000-0002-7137-4136" pid="40/2499">Lihua Xie 0001</author>
+<title>A mutual information based online access point selection strategy for WiFi indoor localization.</title>
+<pages>180-185</pages>
+<year>2015</year>
+<booktitle>CASE</booktitle>
+<ee>https://doi.org/10.1109/CoASE.2015.7294059</ee>
+<crossref>conf/case/2015</crossref>
+<url>db/conf/case/case2015.html#ZouLLJX15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icarcv/LuYZJX14" mdate="2025-08-19">
+<author orcid="0000-0002-3733-4480" pid="154/4313">Xiaoxuan Lu 0001</author>
+<author pid="84/1992">Chengpu Yu</author>
+<author pid="147/5139">Han Zou</author>
+<author pid="38/6049-8">Hao Jiang 0008</author>
+<author orcid="0000-0002-7137-4136" pid="40/2499">Lihua Xie 0001</author>
+<title>Extreme learning machine with dead zone and its application to WiFi based indoor positioning.</title>
+<pages>625-630</pages>
+<year>2014</year>
+<booktitle>ICARCV</booktitle>
+<ee>https://doi.org/10.1109/ICARCV.2014.7064376</ee>
+<crossref>conf/icarcv/2014</crossref>
+<url>db/conf/icarcv/icarcv2014.html#LuYZJX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mlsp/LuLZYX14" mdate="2025-08-19">
+<author orcid="0000-0002-3733-4480" pid="154/4313">Xiaoxuan Lu 0001</author>
+<author orcid="0000-0002-5512-7389" pid="136/9805">Yushen Long</author>
+<author pid="147/5139">Han Zou</author>
+<author pid="84/1992">Chengpu Yu</author>
+<author orcid="0000-0002-7137-4136" pid="40/2499">Lihua Xie 0001</author>
+<title>Robust extreme learning machine for regression problems with its application to wifi based indoor positioning system.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>MLSP</booktitle>
+<ee>https://doi.org/10.1109/MLSP.2014.6958903</ee>
+<crossref>conf/mlsp/2014</crossref>
+<url>db/conf/mlsp/mlsp2014.html#LuLZYX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wf-iot/ZouJLX14" mdate="2025-08-19">
+<author pid="147/5139">Han Zou</author>
+<author pid="38/6049-8">Hao Jiang 0008</author>
+<author orcid="0000-0002-3733-4480" pid="154/4313">Xiaoxuan Lu 0001</author>
+<author orcid="0000-0002-7137-4136" pid="40/2499">Lihua Xie 0001</author>
+<title>An online sequential extreme learning machine approach to WiFi based indoor positioning.</title>
+<pages>111-116</pages>
+<year>2014</year>
+<crossref>conf/wf-iot/2014</crossref>
+<booktitle>WF-IoT</booktitle>
+<ee>https://doi.org/10.1109/WF-IoT.2014.6803130</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WF-IoT.2014.6803130</ee>
+<url>db/conf/wf-iot/wf-iot2014.html#ZouJLX14</url>
+</inproceedings>
+</r>
+<coauthors n="159" nc="2">
+<co c="0"><na f="a/Almalioglu:Yasin" pid="200/7940">Yasin Almalioglu</na></co>
+<co c="0"><na f="a/Alsehly:Firas" pid="155/7031">Firas Alsehly</na></co>
+<co c="0"><na f="a/Aodha:Oisin_Mac" pid="90/8653">Oisin Mac Aodha</na></co>
+<co c="0"><na f="b/Blunsom:Phil" pid="96/4705">Phil Blunsom</na></co>
+<co c="0"><na f="b/Boedecker:Joschka" pid="84/5457">Joschka Boedecker</na></co>
+<co c="0"><na f="c/Cai:Kaiwen" pid="267/0681">Kaiwen Cai</na></co>
+<co c="0"><na f="c/Cao:Dongjiang" pid="324/4699">Dongjiang Cao</na></co>
+<co c="0"><na f="c/Chan:Gabriel" pid="178/1812">Gabriel Chan</na></co>
+<co c="0"><na f="c/Chen:Baicheng" pid="134/1201">Baicheng Chen</na></co>
+<co c="0"><na f="c/Chen:Changhao" pid="215/3933">Changhao Chen</na></co>
+<co c="0"><na f="c/Chen:Mozi" pid="260/7206">Mozi Chen</na></co>
+<co c="0"><na f="c/Chen:Xingyu" pid="59/7651">Xingyu Chen</na></co>
+<co c="0"><na f="c/Chen_0002:Xinyan" pid="318/1400-2">Xinyan Chen 0002</na></co>
+<co c="0"><na f="c/Chen_0015:Zhe" pid="06/4240-15">Zhe Chen 0015</na></co>
+<co c="0"><na f="c/Chen:Zhenghua" pid="03/7457">Zhenghua Chen</na></co>
+<co c="0"><na f="c/Clark:Ronald" pid="138/3006">Ronald Clark</na></co>
+<co c="0"><na f="c/Cui:Xinyuan" pid="270/1294">Xinyuan Cui</na></co>
+<co c="0"><na f="c/Cui:Zhaopeng" pid="28/7484">Zhaopeng Cui</na></co>
+<co c="0"><na f="d/Dai:Zhuangzhuang" pid="267/4598">Zhuangzhuang Dai</na></co>
+<co c="0"><na f="d/Damirchi:Hamed" pid="270/0010">Hamed Damirchi</na></co>
+<co c="0"><na f="d/Danier:Duolikun" pid="286/5096">Duolikun Danier</na></co>
+<co c="0"><na f="d/Deng:Jianning" pid="305/9193">Jianning Deng</na></co>
+<co c="0"><na f="d/Deng:Lang" pid="327/9288">Lang Deng</na></co>
+<co c="0"><na f="d/Deng:Yimin" pid="17/7396">Yimin Deng</na></co>
+<co c="0"><na f="d/Dhaliwal:Kevin" pid="192/3897">Kevin Dhaliwal</na></co>
+<co c="0"><na f="d/Ding:Fangqiang" pid="249/5356">Fangqiang Ding</na></co>
+<co c="0"><na f="d/Dong_0005:Zhen" pid="60/1749-5">Zhen Dong 0005</na></co>
+<co c="0"><na f="d/Du_0002:Bowen" pid="94/4213-2">Bowen Du 0002</na></co>
+<co c="0"><na f="d/Duan:Zhekai" pid="348/6573">Zhekai Duan</na></co>
+<co c="0"><na f="f/Fan:Junqiao" pid="290/5285">Junqiao Fan</na></co>
+<co c="0"><na f="f/Fang:Xinmin" pid="305/9208">Xinmin Fang</na></co>
+<co c="0"><na f="f/Fleming:Charles" pid="18/3177">Charles Fleming</na></co>
+<co c="0"><na f="g/Gao:Pengen" pid="309/8348">Pengen Gao</na></co>
+<co c="0" n="2"><na f="g/Gavrila:Dariu" pid="g/DariuGavrila">Dariu Gavrila</na><na>Dariu M. Gavrila</na></co>
+<co c="0"><na f="g/Geng:Shikai" pid="410/0027">Shikai Geng</na></co>
+<co c="0" n="2"><na f="g/Gusm=atilde=o:Pedro_Porto_Buarque_de" pid="88/10808">Pedro Porto Buarque de Gusm&#227;o</na><na>Pedro P. B. de Gusmao</na></co>
+<co c="1"><na f="h/Han:Dongge" pid="241/7909">Dongge Han</na></co>
+<co c="0"><na f="h/He:Jianhua" pid="40/3669">Jianhua He</na></co>
+<co c="0"><na f="h/Hou:Jianfeng" pid="65/1309">Jianfeng Hou</na></co>
+<co c="0"><na f="h/Hu_0001:Pengfei" pid="71/9969-1">Pengfei Hu 0001</na></co>
+<co c="0"><na f="h/Hu_0001:Wen" pid="01/6410-1">Wen Hu 0001</na></co>
+<co c="0"><na f="h/Huang:Baoqi" pid="77/5794">Baoqi Huang</na></co>
+<co c="0"><na f="h/Huang:Guang=Bin" pid="95/5912">Guang-Bin Huang</na></co>
+<co c="0"><na f="h/Huang:He" pid="75/4947">He Huang</na></co>
+<co c="0"><na f="h/Huang_0035:Wei" pid="81/6685-35">Wei Huang 0035</na></co>
+<co c="0"><na f="h/Huang_0001:Xiaowei" pid="60/5414-1">Xiaowei Huang 0001</na></co>
+<co c="0"><na f="h/Huang:Xinyan" pid="126/4799">Xinyan Huang</na></co>
+<co c="0"><na f="j/Jiang_0008:Hao" pid="38/6049-8">Hao Jiang 0008</na></co>
+<co c="0"><na f="j/Jiang:Wenchao" pid="55/7618">Wenchao Jiang</na></co>
+<co c="0"><na f="k/Kan:Xuan" pid="211/5244">Xuan Kan</na></co>
+<co c="0"><na f="k/Kanhere:Salil_S=" pid="42/840">Salil S. Kanhere</na></co>
+<co c="0"><na f="k/Khadem:Mohsen" pid="164/8163">Mohsen Khadem</na></co>
+<co c="0"><na f="k/Khorrambakht:Rooholla" pid="269/9996">Rooholla Khorrambakht</na></co>
+<co c="0"><na f="k/Kouris:Alexandros" pid="172/0699">Alexandros Kouris</na></co>
+<co c="0"><na f="l/Lai:Zihang" pid="227/2343">Zihang Lai</na></co>
+<co c="0"><na f="l/Li:Hao" pid="17/5705">Hao Li</na></co>
+<co c="0"><na f="l/Li:Huining" pid="204/1605">Huining Li</na></co>
+<co c="0"><na f="l/Li_0002:Kai" pid="199/3954">Kai Li 0002</na></co>
+<co c="0"><na f="l/Li:Peize" pid="254/1325">Peize Li</na></co>
+<co c="0"><na f="l/Li_0073:Yang" pid="37/4190-73">Yang Li 0073</na></co>
+<co c="0"><na f="l/Li_0147:Yang" pid="37/4190-147">Yang Li 0147</na></co>
+<co c="0"><na f="l/Li_0003:Yiming" pid="l/YimingLi-3">Yiming Li 0003</na></co>
+<co c="0"><na f="l/Li:Zhengguo" pid="46/4171">Zhengguo Li</na></co>
+<co c="0"><na f="l/Li:Zhengxiong" pid="217/8466">Zhengxiong Li</na></co>
+<co c="0"><na f="l/Lin_0004:Feng" pid="75/2611-4">Feng Lin 0004</na></co>
+<co c="0"><na f="l/Lin:Shuyu" pid="195/9823">Shuyu Lin</na></co>
+<co c="0"><na f="l/Liu:Gaowen" pid="136/1007">Gaowen Liu</na></co>
+<co c="0"><na f="l/Liu:Kezhong" pid="72/1394">Kezhong Liu</na></co>
+<co c="0"><na f="l/Liu:Ruofeng" pid="207/1798">Ruofeng Liu</na></co>
+<co c="0"><na f="l/Long:Yushen" pid="136/9805">Yushen Long</na></co>
+<co c="0"><na f="l/Luo_0001:Jun" pid="42/2501-1">Jun Luo 0001</na></co>
+<co c="0"><na f="l/Luo_0001:Man" pid="44/10036-1">Man Luo 0001</na></co>
+<co c="0"><na f="l/Luo:Yiwen" pid="96/4586">Yiwen Luo</na></co>
+<co c="0"><na f="l/Luo:Zhen" pid="93/1458">Zhen Luo</na></co>
+<co c="0"><na f="m/Markham:Andrew" pid="83/7169">Andrew Markham</na></co>
+<co c="0"><na f="m/Martinovic:Ivan" pid="87/2623">Ivan Martinovic</na></co>
+<co c="0"><na f="m/Mei:Luoyu" pid="301/6040">Luoyu Mei</na></co>
+<co c="0"><na f="m/Miao:Yishu" pid="122/3274">Yishu Miao</na></co>
+<co c="1"><na f="m/Michalak:Tomasz_P=" pid="69/391">Tomasz P. Michalak</na></co>
+<co c="0"><na f="m/Mohapatra:Prasant" pid="m/PrasantMohapatra">Prasant Mohapatra</na></co>
+<co c="0"><na f="p/Palffy:Andras" pid="248/3208">Andras Palffy</na></co>
+<co c="0"><na f="p/Pan:Zhijun" pid="314/9873">Zhijun Pan</na></co>
+<co c="0" n="2"><na f="p/Patan=egrave=:Andrea" pid="169/0621">Andrea Patan&#232;</na><na>Andrea Patane</na></co>
+<co c="0"><na f="p/Peng:Zhengyu" pid="184/3264">Zhengyu Peng</na></co>
+<co c="0"><na f="q/Qiao:Chunming" pid="60/6865">Chunming Qiao</na></co>
+<co c="0"><na f="q/Qin_0004:Jie" pid="30/5781-4">Jie Qin 0004</na></co>
+<co c="0"><na f="r/Ramamoorthy:Subramanian" pid="97/5598">Subramanian Ramamoorthy</na></co>
+<co c="0"><na f="r/Ren_0001:Kui" pid="20/6179-1">Kui Ren 0001</na></co>
+<co c="0"><na f="r/Rome:Jack" pid="372/5060">Jack Rome</na></co>
+<co c="0"><na f="r/Rosa:Stefano" pid="77/9807">Stefano Rosa</na></co>
+<co c="0"><na f="s/Saputra:Muhamad_Risqi_Utama" pid="172/7604">Muhamad Risqi Utama Saputra</na></co>
+<co c="0"><na f="s/Shen_0001:Yiran" pid="71/11188-1">Yiran Shen 0001</na></co>
+<co c="0"><na f="s/Sochopoulos:Andreas" pid="285/6237">Andreas Sochopoulos</na></co>
+<co c="0"><na f="s/Song_0001:Qun" pid="29/4368-1">Qun Song 0001</na></co>
+<co c="0"><na f="s/Stankovic:John_A=" pid="s/JohnAStankovic">John A. Stankovic</na></co>
+<co c="0"><na f="s/Sun_0012:Ke" pid="69/476-12">Ke Sun 0012</na></co>
+<co c="0"><na f="s/Sun:Sumei" pid="46/3348">Sumei Sun</na></co>
+<co c="0"><na f="t/Tan_0001:Rui" pid="00/5179-1">Rui Tan 0001</na></co>
+<co c="0"><na f="t/Trigon:Niki" pid="308/0960">Niki Trigon</na></co>
+<co c="0" n="2"><na f="t/Trigoni:Agathoniki" pid="t/NikiTrigoni">Agathoniki Trigoni</na><na>Niki Trigoni</na></co>
+<co c="0"><na f="t/Tsagkas:Nikolaos" pid="253/1483">Nikolaos Tsagkas</na></co>
+<co c="0"><na f="t/Turan:Mehmet" pid="138/6295">Mehmet Turan</na></co>
+<co c="0"><na f="v/Vijayakumar:Sethu" pid="68/1347">Sethu Vijayakumar</na></co>
+<co c="0"><na f="w/Wahlstr=ouml=m:Johan" pid="128/7583">Johan Wahlstr&#246;m</na></co>
+<co c="0"><na f="w/Wang_0013:Bing" pid="06/1909-13">Bing Wang 0013</na></co>
+<co c="0"><na f="w/Wang:Dazhuo" pid="283/2872">Dazhuo Wang</na></co>
+<co c="0"><na f="w/Wang:Jialu" pid="195/2701">Jialu Wang</na></co>
+<co c="0"><na f="w/Wang:Jianan" pid="49/6053">Jianan Wang</na></co>
+<co c="0"><na f="w/Wang:Mengyu" pid="179/8319">Mengyu Wang</na></co>
+<co c="0"><na f="w/Wang:Rongrong" pid="61/6922">Rongrong Wang</na></co>
+<co c="0"><na f="w/Wang_0002:Sen" pid="69/6403-2">Sen Wang 0002</na></co>
+<co c="0"><na f="w/Wang_0008:Shuai" pid="42/1503-8">Shuai Wang 0008</na></co>
+<co c="0"><na f="w/Wang_0050:Wei" pid="35/7092-50">Wei Wang 0050</na></co>
+<co c="0"><na f="w/Wang_0226:Wei" pid="35/7092-226">Wei Wang 0226</na></co>
+<co c="0"><na f="w/Wang:Xuyu" pid="27/10801">Xuyu Wang</na></co>
+<co c="0"><na f="w/Wang:Zilong" pid="42/898">Zilong Wang</na></co>
+<co c="0"><na f="w/Wen_0001:Hongkai" pid="55/7703">Hongkai Wen 0001</na></co>
+<co c="0"><na f="w/Wen:Xiangyu" pid="263/6833">Xiangyu Wen</na></co>
+<co c="1"><na f="w/Wooldridge:Michael_J=" pid="w/MichaelWooldridge">Michael J. Wooldridge</na></co>
+<co c="0"><na f="w/Wu:Kai" pid="94/4728">Kai Wu</na></co>
+<co c="0"><na f="w/Wu:Wei" pid="95/6985">Wei Wu</na></co>
+<co c="0"><na f="w/Wu:Yuting" pid="09/10409">Yuting Wu</na></co>
+<co c="0"><na f="x/Xia:Qiyue" pid="351/0659">Qiyue Xia</na></co>
+<co c="0"><na f="x/Xiangli:Yuanbo" pid="186/4450">Yuanbo Xiangli</na></co>
+<co c="0"><na f="x/Xiao:Fu" pid="91/8079">Fu Xiao</na></co>
+<co c="0"><na f="x/Xie_0001:Lihua" pid="40/2499">Lihua Xie 0001</na></co>
+<co c="0"><na f="x/Xie:Linhai" pid="202/1741">Linhai Xie</na></co>
+<co c="0"><na f="x/Xu:Chenhan" pid="183/1735">Chenhan Xu</na></co>
+<co c="0"><na f="x/Xu:Jingao" pid="203/7191">Jingao Xu</na></co>
+<co c="0"><na f="x/Xu:Wenyao" pid="11/6689">Wenyao Xu</na></co>
+<co c="0"><na f="x/Xu:Yuecong" pid="242/7964">Yuecong Xu</na></co>
+<co c="0"><na f="y/Yan_0002:Zhenyu" pid="57/1273-2">Zhenyu Yan 0002</na></co>
+<co c="0"><na f="y/Yang_0027:Bo" pid="46/999-27">Bo Yang 0027</na></co>
+<co c="0"><na f="y/Yang:Jianfei" pid="06/5852">Jianfei Yang</na></co>
+<co c="0"><na f="y/Yang_0001:Yizhuo" pid="37/11052-1">Yizhuo Yang 0001</na></co>
+<co c="0"><na f="y/Yang_0002:Zheng" pid="59/5806-2">Zheng Yang 0002</na></co>
+<co c="0"><na f="y/Yao:Tianshun" pid="84/5022">Tianshun Yao</na></co>
+<co c="0"><na f="y/Yi:Zhaoguang" pid="327/9646">Zhaoguang Yi</na></co>
+<co c="0"><na f="y/Yin_0001:Zhimeng" pid="130/9834-1">Zhimeng Yin 0001</na></co>
+<co c="0"><na f="y/Yu:Chengpu" pid="84/1992">Chengpu Yu</na></co>
+<co c="0"><na f="y/Yu:Zhengdi" pid="286/8249">Zhengdi Yu</na></co>
+<co c="0"><na f="y/Yuan:Shenghai" pid="133/3411">Shenghai Yuan</na></co>
+<co c="0"><na f="z/Zampella:Francisco" pid="120/5018">Francisco Zampella</na></co>
+<co c="0"><na f="z/Zhang:Jiarui" pid="194/0368">Jiarui Zhang</na></co>
+<co c="0"><na f="z/Zhang:Shengkai" pid="24/9532">Shengkai Zhang</na></co>
+<co c="0"><na f="z/Zhang:Tianhang" pid="173/9526">Tianhang Zhang</na></co>
+<co c="0"><na f="z/Zhang_0003:Xinyu" pid="58/4582-3">Xinyu Zhang 0003</na></co>
+<co c="0"><na f="z/Zhang_0027:Yuan" pid="48/2168-27">Yuan Zhang 0027</na></co>
+<co c="0"><na f="z/Zhao:Peijun" pid="166/6002">Peijun Zhao</na></co>
+<co c="0"><na f="z/Zhao_0001:Xingyu" pid="83/504-1">Xingyu Zhao 0001</na></co>
+<co c="0"><na f="z/Zhong:Hantao" pid="357/1276">Hantao Zhong</na></co>
+<co c="0"><na f="z/Zhou:Hongming" pid="37/8439">Hongming Zhou</na></co>
+<co c="0"><na f="z/Zhou:Yiwen" pid="142/6100">Yiwen Zhou</na></co>
+<co c="0"><na f="z/Zhou:Yunjiao" pid="327/3251">Yunjiao Zhou</na></co>
+<co c="0"><na f="z/Zhu_0001:Fan" pid="96/2445-1">Fan Zhu 0001</na></co>
+<co c="0"><na f="z/Zhu:Jianjie" pid="186/2776">Jianjie Zhu</na></co>
+<co c="0"><na f="z/Zhu_0012:Yi" pid="67/4972-12">Yi Zhu 0012</na></co>
+<co c="0"><na f="z/Zhu:Yunzhou" pid="372/2711">Yunzhou Zhu</na></co>
+<co c="0"><na f="z/Zou:Han" pid="147/5139">Han Zou</na></co>
+</coauthors>
+</dblpperson>
+

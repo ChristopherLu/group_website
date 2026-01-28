@@ -1,22 +1,6 @@
-# Manual citations file - edit as needed
-
-- id: doi:10.48550/ARXIV.2506.07639
-  type: doi
-  title: 'Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse'
-  authors:
-  - Zhekai Duan
-  - Yuan Zhang
-  - Shikai Geng
-  - Gaowen Liu
-  - Joschka Boedecker
-  - Chris Xiaoxuan Lu
-  publisher: CoRR
-  year: 2025
-  date: '2025-06-15'
-  link: https://doi.org/10.48550/arXiv.2506.07639
+# DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1109/TNNLS.2022.3176677
-  type: doi
   title: Learning Selective Sensor Fusion for State Estimation
   authors:
   - Changhao Chen
@@ -25,13 +9,12 @@
   - Bing Wang
   - Niki Trigoni
   - Andrew Markham
-  publisher: IEEE Trans. Neural Networks Learn. Syst.
-  year: 2025
-  date: '2025-06-15'
-  link: https://doi.org/10.1109/TNNLS.2022.3176677
-
-- id: doi:10.1609/AAAI.V39I26.34931
-  type: doi
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2025-03-01'
+  link: https://doi.org/gt6mdv
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1609/aaai.v39i26.34931
   title: Risk Controlled Image Retrieval
   authors:
   - Kaiwen Cai
@@ -39,31 +22,14 @@
   - Xingyu Zhao
   - Wei Huang
   - Xiaowei Huang
-  publisher: AAAI-25, Sponsored by the Association for the Advancement of Artificial
-    Intelligence, February 25 - March 4, 2025, Philadelphia, PA, USA
-  year: 2025
-  date: '2025-06-15'
-  link: https://doi.org/10.1609/aaai.v39i26.34931
-
-- id: doi:10.1145/3715014.3722058
-  type: doi
-  title: 'ThermoHands: A Benchmark for 3D Hand Pose Estimation from Egocentric Thermal
-    Images'
-  authors:
-  - Fangqiang Ding
-  - Yunzhou Zhu
-  - Xiangyu Wen
-  - Gaowen Liu
-  - Chris Xiaoxuan Lu
-  publisher: Proceedings of the 23rd ACM Conference on Embedded Networked Sensor Systems,
-    SenSys 2025, UC Irvine Student Center, Irvine, CA, USA, May 6-9, 2025
-  year: 2025
-  date: '2025-06-15'
-  link: https://doi.org/10.1145/3715014.3722058
-
-- id: doi:10.48550/ARXIV.2507.03938
-  type: doi
-  title: 'VISC: mmWave Radar Scene Flow Estimation using Pervasive Visual-Inertial Supervision'
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2025-04-11'
+  link: https://doi.org/hbmrtm
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/IROS60139.2025.11246830
+  title: 'VISC: mmWave Radar Scene Flow Estimation using Pervasive Visual-Inertial
+    Supervision'
   authors:
   - Kezhong Liu
   - Yiwen Zhou
@@ -73,43 +39,117 @@
   - Zheng Yang
   - Chris Xiaoxuan Lu
   - Shengkai Zhang
-  publisher: CoRR
-  year: 2025
-  date: '2025-06-15'
-  link: https://doi.org/10.48550/arXiv.2507.03938
-
-- id: doi:10.48550/ARXIV.2502.03270
-  type: doi
-  title: 'When Pre-trained Visual Representations Fall Short: Limitations in Visuo-Motor
-    Robot Learning'
+  publisher: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
+  date: '2025-10-19'
+  link: https://doi.org/hbmrtn
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3715014.3722058
+  title: 'ThermoHands: A Benchmark for 3D Hand Pose Estimation from Egocentric Thermal
+    Images'
+  authors:
+  - Fangqiang Ding
+  - Yunzhou Zhu
+  - Xiangyu Wen
+  - Gaowen Liu
+  - Chris Xiaoxuan Lu
+  publisher: Proceedings of the 23rd ACM Conference on Embedded Networked Sensor Systems
+  date: '2025-05-06'
+  link: https://doi.org/hbmrtp
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.2502.03270
+  title: 'The Temporal Trap: Entanglement in Pre-Trained Visual Representations for
+    Visuomotor Policy Learning'
   authors:
   - Nikolaos Tsagkas
   - Andreas Sochopoulos
   - Duolikun Danier
   - Chris Xiaoxuan Lu
   - Oisin Mac Aodha
-  publisher: CoRR
-  year: 2025
-  date: '2025-06-15'
-  link: https://doi.org/10.48550/arXiv.2502.03270
-
-- id: doi:10.1109/IROS58592.2024.10801488
-  type: doi
-  title: 'Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors'
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/hbmrtq
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.2506.07639
+  title: 'Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse'
+  authors:
+  - Zhekai Duan
+  - Yuan Zhang
+  - Shikai Geng
+  - Gaowen Liu
+  - Joschka Boedecker
+  - Chris Xiaoxuan Lu
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/hbmrtr
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.2511.10762
+  title: 'Attentive Feature Aggregation or: How Policies Learn to Stop Worrying about
+    Robustness and Attend to Task-Relevant Visual Cues'
   authors:
   - Nikolaos Tsagkas
-  - Jack Rome
-  - Subramanian Ramamoorthy
+  - Andreas Sochopoulos
+  - Duolikun Danier
+  - Sethu Vijayakumar
+  - Alexandros Kouris
   - Oisin Mac Aodha
   - Chris Xiaoxuan Lu
-  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS
-    2024, Abu Dhabi, United Arab Emirates, October 14-18, 2024
-  year: 2024
-  date: '2024-06-15'
-  link: https://doi.org/10.1109/IROS58592.2024.10801488
-
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/hbmrtt
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.2512.12378
+  title: 'M4Human: A Large-Scale Multimodal mmWave Radar Benchmark for Human Mesh
+    Reconstruction'
+  authors:
+  - Junqiao Fan
+  - Yunjiao Zhou
+  - Yizhuo Yang
+  - Xinyuan Cui
+  - Jiarui Zhang
+  - Lihua Xie
+  - Jianfei Yang
+  - Chris Xiaoxuan Lu
+  - Fangqiang Ding
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/hbmrtv
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1016/j.engappai.2024.107939
+  title: 'Forecasting backdraft with multimodal method: Fusion of fire image and sensor
+    data'
+  authors:
+  - Tianhang Zhang
+  - Fangqiang Ding
+  - Zilong Wang
+  - Fu Xiao
+  - Chris Xiaoxuan Lu
+  - Xinyan Huang
+  publisher: Engineering Applications of Artificial Intelligence
+  date: '2024-06-01'
+  link: https://doi.org/g6kq4c
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/TITS.2023.3305487
+  title: Robust Metric Localization in Autonomous Driving via Doppler Compensation
+    With Single-Chip Radar
+  authors:
+  - Pengen Gao
+  - Shengkai Zhang
+  - Wei Wang
+  - Chris Xiaoxuan Lu
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2024-01-01'
+  link: https://doi.org/g24cbh
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/TNNLS.2023.3309809
-  type: doi
   title: 'Deep Learning for Visual Localization and Mapping: A Survey'
   authors:
   - Changhao Chen
@@ -117,13 +157,26 @@
   - Chris Xiaoxuan Lu
   - Niki Trigoni
   - Andrew Markham
-  publisher: IEEE Trans. Neural Networks Learn. Syst.
-  year: 2024
-  date: '2024-06-15'
-  link: https://doi.org/10.1109/TNNLS.2023.3309809
-
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2024-12-01'
+  link: https://doi.org/g592nx
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3639406
+  title: Introduction to the Special Section on Contact-free Smart Sensing in AIoT
+  authors:
+  - Pengfei Hu
+  - Zhe Chen
+  - Chris Xiaoxuan Lu
+  - Xuyu Wang
+  - Jun Luo
+  - Prasant Mohapatra
+  publisher: ACM Transactions on Sensor Networks
+  date: '2024-05-11'
+  link: https://doi.org/g946wp
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1145/3628453
-  type: doi
   title: End-to-End Target Liveness Detection via mmWave Radar and Vision Fusion for
     Autonomous Vehicles
   authors:
@@ -134,59 +187,64 @@
   - Ruofeng Liu
   - Wenchao Jiang
   - Chris Xiaoxuan Lu
-  publisher: ACM Trans. Sens. Networks
-  year: 2024
-  date: '2024-06-15'
-  link: https://doi.org/10.1145/3628453
-
-- id: doi:10.1016/J.ENGAPPAI.2024.107939
-  type: doi
-  title: 'Forecasting backdraft with multimodal method: Fusion of fire image and sensor
-    data'
-  authors:
-  - Tianhang Zhang
-  - Fangqiang Ding
-  - Zilong Wang
-  - Fu Xiao
-  - Chris Xiaoxuan Lu
-  - Xinyan Huang
-  publisher: Eng. Appl. Artif. Intell.
-  year: 2024
-  date: '2024-06-15'
-  link: https://doi.org/10.1016/j.engappai.2024.107939
-
-- id: doi:10.1145/3639406
-  type: doi
-  title: Introduction to the Special Section on Contact-free Smart Sensing in AIoT
-  authors:
-  - Pengfei Hu
-  - Zhe Chen
-  - Chris Xiaoxuan Lu
-  - Xuyu Wang
-  - Jun Luo
-  - Prasant Mohapatra
-  publisher: ACM Trans. Sens. Networks
-  year: 2024
-  date: '2024-06-15'
-  link: https://doi.org/10.1145/3639406
-
+  publisher: ACM Transactions on Sensor Networks
+  date: '2024-05-11'
+  link: https://doi.org/g946t5
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1007/978-3-031-72691-0_12
-  type: doi
-  title: 'milliFlow: Scene Flow Estimation on mmWave Radar Point Cloud for Human Motion
-    Sensing'
+  title: "milliFlow: Scene Flow Estimation on\_mmWave Radar Point Cloud for\_Human\
+    \ Motion Sensing"
   authors:
   - Fangqiang Ding
   - Zhen Luo
   - Peijun Zhao
   - Chris Xiaoxuan Lu
-  publisher: Computer Vision - ECCV 2024 - 18th European Conference, Milan, Italy, September
-    29-October 4, 2024, Proceedings, Part XXIV
-  year: 2024
-  date: '2024-06-15'
-  link: https://doi.org/10.1007/978-3-031-72691-0_12
-
+  publisher: Lecture Notes in Computer Science
+  date: '2024-11-03'
+  link: https://doi.org/hbmrtw
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1007/978-3-031-73390-1_18
+  title: "Self-adapting Large Visual-Language Models to\_Edge Devices Across Visual\
+    \ Modalities"
+  authors:
+  - Kaiwen Cai
+  - Zhekai Duan
+  - Gaowen Liu
+  - Charles Fleming
+  - Chris Xiaoxuan Lu
+  publisher: Lecture Notes in Computer Science
+  date: '2024-10-31'
+  link: https://doi.org/hbmrtx
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/ICRA57147.2024.10610368
+  title: 'RaTrack: Moving Object Detection and Tracking with 4D Radar Point Cloud'
+  authors:
+  - Zhijun Pan
+  - Fangqiang Ding
+  - Hantao Zhong
+  - Chris Xiaoxuan Lu
+  publisher: 2024 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2024-05-13'
+  link: https://doi.org/hbmrtz
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/ICRA57147.2024.10610775
+  title: Robust 3D Object Detection from LiDAR-Radar Point Clouds via Cross-Modal
+    Feature Augmentation
+  authors:
+  - Jianning Deng
+  - Gabriel Chan
+  - Hantao Zhong
+  - Chris Xiaoxuan Lu
+  publisher: 2024 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2024-05-13'
+  link: https://doi.org/hbmrt2
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/ICRA57147.2024.10610683
-  type: doi
   title: Multimodal Indoor Localization Using Crowdsourced Radio Maps
   authors:
   - Zhaoguang Yi
@@ -196,133 +254,54 @@
   - Francisco Zampella
   - Firas Alsehly
   - Chris Xiaoxuan Lu
-  publisher: IEEE International Conference on Robotics and Automation, ICRA 2024, Yokohama,
-    Japan, May 13-17, 2024
-  year: 2024
-  date: '2024-06-15'
-  link: https://doi.org/10.1109/ICRA57147.2024.10610683
-
-- id: url:http://papers.nips.cc/paper_files/paper/2024/hash/b81d83165e3145a2e7d33bb5e33ea913-Abstract-Conference.html
-  type: url
-  title: 'RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar'
+  publisher: 2024 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2024-05-13'
+  link: https://doi.org/hbmrt3
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/IROS58592.2024.10801488
+  title: 'Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors'
   authors:
-  - Fangqiang Ding
-  - Xiangyu Wen
-  - Yunzhou Zhu
-  - Yiming Li
+  - Nikolaos Tsagkas
+  - Jack Rome
+  - Subramanian Ramamoorthy
+  - Oisin Mac Aodha
   - Chris Xiaoxuan Lu
-  publisher: 'Advances in Neural Information Processing Systems 38: Annual Conference
-    on Neural Information Processing Systems 2024, NeurIPS 2024, Vancouver, BC, Canada,
-    December 10 - 15, 2024'
-  year: 2024
-  date: '2024-06-15'
-  image: images/works/radar_occ.png
-  link: http://papers.nips.cc/paper_files/paper/2024/hash/b81d83165e3145a2e7d33bb5e33ea913-Abstract-Conference.html
-
-- id: doi:10.1109/ICRA57147.2024.10610368
-  type: doi
-  title: 'RaTrack: Moving Object Detection and Tracking with 4D Radar Point Cloud'
+  publisher: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
+  date: '2024-10-14'
+  link: https://doi.org/hbmrt4
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3580779
+  title: Human Parsing with Joint Learning for Dynamic mmWave Radar Point Cloud
   authors:
-  - Zhijun Pan
-  - Fangqiang Ding
-  - Hantao Zhong
+  - Shuai Wang
+  - Dongjiang Cao
+  - Ruofeng Liu
+  - Wenchao Jiang
+  - Tianshun Yao
   - Chris Xiaoxuan Lu
-  publisher: IEEE International Conference on Robotics and Automation, ICRA 2024, Yokohama,
-    Japan, May 13-17, 2024
-  year: 2024
-  date: '2024-06-15'
-  link: https://doi.org/10.1109/ICRA57147.2024.10610368
-
-- id: doi:10.1109/ICRA57147.2024.10610775
-  type: doi
-  title: Robust 3D Object Detection from LiDAR-Radar Point Clouds via Cross-Modal Feature
-    Augmentation
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2023-03-27'
+  link: https://doi.org/g946wx
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3631446
+  title: Orientation-Aware 3D SLAM in Alternating Magnetic Field from Powerlines
   authors:
-  - Jianning Deng
-  - Gabriel Chan
-  - Hantao Zhong
+  - Rongrong Wang
+  - Rui Tan
+  - Zhenyu Yan
   - Chris Xiaoxuan Lu
-  publisher: IEEE International Conference on Robotics and Automation, ICRA 2024, Yokohama,
-    Japan, May 13-17, 2024
-  year: 2024
-  date: '2024-06-15'
-  link: https://doi.org/10.1109/ICRA57147.2024.10610775
-
-- id: doi:10.1109/TITS.2023.3305487
-  type: doi
-  title: Robust Metric Localization in Autonomous Driving via Doppler Compensation With
-    Single-Chip Radar
-  authors:
-  - Pengen Gao
-  - Shengkai Zhang
-  - Wei Wang
-  - Chris Xiaoxuan Lu
-  publisher: IEEE Trans. Intell. Transp. Syst.
-  year: 2024
-  date: '2024-06-15'
-  link: https://doi.org/10.1109/TITS.2023.3305487
-
-- id: doi:10.1007/978-3-031-73390-1_18
-  type: doi
-  title: Self-adapting Large Visual-Language Models to Edge Devices Across Visual Modalities
-  authors:
-  - Kaiwen Cai
-  - Zhekai Duan
-  - Gaowen Liu
-  - Charles Fleming
-  - Chris Xiaoxuan Lu
-  publisher: Computer Vision - ECCV 2024 - 18th European Conference, Milan, Italy, September
-    29-October 4, 2024, Proceedings, Part XXVIII
-  year: 2024
-  date: '2024-06-15'
-  link: https://doi.org/10.1007/978-3-031-73390-1_18
-
-- id: doi:10.1109/JIOT.2023.3237494
-  type: doi
-  title: 'CubeLearn: End-to-End Learning for Human Motion Recognition From Raw mmWave
-    Radar Signals'
-  authors:
-  - Peijun Zhao
-  - Chris Xiaoxuan Lu
-  - Bing Wang
-  - Niki Trigoni
-  - Andrew Markham
-  publisher: IEEE Internet Things J.
-  year: 2023
-  date: '2023-06-15'
-  link: https://doi.org/10.1109/JIOT.2023.3237494
-
-- id: doi:10.48550/ARXIV.2311.13182
-  type: doi
-  title: Differentiable Radio Frequency Ray Tracing for Millimeter-Wave Sensing
-  authors:
-  - Xingyu Chen
-  - Xinyu Zhang
-  - Qiyue Xia
-  - Xinmin Fang
-  - Chris Xiaoxuan Lu
-  - Zhengxiong Li
-  publisher: CoRR
-  year: 2023
-  date: '2023-06-15'
-  link: https://doi.org/10.48550/arXiv.2311.13182
-
-- id: doi:10.1109/IROS55552.2023.10342034
-  type: doi
-  title: 'Feature-based Visual Odometry for Bronchoscopy: A Dataset and Benchmark'
-  authors:
-  - Jianning Deng
-  - Peize Li
-  - Kevin Dhaliwal
-  - Chris Xiaoxuan Lu
-  - Mohsen Khadem
-  publisher: IROS
-  year: 2023
-  date: '2023-06-15'
-  link: https://doi.org/10.1109/IROS55552.2023.10342034
-
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2023-12-19'
+  link: https://doi.org/g946t6
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/JIOT.2022.3203559
-  type: doi
   title: 'GaitFi: Robust Device-Free Human Identification via WiFi and Vision Multimodal
     Learning'
   authors:
@@ -332,168 +311,26 @@
   - Han Zou
   - Chris Xiaoxuan Lu
   - Lihua Xie
-  publisher: IEEE Internet Things J.
-  year: 2023
-  date: '2023-06-15'
-  link: https://doi.org/10.1109/JIOT.2022.3203559
-
-- id: doi:10.1109/CVPR52729.2023.00901
-  type: doi
-  title: 'Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision'
+  publisher: IEEE Internet of Things Journal
+  date: '2023-01-01'
+  link: https://doi.org/g8pwz2
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/JIOT.2023.3237494
+  title: 'CubeLearn: End-to-End Learning for Human Motion Recognition From Raw mmWave
+    Radar Signals'
   authors:
-  - Fangqiang Ding
-  - Andras Palffy
-  - Dariu M. Gavrila
+  - Peijun Zhao
   - Chris Xiaoxuan Lu
-  publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2023,
-    Vancouver, BC, Canada, June 17-24, 2023
-  year: 2023
-  date: '2023-06-15'
-  link: https://doi.org/10.1109/CVPR52729.2023.00901
-
-- id: doi:10.1145/3580779
-  type: doi
-  title: Human Parsing with Joint Learning for Dynamic mmWave Radar Point Cloud
-  authors:
-  - Shuai Wang
-  - Dongjiang Cao
-  - Ruofeng Liu
-  - Wenchao Jiang
-  - Tianshun Yao
-  - Chris Xiaoxuan Lu
-  publisher: Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.
-  year: 2023
-  date: '2023-06-15'
-  link: https://doi.org/10.1145/3580779
-
-- id: url:https://www.ndss-symposium.org/ndss-paper/metawave-attacking-mmwave-sensing-with-meta-material-enhanced-tags/
-  type: url
-  title: 'MetaWave: Attacking mmWave Sensing with Meta-material-enhanced Tags'
-  authors:
-  - Xingyu Chen
-  - Zhengxiong Li
-  - Baicheng Chen
-  - Yi Zhu
-  - Chris Xiaoxuan Lu
-  - Zhengyu Peng
-  - Feng Lin
-  - Wenyao Xu
-  - Kui Ren
-  - Chunming Qiao
-  publisher: 30th Annual Network and Distributed System Security Symposium, NDSS 2023,
-    San Diego, California, USA, February 27 - March 3, 2023
-  year: 2023
-  date: '2023-06-15'
-  link: https://www.ndss-symposium.org/ndss-paper/metawave-attacking-mmwave-sensing-with-meta-material-enhanced-tags/
-
-- id: url:http://papers.nips.cc/paper_files/paper/2023/hash/3baf7a39d07e9f4f1e258a412df94521-Abstract-Datasets_and_Benchmarks.html
-  type: url
-  title: 'MM-Fi: Multi-Modal Non-Intrusive 4D Human Dataset for Versatile Wireless Sensing'
-  authors:
-  - Jianfei Yang
-  - He Huang
-  - Yunjiao Zhou
-  - Xinyan Chen
-  - Yuecong Xu
-  - Shenghai Yuan
-  - Han Zou
-  - Chris Xiaoxuan Lu
-  - Lihua Xie
-  publisher: 'Advances in Neural Information Processing Systems 36: Annual Conference
-    on Neural Information Processing Systems 2023, NeurIPS 2023, New Orleans, LA, USA,
-    December 10 - 16, 2023'
-  year: 2023
-  date: '2023-06-15'
-  link: http://papers.nips.cc/paper_files/paper/2023/hash/3baf7a39d07e9f4f1e258a412df94521-Abstract-Datasets_and_Benchmarks.html
-
-- id: doi:10.1145/3631446
-  type: doi
-  title: Orientation-Aware 3D SLAM in Alternating Magnetic Field from Powerlines
-  authors:
-  - Rongrong Wang
-  - Rui Tan
-  - Zhenyu Yan
-  - Chris Xiaoxuan Lu
-  publisher: Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.
-  year: 2023
-  date: '2023-06-15'
-  link: https://doi.org/10.1145/3631446
-
-- id: doi:10.1145/3625687.3628398
-  type: doi
-  title: 'Poster Abstract: Multimodal Indoor Localization Using Crowdsourced Radio Maps'
-  authors:
-  - Xiangyu Wen
-  - Zhaoguang Yi
-  - Francisco Zampella
-  - Firas Alsehly
-  - Chris Xiaoxuan Lu
-  publisher: Proceedings of the 21st ACM Conference on Embedded Networked Sensor Systems,
-    SenSys 2023, Istanbul, Turkiye, November 12-17, 2023
-  year: 2023
-  date: '2023-06-15'
-  link: https://doi.org/10.1145/3625687.3628398
-
-- id: doi:10.1109/IROS55552.2023.10341653
-  type: doi
-  title: 'RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging
-    Conditions'
-  authors:
-  - Jialu Wang
-  - Muhamad Risqi Utama Saputra
-  - Chris Xiaoxuan Lu
+  - Bing Wang
   - Niki Trigoni
   - Andrew Markham
-  publisher: IROS
-  year: 2023
+  publisher: IEEE Internet of Things Journal
   date: '2023-06-15'
-  link: https://doi.org/10.1109/IROS55552.2023.10341653
-
-- id: doi:10.48550/ARXIV.2307.07336
-  type: doi
-  title: Risk Controlled Image Retrieval
-  authors:
-  - Kaiwen Cai
-  - Chris Xiaoxuan Lu
-  - Xingyu Zhao
-  - Xiaowei Huang
-  publisher: CoRR
-  year: 2023
-  date: '2023-06-15'
-  link: https://doi.org/10.48550/arXiv.2307.07336
-
-- id: doi:10.5555/3639940.3639965
-  type: doi
-  title: Robust Human Detection under Visual Degradation via Thermal and mmWave Radar
-    Fusion
-  authors:
-  - Kaiwen Cai
-  - Qiyue Xia
-  - Peize Li
-  - Chris Xiaoxuan Lu
-  - John A. Stankovic
-  publisher: Proceedings of the 2023 International Conference on embedded Wireless Systems
-    and Networks, EWSN 2023, Rende, Italy, September 25-27, 2023
-  year: 2023
-  date: '2023-06-15'
-  link: https://dl.acm.org/doi/10.5555/3639940.3639965
-
-- id: doi:10.48550/ARXIV.2309.17336
-  type: doi
-  title: 'See Beyond Seeing: Robust 3D Object Detection from Point Clouds via Cross-Modal
-    Hallucination'
-  authors:
-  - Jianning Deng
-  - Gabriel Chan
-  - Hantao Zhong
-  - Chris Xiaoxuan Lu
-  publisher: CoRR
-  year: 2023
-  date: '2023-06-15'
-  link: https://doi.org/10.48550/arXiv.2309.17336
-
-- id: doi:10.1016/J.PATTER.2023.100703
-  type: doi
+  link: https://doi.org/g946t7
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1016/j.patter.2023.100703
   title: 'SenseFi: A library and benchmark on deep-learning-empowered WiFi human sensing'
   authors:
   - Jianfei Yang
@@ -504,49 +341,114 @@
   - Sumei Sun
   - Lihua Xie
   publisher: Patterns
-  year: 2023
-  date: '2023-06-15'
-  link: https://doi.org/10.1016/j.patter.2023.100703
-
+  date: '2023-03-01'
+  link: https://doi.org/gsmbtr
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/LRA.2023.3256085
-  type: doi
   title: Uncertainty Estimation for 3D Dense Prediction via Cross-Point Embeddings
   authors:
   - Kaiwen Cai
   - Chris Xiaoxuan Lu
   - Xiaowei Huang
-  publisher: IEEE Robotics Autom. Lett.
-  year: 2023
-  date: '2023-06-15'
-  link: https://doi.org/10.1109/LRA.2023.3256085
-
-- id: doi:10.48550/ARXIV.2305.12427
-  type: doi
+  publisher: IEEE Robotics and Automation Letters
+  date: '2023-05-01'
+  link: https://doi.org/g946t8
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/CVPR52729.2023.00901
+  title: 'Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision'
+  authors:
+  - Fangqiang Ding
+  - Andras Palffy
+  - Dariu M. Gavrila
+  - Chris Xiaoxuan Lu
+  publisher: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2023-06-01'
+  link: https://doi.org/hbmrt5
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/IROS55552.2023.10341653
+  title: 'RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging
+    Conditions'
+  authors:
+  - Jialu Wang
+  - Muhamad Risqi U. Saputra
+  - Chris Xiaoxuan Lu
+  - Niki Trigoni
+  - Andrew Markham
+  publisher: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
+  date: '2023-10-01'
+  link: https://doi.org/hbmrt6
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/IROS55552.2023.10342034
+  title: 'Feature-based Visual Odometry for Bronchoscopy: A Dataset and Benchmark'
+  authors:
+  - Jianning Deng
+  - Peize Li
+  - Kevin Dhaliwal
+  - Chris Xiaoxuan Lu
+  - Mohsen Khadem
+  publisher: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
+  date: '2023-10-01'
+  link: https://doi.org/g56w5k
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3625687.3628398
+  title: 'Poster Abstract: Multimodal Indoor Localization Using Crowdsourced Radio
+    Maps'
+  authors:
+  - Xiangyu Wen
+  - Zhaoguang Yi
+  - Francisco Zampella
+  - Firas Alsehly
+  - Chris Xiaoxuan Lu
+  publisher: Proceedings of the 21st ACM Conference on Embedded Networked Sensor Systems
+  date: '2023-11-12'
+  link: https://doi.org/g946w5
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.2305.12427
   title: 'VL-Fields: Towards Language-Grounded Neural Implicit Spatial Representations'
   authors:
   - Nikolaos Tsagkas
   - Oisin Mac Aodha
   - Chris Xiaoxuan Lu
-  publisher: CoRR
-  year: 2023
-  date: '2023-06-15'
-  link: https://doi.org/10.48550/arXiv.2305.12427
-
-- id: doi:10.1109/ICRA46639.2022.9811869
-  type: doi
-  title: 'AutoPlace: Robust Place Recognition with Single-chip Automotive Radar'
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/hbmrt7
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.2307.07336
+  title: Risk Controlled Image Retrieval
   authors:
   - Kaiwen Cai
-  - Bing Wang
   - Chris Xiaoxuan Lu
-  publisher: 2022 International Conference on Robotics and Automation, ICRA 2022, Philadelphia,
-    PA, USA, May 23-27, 2022
-  year: 2022
-  date: '2022-06-15'
-  link: https://doi.org/10.1109/ICRA46639.2022.9811869
-
+  - Xingyu Zhao
+  - Xiaowei Huang
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g946w7
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.2311.13182
+  title: Differentiable Radio Frequency Ray Tracing for Millimeter-Wave Sensing
+  authors:
+  - Xingyu Chen
+  - Xinyu Zhang
+  - Qiyue Xia
+  - Xinmin Fang
+  - Chris Xiaoxuan Lu
+  - Zhengxiong Li
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g946wv
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1145/3550325
-  type: doi
   title: Cross Vision-RF Gait Re-identification with Low-cost RGB-D Cameras and mmWave
     Radars
   authors:
@@ -556,13 +458,51 @@
   - Shuai Wang
   - Wenchao Jiang
   - Chris Xiaoxuan Lu
-  publisher: Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.
-  year: 2022
-  date: '2022-06-15'
-  link: https://doi.org/10.1145/3550325
-
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2022-09-06'
+  link: https://doi.org/g946t9
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/LRA.2022.3187248
+  title: Self-Supervised Scene Flow Estimation With 4-D Automotive Radar
+  authors:
+  - Fangqiang Ding
+  - Zhijun Pan
+  - Yimin Deng
+  - Jianning Deng
+  - Chris Xiaoxuan Lu
+  publisher: IEEE Robotics and Automation Letters
+  date: '2022-07-01'
+  link: https://doi.org/gq2sjz
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/TRO.2021.3120036
+  title: "Graph-Based Thermal\u2013Inertial SLAM With Probabilistic Neural Networks"
+  authors:
+  - Muhamad Risqi U. Saputra
+  - Chris Xiaoxuan Lu
+  - Pedro Porto B. Porto Buarque de Gusmao
+  - Bing Wang
+  - Andrew Markham
+  - Niki Trigoni
+  publisher: IEEE Transactions on Robotics
+  date: '2022-06-01'
+  link: https://doi.org/gsk3bp
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/ICRA46639.2022.9811869
+  title: 'AutoPlace: Robust Place Recognition with Single-chip Automotive Radar'
+  authors:
+  - Kaiwen Cai
+  - Bing Wang
+  - Chris Xiaoxuan Lu
+  publisher: 2022 International Conference on Robotics and Automation (ICRA)
+  date: '2022-05-23'
+  link: https://doi.org/g946xb
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/ICRA46639.2022.9811561
-  type: doi
   title: 'DC-Loc: Accurate Automotive Radar Based Metric Localization with Explicit
     Doppler Compensation'
   authors:
@@ -570,31 +510,12 @@
   - Shengkai Zhang
   - Wei Wang
   - Chris Xiaoxuan Lu
-  publisher: 2022 International Conference on Robotics and Automation, ICRA 2022, Philadelphia,
-    PA, USA, May 23-27, 2022
-  year: 2022
-  date: '2022-06-15'
-  link: https://doi.org/10.1109/ICRA46639.2022.9811561
-
-- id: doi:10.48550/ARXIV.2207.07859
-  type: doi
-  title: 'Deep Learning and Its Applications to WiFi Human Sensing: A Benchmark and
-    A Tutorial'
-  authors:
-  - Jianfei Yang
-  - Xinyan Chen
-  - Dazhuo Wang
-  - Han Zou
-  - Chris Xiaoxuan Lu
-  - Sumei Sun
-  - Lihua Xie
-  publisher: CoRR
-  year: 2022
-  date: '2022-06-15'
-  link: https://doi.org/10.48550/arXiv.2207.07859
-
+  publisher: 2022 International Conference on Robotics and Automation (ICRA)
+  date: '2022-05-23'
+  link: https://doi.org/g73sb2
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/IPSN54338.2022.00046
-  type: doi
   title: 'Demo Abstract: 3D Simultaneous localization and Mapping with Power Network
     Electromagnetic Radiation'
   authors:
@@ -603,71 +524,40 @@
   - Yuting Wu
   - Rui Tan
   - Chris Xiaoxuan Lu
-  publisher: 21st ACM/IEEE International Conference on Information Processing in Sensor
-    Networks, IPSN 2022, Milano, Italy, May 4-6, 2022
-  year: 2022
-  date: '2022-06-15'
-  link: https://doi.org/10.1109/IPSN54338.2022.00046
-
-- id: doi:10.48550/ARXIV.2209.14602
-  type: doi
-  title: Exploring Cross-Point Embeddings for 3D Dense Uncertainty Estimation
+  publisher: 2022 21st ACM/IEEE International Conference on Information Processing
+    in Sensor Networks (IPSN)
+  date: '2022-05-01'
+  link: https://doi.org/gq8gsc
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/IROS47612.2022.9981865
+  title: 'OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset
+    Beyond the Visible Spectrum'
+  authors:
+  - Peize Li
+  - Kaiwen Cai
+  - Muhamad Risqi U. Saputra
+  - Zhuangzhuang Dai
+  - Chris Xiaoxuan Lu
+  publisher: 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
+  date: '2022-10-23'
+  link: https://doi.org/g946xg
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/IROS47612.2022.9981546
+  title: 'STUN: Self-Teaching Uncertainty Estimation for Place Recognition'
   authors:
   - Kaiwen Cai
   - Chris Xiaoxuan Lu
   - Xiaowei Huang
-  publisher: CoRR
-  year: 2022
-  date: '2022-06-15'
-  link: https://doi.org/10.48550/arXiv.2209.14602
-
-- id: doi:10.1109/TRO.2021.3120036
-  type: doi
-  title: Graph-Based Thermal-Inertial SLAM With Probabilistic Neural Networks
-  authors:
-  - Muhamad Risqi Utama Saputra
-  - Chris Xiaoxuan Lu
-  - Pedro Porto Buarque de Gusmão
-  - Bing Wang
-  - Andrew Markham
-  - Niki Trigoni
-  publisher: IEEE Trans. Robotics
-  year: 2022
-  date: '2022-06-15'
-  link: https://doi.org/10.1109/TRO.2021.3120036
-
-- id: doi:10.5555/3535850.3535915
-  type: doi
-  title: Multiagent Model-based Credit Assignment for Continuous Control
-  authors:
-  - Dongge Han
-  - Chris Xiaoxuan Lu
-  - Tomasz P. Michalak
-  - Michael J. Wooldridge
-  publisher: 21st International Conference on Autonomous Agents and Multiagent Systems,
-    AAMAS 2022, Auckland, New Zealand, May 9-13, 2022
-  year: 2022
-  date: '2022-06-15'
-  link: https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p571.pdf
-
-- id: doi:10.1109/IROS47612.2022.9981865
-  type: doi
-  title: 'OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond
-    the Visible Spectrum'
-  authors:
-  - Peize Li
-  - Kaiwen Cai
-  - Muhamad Risqi Utama Saputra
-  - Zhuangzhuang Dai
-  - Chris Xiaoxuan Lu
-  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS
-    2022, Kyoto, Japan, October 23-27, 2022
-  year: 2022
-  date: '2022-06-15'
-  link: https://doi.org/10.1109/IROS47612.2022.9981865
-
+  publisher: 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
+  date: '2022-10-23'
+  link: https://doi.org/gsk4cr
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/SECON55815.2022.9918553
-  type: doi
   title: Pedestrian Liveness Detection Based on mmWave Radar and Camera Fusion
   authors:
   - Hao Li
@@ -675,173 +565,25 @@
   - Shuai Wang
   - Wenchao Jiang
   - Chris Xiaoxuan Lu
-  publisher: 19th Annual IEEE International Conference on Sensing, Communication, and
-    Networking, SECON 2022, Stockholm, Sweden, September 20-23, 2022
-  year: 2022
-  date: '2022-06-15'
-  link: https://doi.org/10.1109/SECON55815.2022.9918553
-
-- id: doi:10.1109/LRA.2022.3187248
-  type: doi
-  title: Self-Supervised Scene Flow Estimation With 4-D Automotive Radar
-  authors:
-  - Fangqiang Ding
-  - Zhijun Pan
-  - Yimin Deng
-  - Jianning Deng
-  - Chris Xiaoxuan Lu
-  publisher: IEEE Robotics Autom. Lett.
-  year: 2022
-  date: '2022-06-15'
-  link: https://doi.org/10.1109/LRA.2022.3187248
-
-- id: url:https://www.ndss-symposium.org/ndss-paper/auto-draft-219/
-  type: url
-  title: 'SpiralSpy: Exploring a Stealthy and Practical Covert Channel to Attack Air-gapped
-    Computing Devices via mmWave Sensing'
-  authors:
-  - Zhengxiong Li
-  - Baicheng Chen
-  - Xingyu Chen
-  - Huining Li
-  - Chenhan Xu
-  - Feng Lin
-  - Chris Xiaoxuan Lu
-  - Kui Ren
-  - Wenyao Xu
-  publisher: 29th Annual Network and Distributed System Security Symposium, NDSS 2022,
-    San Diego, California, USA, April 24-28, 2022
-  year: 2022
-  date: '2022-06-15'
-  link: https://www.ndss-symposium.org/ndss-paper/auto-draft-219/
-
-- id: doi:10.1109/IROS47612.2022.9981546
-  type: doi
-  title: 'STUN: Self-Teaching Uncertainty Estimation for Place Recognition'
-  authors:
-  - Kaiwen Cai
-  - Chris Xiaoxuan Lu
-  - Xiaowei Huang
-  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS
-    2022, Kyoto, Japan, October 23-27, 2022
-  year: 2022
-  date: '2022-06-15'
-  link: https://doi.org/10.1109/IROS47612.2022.9981546
-
+  publisher: 2022 19th Annual IEEE International Conference on Sensing, Communication,
+    and Networking (SECON)
+  date: '2022-09-20'
+  link: https://doi.org/g946xj
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1145/3560905.3568500
-  type: doi
-  title: 'Telesonar: Robocall Alarm System by Detecting Echo Channel and Breath Timing'
+  title: Telesonar
   authors:
   - Zhenyu Yan
   - Rui Tan
   - Qun Song
   - Chris Xiaoxuan Lu
-  publisher: Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems,
-    SenSys 2022, Boston, Massachusetts, November 6-9, 2022
-  year: 2022
-  date: '2022-06-15'
-  link: https://doi.org/10.1145/3560905.3568500
-
-- id: doi:10.1109/ICRA48506.2021.9561738
-  type: doi
-  title: 3D Motion Capture of an Unmodified Drone with Single-chip Millimeter Wave Radar
-  authors:
-  - Peijun Zhao
-  - Chris Xiaoxuan Lu
-  - Bing Wang
-  - Niki Trigoni
-  - Andrew Markham
-  publisher: IEEE International Conference on Robotics and Automation, ICRA 2021, Xi'an,
-    China, May 30 - June 5, 2021
-  year: 2021
-  date: '2021-06-15'
-  link: https://doi.org/10.1109/ICRA48506.2021.9561738
-
-- id: arxiv:2109.08652
-  type: arxiv
-  title: 'AutoPlace: Robust Place Recognition with Low-cost Single-chip Automotive Radar'
-  authors:
-  - Kaiwen Cai
-  - Bing Wang
-  - Chris Xiaoxuan Lu
-  publisher: CoRR
-  year: 2021
-  date: '2021-06-15'
-  link: https://arxiv.org/abs/2109.08652
-
-- id: doi:10.1145/3485730.3492888
-  type: doi
-  title: Can Image Style Transfer Save Automotive Radar?
-  authors:
-  - Jianning Deng
-  - Kaiwen Cai
-  - Chris Xiaoxuan Lu
-  publisher: 'SenSys ''21: The 19th ACM Conference on Embedded Networked Sensor Systems,
-    Coimbra, Portugal, November 15 - 17, 2021'
-  year: 2021
-  date: '2021-06-15'
-  link: https://doi.org/10.1145/3485730.3492888
-
-- id: arxiv:2101.07061
-  type: arxiv
-  title: Deep Inertial Odometry with Accurate IMU Preintegration
-  authors:
-  - Rooholla Khorrambakht
-  - Chris Xiaoxuan Lu
-  - Hamed Damirchi
-  - Zhenghua Chen
-  - Zhengguo Li
-  publisher: CoRR
-  year: 2021
-  date: '2021-06-15'
-  link: https://arxiv.org/abs/2101.07061
-
-- id: doi:10.1109/TMC.2019.2960780
-  type: doi
-  title: Deep Neural Network Based Inertial Odometry Using Low-Cost Inertial Measurement
-    Units
-  authors:
-  - Changhao Chen
-  - Chris Xiaoxuan Lu
-  - Johan Wahlstr&quot;om
-  - Andrew Markham
-  - Niki Trigoni
-  publisher: IEEE Trans. Mob. Comput.
-  year: 2021
-  date: '2021-06-15'
-  link: https://doi.org/10.1109/TMC.2019.2960780
-
-- id: arxiv:2112.05665
-  type: arxiv
-  title: Deep Odometry Systems on Edge with EKF-LoRa Backend for Real-Time Positioning
-    in Adverse Environment
-  authors:
-  - Zhuangzhuang Dai
-  - Muhamad Risqi Utama Saputra
-  - Chris Xiaoxuan Lu
-  - Andrew Markham
-  - Niki Trigoni
-  publisher: CoRR
-  year: 2021
-  date: '2021-06-15'
-  link: https://arxiv.org/abs/2112.05665
-
-- id: doi:10.1109/TNNLS.2021.3112460
-  type: doi
-  title: 'DynaNet: Neural Kalman Dynamical Model for Motion Estimation and Prediction'
-  authors:
-  - Changhao Chen
-  - Chris Xiaoxuan Lu
-  - Bing Wang
-  - Niki Trigoni
-  - Andrew Markham
-  publisher: IEEE Trans. Neural Networks Learn. Syst.
-  year: 2021
-  date: '2021-06-15'
-  link: https://doi.org/10.1109/TNNLS.2021.3112460
-
-- id: doi:10.1016/J.ADHOC.2021.102475
-  type: doi
+  publisher: Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems
+  date: '2022-11-06'
+  link: https://doi.org/g5r6nq
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1016/j.adhoc.2021.102475
   title: Human tracking and identification through a millimeter wave radar
   authors:
   - Peijun Zhao
@@ -852,26 +594,40 @@
   - Niki Trigoni
   - Andrew Markham
   publisher: Ad Hoc Networks
-  year: 2021
-  date: '2021-06-15'
-  link: https://doi.org/10.1016/j.adhoc.2021.102475
-
-- id: doi:10.1145/3485730.3494116
-  type: doi
-  title: Motion Tracklet Oriented 6-DoF Inertial Tracking Using Commodity Smartphones
+  date: '2021-05-01'
+  link: https://doi.org/g6f9k2
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/TMC.2019.2960780
+  title: Deep Neural Network Based Inertial Odometry Using Low-Cost Inertial Measurement
+    Units
   authors:
-  - Peize Li
+  - Changhao Chen
   - Chris Xiaoxuan Lu
-  publisher: 'SenSys ''21: The 19th ACM Conference on Embedded Networked Sensor Systems,
-    Coimbra, Portugal, November 15 - 17, 2021'
-  year: 2021
-  date: '2021-06-15'
-  link: https://doi.org/10.1145/3485730.3494116
-
+  - Johan Wahlstrom
+  - Andrew Markham
+  - Niki Trigoni
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2021-04-01'
+  link: https://doi.org/ggf3cn
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/TNNLS.2021.3112460
+  title: 'DynaNet: Neural Kalman Dynamical Model for Motion Estimation and Prediction'
+  authors:
+  - Changhao Chen
+  - Chris Xiaoxuan Lu
+  - Bing Wang
+  - Niki Trigoni
+  - Andrew Markham
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2021-12-01'
+  link: https://doi.org/g8gbm2
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/ICCV48922.2021.01570
-  type: doi
-  title: 'P2-Net: Joint Description and Detection of Local Features for Pixel and Point
-    Matching'
+  title: 'P2-Net: Joint Description and Detection of Local Features for Pixel and
+    Point Matching'
   authors:
   - Bing Wang
   - Changhao Chen
@@ -884,47 +640,47 @@
   - Fan Zhu
   - Niki Trigoni
   - Andrew Markham
-  publisher: 2021 IEEE/CVF International Conference on Computer Vision, ICCV 2021, Montreal,
-    QC, Canada, October 10-17, 2021
-  year: 2021
-  date: '2021-06-15'
-  link: https://doi.org/10.1109/ICCV48922.2021.01570
-
-- id: arxiv:2006.12567
-  type: arxiv
-  title: 'A Survey on Deep Learning for Localization and Mapping: Towards the Age of
-    Spatial Machine Intelligence'
+  publisher: 2021 IEEE/CVF International Conference on Computer Vision (ICCV)
+  date: '2021-10-01'
+  link: https://doi.org/gsxwhr
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/ICRA48506.2021.9561738
+  title: 3D Motion Capture of an Unmodified Drone with Single-chip Millimeter Wave
+    Radar
   authors:
-  - Changhao Chen
-  - Bing Wang
-  - Chris Xiaoxuan Lu
-  - Niki Trigoni
-  - Andrew Markham
-  publisher: CoRR
-  year: 2020
-  date: '2020-06-15'
-  link: https://arxiv.org/abs/2006.12567
-
-- id: doi:10.1609/AAAI.V34I06.6608
-  type: doi
-  title: 'AtLoc: Attention Guided Camera Localization'
-  authors:
-  - Bing Wang
-  - Changhao Chen
-  - Chris Xiaoxuan Lu
   - Peijun Zhao
+  - Chris Xiaoxuan Lu
+  - Bing Wang
   - Niki Trigoni
   - Andrew Markham
-  publisher: The Thirty-Fourth AAAI Conference on Artificial Intelligence, AAAI 2020,
-    The Thirty-Second Innovative Applications of Artificial Intelligence Conference,
-    IAAI 2020, The Tenth AAAI Symposium on Educational Advances in Artificial Intelligence,
-    EAAI 2020, New York, NY, USA, February 7-12, 2020
-  year: 2020
-  date: '2020-06-15'
-  link: https://doi.org/10.1609/aaai.v34i06.6608
-
+  publisher: 2021 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2021-05-30'
+  link: https://doi.org/gpg94r
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3485730.3492888
+  title: Can Image Style Transfer Save Automotive Radar?
+  authors:
+  - Jianning Deng
+  - Kaiwen Cai
+  - Chris Xiaoxuan Lu
+  publisher: Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems
+  date: '2021-11-15'
+  link: https://doi.org/g946xr
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3485730.3494116
+  title: Motion Tracklet Oriented 6-DoF Inertial Tracking Using Commodity Smartphones
+  authors:
+  - Peize Li
+  - Chris Xiaoxuan Lu
+  publisher: Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems
+  date: '2021-11-15'
+  link: https://doi.org/g946xs
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/JIOT.2020.2966773
-  type: doi
   title: 'Deep-Learning-Based Pedestrian Inertial Navigation: Methods, Data Set, and
     On-Device Inference'
   authors:
@@ -934,32 +690,44 @@
   - Wei Wang
   - Andrew Markham
   - Niki Trigoni
-  publisher: IEEE Internet Things J.
-  year: 2020
-  date: '2020-06-15'
-  link: https://doi.org/10.1109/JIOT.2020.2966773
-
+  publisher: IEEE Internet of Things Journal
+  date: '2020-05-01'
+  link: https://doi.org/gpx6j5
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/LRA.2020.2969170
-  type: doi
   title: 'DeepTIO: A Deep Thermal-Inertial Odometry With Visual Hallucination'
   authors:
-  - Muhamad Risqi Utama Saputra
-  - Niki Trigoni
+  - Muhamad Risqi U. Saputra
   - Pedro P. B. de Gusmao
   - Chris Xiaoxuan Lu
   - Yasin Almalioglu
   - Stefano Rosa
   - Changhao Chen
-  - Johan Wahlstr&quot;om
+  - Johan Wahlstrom
   - Wei Wang
   - Andrew Markham
-  publisher: IEEE Robotics Autom. Lett.
-  year: 2020
-  date: '2020-06-15'
-  link: https://doi.org/10.1109/LRA.2020.2969170
-
+  - Niki Trigoni
+  publisher: IEEE Robotics and Automation Letters
+  date: '2020-04-01'
+  link: https://doi.org/gthdrz
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1609/aaai.v34i06.6608
+  title: 'AtLoc: Attention Guided Camera Localization'
+  authors:
+  - Bing Wang
+  - Changhao Chen
+  - Chris Xiaoxuan Lu
+  - Peijun Zhao
+  - Niki Trigoni
+  - Andrew Markham
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2020-04-03'
+  link: https://doi.org/hbmrt9
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/ICRA40945.2020.9197437
-  type: doi
   title: Heart Rate Sensing with a Robot Mounted mmWave Radar
   authors:
   - Peijun Zhao
@@ -970,82 +738,13 @@
   - Mengyu Wang
   - Niki Trigoni
   - Andrew Markham
-  publisher: 2020 IEEE International Conference on Robotics and Automation, ICRA 2020,
-    Paris, France, May 31 - August 31, 2020
-  year: 2020
-  date: '2020-06-15'
-  link: https://doi.org/10.1109/ICRA40945.2020.9197437
-
-- id: doi:10.1145/3384419.3430421
-  type: doi
-  title: 'Indoor positioning system in visually-degraded environments with millimetre-wave
-    radar and inertial sensors: demo abstract'
-  authors:
-  - Zhuangzhuang Dai
-  - Muhamad Risqi Utama Saputra
-  - Chris Xiaoxuan Lu
-  - Niki Trigoni
-  - Andrew Markham
-  publisher: 'SenSys ''20: The 18th ACM Conference on Embedded Networked Sensor Systems,
-    Virtual Event, Japan, November 16-19, 2020'
-  year: 2020
-  date: '2020-06-15'
-  link: https://doi.org/10.1145/3384419.3430421
-
-- id: arxiv:2006.02266
-  type: arxiv
-  title: 'milliEgo: mmWave Aided Egomotion Estimation with Deep Sensor Fusion'
-  authors:
-  - Chris Xiaoxuan Lu
-  - Muhamad Risqi Utama Saputra
-  - Peijun Zhao
-  - Yasin Almalioglu
-  - Pedro P. B. de Gusmao
-  - Changhao Chen
-  - Ke Sun
-  - Niki Trigoni
-  - Andrew Markham
-  publisher: CoRR
-  year: 2020
-  date: '2020-06-15'
-  link: https://arxiv.org/abs/2006.02266
-
-- id: doi:10.1145/3384419.3430776
-  type: doi
-  title: 'milliEgo: single-chip mmWave radar aided egomotion estimation via deep sensor
-    fusion'
-  authors:
-  - Chris Xiaoxuan Lu
-  - Muhamad Risqi Utama Saputra
-  - Peijun Zhao
-  - Yasin Almalioglu
-  - Pedro P. B. de Gusmao
-  - Changhao Chen
-  - Ke Sun
-  - Niki Trigoni
-  - Andrew Markham
-  publisher: 'SenSys ''20: The 18th ACM Conference on Embedded Networked Sensor Systems,
-    Virtual Event, Japan, November 16-19, 2020'
-  year: 2020
-  date: '2020-06-15'
-  link: https://doi.org/10.1145/3384419.3430776
-
-- id: doi:10.1145/3366423.3380108
-  type: doi
-  title: 'Nowhere to Hide: Cross-modal Identity Leakage between Biometrics and Devices'
-  authors:
-  - Chris Xiaoxuan Lu
-  - Yang Li
-  - Yuanbo Xiangli
-  - Zhengxiong Li
-  publisher: 'WWW ''20: The Web Conference 2020, Taipei, Taiwan, April 20-24, 2020'
-  year: 2020
-  date: '2020-06-15'
-  link: https://doi.org/10.1145/3366423.3380108
-
+  publisher: 2020 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2020-05-01'
+  link: https://doi.org/g946xv
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1145/3386901.3388945
-  type: doi
-  title: 'See through smoke: robust indoor mapping with low-cost mmWave radar'
+  title: See through smoke
   authors:
   - Chris Xiaoxuan Lu
   - Stefano Rosa
@@ -1055,47 +754,56 @@
   - John A. Stankovic
   - Niki Trigoni
   - Andrew Markham
-  publisher: 'MobiSys ''20: The 18th Annual International Conference on Mobile Systems,
-    Applications, and Services, Toronto, Ontario, Canada, June 15-19, 2020'
-  year: 2020
+  publisher: Proceedings of the 18th International Conference on Mobile Systems, Applications,
+    and Services
   date: '2020-06-15'
-  link: https://doi.org/10.1145/3386901.3388945
-
-- id: arxiv:1909.03557
-  type: arxiv
-  title: 'AtLoc: Attention Guided Camera Localization'
+  link: https://doi.org/grrk8h
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3384419.3430776
+  title: milliEgo
   authors:
-  - Bing Wang
-  - Changhao Chen
   - Chris Xiaoxuan Lu
+  - Muhamad Risqi U. Saputra
   - Peijun Zhao
+  - Yasin Almalioglu
+  - Pedro P. B. de Gusmao
+  - Changhao Chen
+  - Ke Sun
   - Niki Trigoni
   - Andrew Markham
-  publisher: CoRR
-  year: 2019
-  date: '2019-06-15'
-  link: http://arxiv.org/abs/1909.03557
-
-- id: doi:10.1145/3308558.3313398
-  type: doi
-  title: Autonomous Learning for Face Recognition in the Wild via Ambient Wireless Cues
+  publisher: Proceedings of the 18th Conference on Embedded Networked Sensor Systems
+  date: '2020-11-16'
+  link: https://doi.org/gs6mn8
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3384419.3430421
+  title: Indoor positioning system in visually-degraded environments with millimetre-wave
+    radar and inertial sensors
+  authors:
+  - Zhuangzhuang Dai
+  - Muhamad Risqi U. Saputra
+  - Chris Xiaoxuan Lu
+  - Niki Trigoni
+  - Andrew Markham
+  publisher: Proceedings of the 18th Conference on Embedded Networked Sensor Systems
+  date: '2020-11-16'
+  link: https://doi.org/g946xw
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3366423.3380108
+  title: 'Nowhere to Hide: Cross-modal Identity Leakage between Biometrics and Devices'
   authors:
   - Chris Xiaoxuan Lu
-  - Xuan Kan
-  - Bowen Du
-  - Changhao Chen
-  - Hongkai Wen
-  - Andrew Markham
-  - Niki Trigoni
-  - John A. Stankovic
-  publisher: The World Wide Web Conference, WWW 2019, San Francisco, CA, USA, May 13-17,
-    2019
-  year: 2019
-  date: '2019-06-15'
-  link: https://doi.org/10.1145/3308558.3313398
-
+  - Yang Li
+  - Yuanbo Xiangli
+  - Zhengxiong Li
+  publisher: Proceedings of The Web Conference 2020
+  date: '2020-04-20'
+  link: https://doi.org/gh97vh
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/JIOT.2019.2926645
-  type: doi
   title: Autonomous Learning of Speaker Identity and WiFi Geofence From Noisy Sensor
     Data
   authors:
@@ -1105,13 +813,25 @@
   - Changhao Chen
   - Niki Trigoni
   - Andrew Markham
-  publisher: IEEE Internet Things J.
-  year: 2019
-  date: '2019-06-15'
-  link: https://doi.org/10.1109/JIOT.2019.2926645
-
+  publisher: IEEE Internet of Things Journal
+  date: '2019-10-01'
+  link: https://doi.org/g946xx
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/THMS.2018.2875079
+  title: "Semantic Place Understanding for Human\u2013Robot Coexistence\u2014Toward\
+    \ Intelligent Workplaces"
+  authors:
+  - Stefano Rosa
+  - Andrea Patane
+  - Chris Xiaoxuan Lu
+  - Niki Trigoni
+  publisher: IEEE Transactions on Human-Machine Systems
+  date: '2019-04-01'
+  link: https://doi.org/g946x6
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/TMC.2018.2852645
-  type: doi
   title: Efficient Indoor Positioning with Visual Experiences via Lifelong Learning
   authors:
   - Hongkai Wen
@@ -1121,66 +841,12 @@
   - Bowen Du
   - Wen Hu
   - Niki Trigoni
-  publisher: IEEE Trans. Mob. Comput.
-  year: 2019
-  date: '2019-06-15'
-  link: https://doi.org/10.1109/TMC.2018.2852645
-
-- id: doi:10.1145/3288599.3288635
-  type: doi
-  title: 'HydraDoctor: real-time liquids intake monitoring by collaborative sensing'
-  authors:
-  - Bowen Du
-  - Chris Xiaoxuan Lu
-  - Xuan Kan
-  - Kai Wu
-  - Man Luo
-  - Jianfeng Hou
-  - Kai Li
-  - Salil S. Kanhere
-  - Yiran Shen
-  - Hongkai Wen
-  publisher: Proceedings of the 20th International Conference on Distributed Computing
-    and Networking, ICDCN 2019, Bangalore, India, January 04-07, 2019
-  year: 2019
-  date: '2019-06-15'
-  link: https://doi.org/10.1145/3288599.3288635
-
-- id: doi:10.1145/3341162.3344858
-  type: doi
-  title: 'iSCAN: automatic speaker adaptation via iterative cross-modality association'
-  authors:
-  - Yuanbo Xiangli
-  - Chris Xiaoxuan Lu
-  - Peijun Zhao
-  - Changhao Chen
-  - Andrew Markham
-  publisher: Proceedings of the 2019 ACM International Joint Conference on Pervasive
-    and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium
-    on Wearable Computers, UbiComp/ISWC 2019 Adjunct, London, UK, September 9-13, 2019
-  year: 2019
-  date: '2019-06-15'
-  link: https://doi.org/10.1145/3341162.3344858
-
-- id: doi:10.1109/DCOSS.2019.00028
-  type: doi
-  title: 'mID: Tracking and Identifying People with Millimeter Wave Radar'
-  authors:
-  - Peijun Zhao
-  - Chris Xiaoxuan Lu
-  - Jianan Wang
-  - Changhao Chen
-  - Wei Wang
-  - Niki Trigoni
-  - Andrew Markham
-  publisher: 15th International Conference on Distributed Computing in Sensor Systems,
-    DCOSS 2019, Santorini, Greece, May 29-31, 2019
-  year: 2019
-  date: '2019-06-15'
-  link: https://doi.org/10.1109/DCOSS.2019.00028
-
-- id: doi:10.1609/AAAI.V33I01.33018009
-  type: doi
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2019-04-01'
+  link: https://doi.org/g946xz
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1609/aaai.v33i01.33018009
   title: 'MotionTransformer: Transferring Neural Inertial Tracking between Domains'
   authors:
   - Changhao Chen
@@ -1190,30 +856,12 @@
   - Phil Blunsom
   - Andrew Markham
   - Niki Trigoni
-  publisher: The Thirty-Third AAAI Conference on Artificial Intelligence, AAAI 2019,
-    The Thirty-First Innovative Applications of Artificial Intelligence Conference,
-    IAAI 2019, The Ninth AAAI Symposium on Educational Advances in Artificial Intelligence,
-    EAAI 2019, Honolulu, Hawaii, USA, January 27 - February 1, 2019
-  year: 2019
-  date: '2019-06-15'
-  link: https://doi.org/10.1609/aaai.v33i01.33018009
-
-- id: arxiv:1912.13077
-  type: arxiv
-  title: 'SelectFusion: A Generic Framework to Selectively Learn Multisensory Fusion'
-  authors:
-  - Changhao Chen
-  - Stefano Rosa
-  - Chris Xiaoxuan Lu
-  - Niki Trigoni
-  - Andrew Markham
-  publisher: CoRR
-  year: 2019
-  date: '2019-06-15'
-  link: http://arxiv.org/abs/1912.13077
-
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2019-07-17'
+  link: https://doi.org/ghkkdk
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/CVPR.2019.01079
-  type: doi
   title: Selective Sensor Fusion for Neural Visual-Inertial Odometry
   authors:
   - Changhao Chen
@@ -1223,94 +871,92 @@
   - Wei Wu
   - Andrew Markham
   - Niki Trigoni
-  publisher: IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019,
-    Long Beach, CA, USA, June 16-20, 2019
-  year: 2019
-  date: '2019-06-15'
-  link: http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Selective_Sensor_Fusion_for_Neural_Visual-Inertial_Odometry_CVPR_2019_paper.html
-
-- id: doi:10.1109/THMS.2018.2875079
-  type: doi
-  title: Semantic Place Understanding for Human-Robot Coexistence - Toward Intelligent
-    Workplaces
+  publisher: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2019-06-01'
+  link: https://doi.org/g946x5
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/DCOSS.2019.00028
+  title: 'mID: Tracking and Identifying People with Millimeter Wave Radar'
   authors:
-  - Stefano Rosa
-  - Andrea Patane
-  - Chris Xiaoxuan Lu
-  - Niki Trigoni
-  publisher: IEEE Trans. Hum. Mach. Syst.
-  year: 2019
-  date: '2019-06-15'
-  link: https://doi.org/10.1109/THMS.2018.2875079
-
-- id: doi:10.1145/3274783.3275191
-  type: doi
-  title: Automatic Face Recognition Adaptation via Ambient Wireless Identifiers
-  authors:
-  - Chris Xiaoxuan Lu
   - Peijun Zhao
-  - Bowen Du
-  - Hongkai Wen
+  - Chris Xiaoxuan Lu
+  - Jianan Wang
+  - Changhao Chen
+  - Wei Wang
+  - Niki Trigoni
   - Andrew Markham
-  - Stefano Rosa
-  - Niki Trigoni
-  publisher: Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems,
-    SenSys 2018, Shenzhen, China, November 4-7, 2018
-  year: 2018
-  date: '2018-06-15'
-  link: https://doi.org/10.1145/3274783.3275191
-
-- id: doi:10.1145/3215525.3215526
-  type: doi
-  title: 'CommonSense: Collaborative learning of scene semantics by robots and humans'
+  publisher: 2019 15th International Conference on Distributed Computing in Sensor
+    Systems (DCOSS)
+  date: '2019-05-01'
+  link: https://doi.org/g946x4
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3341162.3344858
+  title: iSCAN
   authors:
-  - Stefano Rosa
-  - Andrea Patanè
-  - Xiaoxuan Lu
-  - Niki Trigoni
-  publisher: Proceedings of the 1st International Workshop on Internet of People, Assistive
-    Robots and ThingS, IoPARTS@MobiSys 2018, Munich, Germany, June 10, 2018
-  year: 2018
-  date: '2018-06-15'
-  link: https://doi.org/10.1145/3215525.3215526
-
-- id: doi:10.1145/3267242.3267252
-  type: doi
-  title: 'Deepauth: in-situ authentication for smartwatches via deeply learned behavioural
-    biometrics'
-  authors:
+  - Yuanbo Xiangli
   - Chris Xiaoxuan Lu
-  - Bowen Du
   - Peijun Zhao
-  - Hongkai Wen
+  - Changhao Chen
+  - Andrew Markham
+  publisher: Adjunct Proceedings of the 2019 ACM International Joint Conference on
+    Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International
+    Symposium on Wearable Computers
+  date: '2019-09-09'
+  link: https://doi.org/g946x3
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3288599.3288635
+  title: HydraDoctor
+  authors:
+  - Bowen Du
+  - Chris Xiaoxuan Lu
+  - Xuan Kan
+  - Kai Wu
+  - Man Luo
+  - Jianfeng Hou
+  - Kai Li
+  - Salil Kanhere
   - Yiran Shen
+  - Hongkai Wen
+  publisher: Proceedings of the 20th International Conference on Distributed Computing
+    and Networking
+  date: '2019-01-04'
+  link: https://doi.org/g946x2
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3308558.3313398
+  title: Autonomous Learning for Face Recognition in the Wild via Ambient Wireless
+    Cues
+  authors:
+  - Chris Xiaoxuan Lu
+  - Xuan Kan
+  - Bowen Du
+  - Changhao Chen
+  - Hongkai Wen
   - Andrew Markham
   - Niki Trigoni
-  publisher: Proceedings of the 2018 ACM International Symposium on Wearable Computers,
-    ISWC 2018, Singapore, Singapore, October 8-12, 2018
-  year: 2018
-  date: '2018-06-15'
-  link: https://doi.org/10.1145/3267242.3267252
-
-- id: doi:10.1609/AAAI.V32I1.12102
-  type: doi
+  - John Stankovic
+  publisher: The World Wide Web Conference
+  date: '2019-05-13'
+  link: https://doi.org/ghcqrs
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1609/aaai.v32i1.12102
   title: 'IONet: Learning to Cure the Curse of Drift in Inertial Odometry'
   authors:
   - Changhao Chen
   - Xiaoxuan Lu
   - Andrew Markham
   - Niki Trigoni
-  publisher: Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence,
-    (AAAI-18), the 30th innovative Applications of Artificial Intelligence (IAAI-18),
-    and the 8th AAAI Symposium on Educational Advances in Artificial Intelligence (EAAI-18),
-    New Orleans, Louisiana, USA, February 2-7, 2018
-  year: 2018
-  date: '2018-06-15'
-  link: https://doi.org/10.1609/aaai.v32i1.12102
-
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2018-04-26'
+  link: https://doi.org/hbmrvb
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/CVPRW.2018.00069
-  type: doi
-  title: Learning 3D Scene Semantics and Structure From a Single Depth Image
+  title: Learning 3D Scene Semantics and Structure from a Single Depth Image
   authors:
   - Bo Yang
   - Zihang Lai
@@ -1319,39 +965,30 @@
   - Hongkai Wen
   - Andrew Markham
   - Niki Trigoni
-  publisher: 2018 IEEE Conference on Computer Vision and Pattern Recognition Workshops,
-    CVPR Workshops 2018, Salt Lake City, UT, USA, June 18-22, 2018
-  year: 2018
-  date: '2018-06-15'
-  link: http://openaccess.thecvf.com/content_cvpr_2018_workshops/w9/html/Yang_Learning_3D_Scene_CVPR_2018_paper.html
-
-- id: arxiv:1809.07491
-  type: arxiv
-  title: 'OxIOD: The Dataset for Deep Inertial Odometry'
+  publisher: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
+    (CVPRW)
+  date: '2018-06-01'
+  link: https://doi.org/g8hm7j
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3267242.3267252
+  title: Deepauth
   authors:
-  - Changhao Chen
-  - Peijun Zhao
   - Chris Xiaoxuan Lu
-  - Wei Wang
+  - Bowen Du
+  - Peijun Zhao
+  - Hongkai Wen
+  - Yiran Shen
   - Andrew Markham
   - Niki Trigoni
-  publisher: CoRR
-  year: 2018
-  date: '2018-06-15'
-  link: http://arxiv.org/abs/1809.07491
-
-- id: url:https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.772559
-  type: url
-  title: Robustly inferring identity across digital and physical worlds
-  authors:
-  - Xiaoxuan Lu
-  year: 2018
-  date: '2018-06-15'
-  link: https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.772559
-
+  publisher: Proceedings of the 2018 ACM International Symposium on Wearable Computers
+  date: '2018-10-08'
+  link: https://doi.org/g946x8
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1145/3241539.3241540
-  type: doi
-  title: Simultaneous Localization and Mapping with Power Network Electromagnetic Field
+  title: Simultaneous Localization and Mapping with Power Network Electromagnetic
+    Field
   authors:
   - Chris Xiaoxuan Lu
   - Yang Li
@@ -1362,59 +999,41 @@
   - Rui Tan
   - Niki Trigoni
   publisher: Proceedings of the 24th Annual International Conference on Mobile Computing
-    and Networking, MobiCom 2018, New Delhi, India, October 29 - November 02, 2018
-  year: 2018
-  date: '2018-06-15'
-  link: https://doi.org/10.1145/3241539.3241540
-
-- id: arxiv:1810.02076
-  type: arxiv
-  title: Transferring Physical Motion Between Domains for Neural Inertial Tracking
-  authors:
-  - Changhao Chen
-  - Yishu Miao
-  - Chris Xiaoxuan Lu
-  - Phil Blunsom
-  - Andrew Markham
-  - Niki Trigoni
-  publisher: CoRR
-  year: 2018
-  date: '2018-06-15'
-  link: http://arxiv.org/abs/1810.02076
-
-- id: doi:10.1145/3029798.3038343
-  type: doi
-  title: Leveraging User Activities and Mobile Robots for Semantic Mapping and User
-    Localization
+    and Networking
+  date: '2018-10-15'
+  link: https://doi.org/ghkqg2
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3215525.3215526
+  title: CommonSense
   authors:
   - Stefano Rosa
+  - "Andrea Patan\xE8"
   - Xiaoxuan Lu
-  - Hongkai Wen
   - Niki Trigoni
-  publisher: Companion of the 2017 ACM/IEEE International Conference on Human-Robot
-    Interaction, HRI 2017, Vienna, Austria, March 6-9, 2017
-  year: 2017
-  date: '2017-06-15'
-  link: https://doi.org/10.1145/3029798.3038343
-
-- id: doi:10.1145/3055031.3055073
-  type: doi
-  title: 'SCAN: learning speaker identity from noisy sensor data'
+  publisher: Proceedings of the 1st International Workshop on Internet of People,
+    Assistive Robots and Things
+  date: '2018-06-10'
+  link: https://doi.org/g946x7
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3274783.3275191
+  title: Automatic Face Recognition Adaptation via Ambient Wireless Identifiers
   authors:
   - Chris Xiaoxuan Lu
+  - Peijun Zhao
+  - Bowen Du
   - Hongkai Wen
-  - Sen Wang
   - Andrew Markham
+  - Stefano Rosa
   - Niki Trigoni
-  publisher: Proceedings of the 16th ACM/IEEE International Conference on Information
-    Processing in Sensor Networks, IPSN 2017, Pittsburgh, PA, USA, April 18-21, 2017
-  year: 2017
-  date: '2017-06-15'
-  link: https://doi.org/10.1145/3055031.3055073
-
+  publisher: Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems
+  date: '2018-11-04'
+  link: https://doi.org/g6d5s8
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1145/3161196
-  type: doi
-  title: 'Snoopy: Sniffing Your Smartwatch Passwords via Deep Sequence Learning'
+  title: Snoopy
   authors:
   - Chris Xiaoxuan Lu
   - Bowen Du
@@ -1424,13 +1043,56 @@
   - Ivan Martinovic
   - Yiran Shen
   - Niki Trigoni
-  publisher: Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.
-  year: 2017
-  date: '2017-06-15'
-  link: https://doi.org/10.1145/3161196
-
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2018-01-08'
+  link: https://doi.org/hbmrvc
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3029798.3038343
+  title: Leveraging User Activities and Mobile Robots for Semantic Mapping and User
+    Localization
+  authors:
+  - Stefano Rosa
+  - Xiaoxuan Lu
+  - Hongkai Wen
+  - Niki Trigoni
+  publisher: Proceedings of the Companion of the 2017 ACM/IEEE International Conference
+    on Human-Robot Interaction
+  date: '2017-03-06'
+  link: https://doi.org/g946x9
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3055031.3055073
+  title: SCAN
+  authors:
+  - Chris Xiaoxuan Lu
+  - Hongkai Wen
+  - Sen Wang
+  - Andrew Markham
+  - Niki Trigoni
+  publisher: Proceedings of the 16th ACM/IEEE International Conference on Information
+    Processing in Sensor Networks
+  date: '2017-04-18'
+  link: https://doi.org/g946zc
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3139243.3139251
+  title: VeriNet
+  authors:
+  - Chris Xiaoxuan Lu
+  - Bowen Du
+  - Xuan Kan
+  - Hongkai Wen
+  - Andrew Markham
+  - Niki Trigoni
+  publisher: Proceedings of the First ACM Workshop on Mobile Crowdsensing Systems
+    and Applications
+  date: '2017-11-06'
+  link: https://doi.org/g946zd
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1145/3131672.3136991
-  type: doi
   title: Towards Self-supervised Face Labeling via Cross-modality Association
   authors:
   - Chris Xiaoxuan Lu
@@ -1440,47 +1102,14 @@
   - Hongkai Wen
   - Andrew Markham
   - Niki Trigoni
-  publisher: Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems,
-    SenSys 2017, Delft, Netherlands, November 06-08, 2017
-  year: 2017
-  date: '2017-06-15'
-  link: https://doi.org/10.1145/3131672.3136991
-
-- id: doi:10.1145/3139243.3139251
-  type: doi
-  title: 'VeriNet: User Verification on Smartwatches via Behavior Biometrics'
-  authors:
-  - Chris Xiaoxuan Lu
-  - Bowen Du
-  - Xuan Kan
-  - Hongkai Wen
-  - Andrew Markham
-  - Niki Trigoni
-  publisher: Proceedings of the First ACM Workshop on Mobile Crowdsensing Systems and
-    Applications, CrowdSenSys@SenSys 2017, Delft, The Netherlands, November 5, 2017
-  year: 2017
-  date: '2017-06-15'
-  link: https://doi.org/10.1145/3139243.3139251
-
-- id: doi:10.1109/TWC.2015.2487963
-  type: doi
-  title: A Robust Indoor Positioning System Based on the Procrustes Analysis and Weighted
-    Extreme Learning Machine
-  authors:
-  - Han Zou
-  - Baoqi Huang
-  - Xiaoxuan Lu
-  - Hao Jiang
-  - Lihua Xie
-  publisher: IEEE Trans. Wirel. Commun.
-  year: 2016
-  date: '2016-06-15'
-  link: https://doi.org/10.1109/TWC.2015.2487963
-
-- id: doi:10.3390/S16020268
-  type: doi
-  title: 'BlueDetect: An iBeacon-Enabled Scheme for Accurate and Energy-Efficient Indoor-Outdoor
-    Detection and Seamless Location-Based Service'
+  publisher: Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems
+  date: '2017-11-06'
+  link: https://doi.org/g946zb
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.3390/s16020268
+  title: 'BlueDetect: An iBeacon-Enabled Scheme for Accurate and Energy-Efficient
+    Indoor-Outdoor Detection and Seamless Location-Based Service'
   authors:
   - Han Zou
   - Hao Jiang
@@ -1489,12 +1118,11 @@
   - Xiaoxuan Lu
   - Lihua Xie
   publisher: Sensors
-  year: 2016
-  date: '2016-06-15'
-  link: https://doi.org/10.3390/s16020268
-
+  date: '2016-02-22'
+  link: https://doi.org/f8s4q3
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/TCYB.2015.2399420
-  type: doi
   title: Robust Extreme Learning Machine With its Application to Indoor Positioning
   authors:
   - Xiaoxuan Lu
@@ -1502,29 +1130,26 @@
   - Hongming Zhou
   - Lihua Xie
   - Guang-Bin Huang
-  publisher: IEEE Trans. Cybern.
-  year: 2016
-  date: '2016-06-15'
-  link: https://doi.org/10.1109/TCYB.2015.2399420
-
-- id: doi:10.1109/WIMOB.2016.7763228
-  type: doi
-  title: Robust occupancy inference with commodity WiFi
+  publisher: IEEE Transactions on Cybernetics
+  date: '2016-01-01'
+  link: https://doi.org/f74xc2
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/TWC.2015.2487963
+  title: A Robust Indoor Positioning System Based on the Procrustes Analysis and Weighted
+    Extreme Learning Machine
   authors:
-  - Xiaoxuan Lu
-  - Hongkai Wen
   - Han Zou
+  - Baoqi Huang
+  - Xiaoxuan Lu
   - Hao Jiang
   - Lihua Xie
-  - Niki Trigoni
-  publisher: 12th IEEE International Conference on Wireless and Mobile Computing, Networking
-    and Communications, WiMob 2016, New York, NY, USA, October 17-19, 2016
-  year: 2016
-  date: '2016-06-15'
-  link: https://doi.org/10.1109/WiMOB.2016.7763228
-
+  publisher: IEEE Transactions on Wireless Communications
+  date: '2016-02-01'
+  link: https://doi.org/f8bw3b
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/WCNC.2016.7564800
-  type: doi
   title: Standardizing location fingerprints across heterogeneous mobile devices for
     indoor localization
   authors:
@@ -1533,14 +1158,27 @@
   - Xiaoxuan Lu
   - Hao Jiang
   - Lihua Xie
-  publisher: IEEE Wireless Communications and Networking Conference, WCNC 2016, Doha,
-    Qatar, April 3-6, 2016
-  year: 2016
-  date: '2016-06-15'
-  link: https://doi.org/10.1109/WCNC.2016.7564800
-
-- id: doi:10.3390/S150101804
-  type: doi
+  publisher: 2016 IEEE Wireless Communications and Networking Conference
+  date: '2016-04-01'
+  link: https://doi.org/g946zf
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/WiMOB.2016.7763228
+  title: Robust occupancy inference with commodity WiFi
+  authors:
+  - Xiaoxuan Lu
+  - Hongkai Wen
+  - Han Zou
+  - Hao Jiang
+  - Lihua Xie
+  - Niki Trigoni
+  publisher: 2016 IEEE 12th International Conference on Wireless and Mobile Computing,
+    Networking and Communications (WiMob)
+  date: '2016-10-01'
+  link: https://doi.org/g76q93
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.3390/s150101804
   title: A Fast and Precise Indoor Localization Algorithm Based on an Online Sequential
     Extreme Learning Machine
   authors:
@@ -1549,12 +1187,11 @@
   - Hao Jiang
   - Lihua Xie
   publisher: Sensors
-  year: 2015
-  date: '2015-06-15'
-  link: https://doi.org/10.3390/s150101804
-
-- id: doi:10.1109/COASE.2015.7294059
-  type: doi
+  date: '2015-01-15'
+  link: https://doi.org/f6z44h
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/CoASE.2015.7294059
   title: A mutual information based online access point selection strategy for WiFi
     indoor localization
   authors:
@@ -1563,14 +1200,43 @@
   - Xiaoxuan Lu
   - Hao Jiang
   - Lihua Xie
-  publisher: IEEE International Conference on Automation Science and Engineering, CASE
-    2015, Gothenburg, Sweden, August 24-28, 2015
-  year: 2015
-  date: '2015-06-15'
-  link: https://doi.org/10.1109/CoASE.2015.7294059
-
-- id: doi:10.1109/WF-IOT.2014.6803130
-  type: doi
+  publisher: 2015 IEEE International Conference on Automation Science and Engineering
+    (CASE)
+  date: '2015-08-01'
+  link: https://doi.org/g946zg
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/ICARCV.2014.7064376
+  title: Extreme learning machine with dead zone and its application to WiFi based
+    indoor positioning
+  authors:
+  - Xiaoxuan Lu
+  - Chengpu Yu
+  - Han Zou
+  - Hao Jiang
+  - Lihua Xie
+  publisher: 2014 13th International Conference on Control Automation Robotics &amp;
+    Vision (ICARCV)
+  date: '2014-12-01'
+  link: https://doi.org/g946zj
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/MLSP.2014.6958903
+  title: Robust extreme learning machine for regression problems with its application
+    to wifi based indoor positioning system
+  authors:
+  - ' Xiaoxuan Lu'
+  - ' Yushen Long'
+  - Han Zou
+  - ' Chengpu Yu'
+  - ' Lihua Xie'
+  publisher: 2014 IEEE International Workshop on Machine Learning for Signal Processing
+    (MLSP)
+  date: '2014-09-01'
+  link: https://doi.org/g946zk
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/WF-IoT.2014.6803130
   title: An online sequential extreme learning machine approach to WiFi based indoor
     positioning
   authors:
@@ -1578,40 +1244,8 @@
   - Hao Jiang
   - Xiaoxuan Lu
   - Lihua Xie
-  publisher: IEEE World Forum on Internet of Things, WF-IoT 2014, Seoul, South Korea,
-    March 6-8, 2014
-  year: 2014
-  date: '2014-06-15'
-  link: https://doi.org/10.1109/WF-IoT.2014.6803130
-
-- id: doi:10.1109/ICARCV.2014.7064376
-  type: doi
-  title: Extreme learning machine with dead zone and its application to WiFi based indoor
-    positioning
-  authors:
-  - Xiaoxuan Lu
-  - Chengpu Yu
-  - Han Zou
-  - Hao Jiang
-  - Lihua Xie
-  publisher: 13th International Conference on Control Automation Robotics &amp; Vision,
-    ICARCV 2014, Singapore, December 10-12, 2014
-  year: 2014
-  date: '2014-06-15'
-  link: https://doi.org/10.1109/ICARCV.2014.7064376
-
-- id: doi:10.1109/MLSP.2014.6958903
-  type: doi
-  title: Robust extreme learning machine for regression problems with its application
-    to wifi based indoor positioning system
-  authors:
-  - Xiaoxuan Lu
-  - Yushen Long
-  - Han Zou
-  - Chengpu Yu
-  - Lihua Xie
-  publisher: IEEE International Workshop on Machine Learning for Signal Processing,
-    MLSP 2014, Reims, France, September 21-24, 2014
-  year: 2014
-  date: '2014-06-15'
-  link: https://doi.org/10.1109/MLSP.2014.6958903
+  publisher: 2014 IEEE World Forum on Internet of Things (WF-IoT)
+  date: '2014-03-01'
+  link: https://doi.org/g946zh
+  plugin: dblp.py
+  file: dblp.yaml
