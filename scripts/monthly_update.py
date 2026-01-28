@@ -3,7 +3,7 @@
 Interactive Monthly Website Update Script
 
 This script helps you perform monthly updates to your academic group website:
-1. Update publications from DBLP (and optionally bibtex-to-manubot)
+1. Update publications from DBLP
 2. Manage research highlights
 3. Update team members (add newcomers, move leavers to alumni)
 
@@ -126,7 +126,6 @@ def update_publications_menu():
             message="What would you like to do?",
             choices=[
                 ("Fetch new publications from DBLP (run cite.py)", "dblp"),
-                ("Import from BibTeX file (bibtex-to-manubot)", "bibtex"),
                 ("Show recent publications", "show_recent"),
                 ("Back to main menu", "back"),
             ],
@@ -141,8 +140,6 @@ def update_publications_menu():
 
     if action == "dblp":
         update_from_dblp()
-    elif action == "bibtex":
-        update_from_bibtex()
     elif action == "show_recent":
         show_recent_publications()
 
@@ -169,63 +166,6 @@ def update_from_dblp():
                     console.print(f"  • {pub.get('title', 'Untitled')[:60]}...")
         else:
             console.print("\n[yellow]No new publications found.[/yellow]")
-
-
-def update_from_bibtex():
-    """Update publications from BibTeX file using bibtex-to-manubot"""
-    console.print("\n[bold]BibTeX Import[/bold]")
-    console.print("This uses the bibtex-to-manubot tool: https://github.com/ChristopherLu/bibtex-to-manubot")
-
-    questions = [
-        inquirer.Path(
-            "bibtex_path",
-            message="Enter path to BibTeX file",
-            path_type=inquirer.Path.FILE,
-            exists=True,
-        )
-    ]
-
-    answer = inquirer.prompt(questions)
-    if not answer:
-        return
-
-    bibtex_path = Path(answer["bibtex_path"])
-
-    # Check if bibtex-to-manubot is available
-    try:
-        # Try to import or run bibtex-to-manubot
-        result = subprocess.run(
-            ["python", "-c", "import bibtex_to_manubot"],
-            capture_output=True
-        )
-
-        if result.returncode != 0:
-            console.print("\n[yellow]bibtex-to-manubot not installed.[/yellow]")
-            console.print("Install it with: pip install git+https://github.com/ChristopherLu/bibtex-to-manubot.git")
-
-            # Offer alternative: manual conversion guidance
-            console.print("\n[bold]Alternative: Manual BibTeX Processing[/bold]")
-            console.print("1. Run: bibtex-to-manubot convert <your.bib> -o sources_new.yaml")
-            console.print("2. Merge the output into _data/sources.yaml")
-            console.print("3. Run: python _cite/cite.py")
-            return
-
-        # Run bibtex-to-manubot
-        output_file = PROJECT_ROOT / "_data" / "sources_bibtex_import.yaml"
-        subprocess.run([
-            "python", "-m", "bibtex_to_manubot", "convert",
-            str(bibtex_path),
-            "-o", str(output_file)
-        ])
-
-        if output_file.exists():
-            console.print(f"\n[green]Converted BibTeX saved to {output_file}[/green]")
-            console.print("Running citation update to merge...")
-            run_citation_update()
-
-    except Exception as e:
-        console.print(f"\n[red]Error: {e}[/red]")
-        console.print("Please ensure bibtex-to-manubot is installed and accessible.")
 
 
 def show_recent_publications(limit=10):
@@ -748,7 +688,7 @@ def main_menu():
                 "section",
                 message="What would you like to update?",
                 choices=[
-                    ("📚 Publications (DBLP, BibTeX)", "publications"),
+                    ("📚 Publications (DBLP)", "publications"),
                     ("⭐ Research Highlights", "highlights"),
                     ("👥 Team Members", "team"),
                     ("🔄 Run full citation update", "cite"),
