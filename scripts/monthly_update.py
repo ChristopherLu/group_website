@@ -18,8 +18,6 @@ import os
 import sys
 import argparse
 import subprocess
-import shutil
-from datetime import datetime
 from pathlib import Path
 
 # Add _cite to path for imports
@@ -454,220 +452,66 @@ def edit_highlight(highlights):
 # ============================================================================
 
 def manage_team_menu():
-    """Interactive menu for managing team members"""
+    """Show guidelines for managing team members"""
     console.print(Panel("[bold]Team Member Management[/bold]", style="green"))
 
-    # Show current members
+    # Show current members count
     members = list(MEMBERS_DIR.glob("*.md"))
     alumni = list(ALUMNI_DIR.glob("*.md")) if ALUMNI_DIR.exists() else []
 
     console.print(f"\n[bold]Current Team:[/bold] {len(members)} members")
     console.print(f"[bold]Alumni:[/bold] {len(alumni)} members")
 
-    # Show member names
+    # Show guidelines
+    console.print("\n" + "=" * 60)
+    console.print("[bold cyan]Guidelines for Team Member Updates[/bold cyan]")
+    console.print("=" * 60)
+
+    console.print("\n[bold]📁 File Locations:[/bold]")
+    console.print(f"  • Active members: [green]_members/*.md[/green]")
+    console.print(f"  • Alumni: [green]_members/alumni/*.md[/green]")
+    console.print(f"  • Profile photos: [green]images/member_photos/[/green]")
+
+    console.print("\n[bold]➕ To Add a New Member:[/bold]")
+    console.print("  1. Create a new file: [cyan]_members/YYYY-MM-firstname-lastname.md[/cyan]")
+    console.print("  2. Add profile photo: [cyan]images/member_photos/firstname_lastname.jpg[/cyan]")
+    console.print("  3. Use this template:")
+    console.print("""
+[dim]---
+name: Full Name
+image: images/member_photos/firstname_lastname.jpg
+role: phd  # options: phd, postdoc, masters, undergrad, visiting, programmer
+links:
+  email: email@ucl.ac.uk
+  home-page: https://example.com  # optional
+---
+
+Biography text goes here.[/dim]
+""")
+
+    console.print("[bold]🎓 To Move a Member to Alumni:[/bold]")
+    console.print("  1. Move file: [cyan]_members/xxx.md[/cyan] → [cyan]_members/alumni/xxx.md[/cyan]")
+    console.print("  2. Update the file's front matter:")
+    console.print("""
+[dim]---
+name: Full Name
+image: images/member_photos/firstname_lastname.jpg
+role: alumni
+alumni: true
+---
+
+Updated biography mentioning their time at the lab and current position.[/dim]
+""")
+
+    console.print("[bold]✏️  To Edit a Member:[/bold]")
+    console.print("  • Simply edit the .md file directly in your editor")
+
+    console.print("\n[bold]📋 Current Members:[/bold]")
     for member_file in sorted(members):
-        info = parse_member_file(member_file)
-        role = info.get("role", "member")
-        console.print(f"  • {info.get('name', member_file.stem)} [{role}]")
+        console.print(f"  • [dim]{member_file.name}[/dim]")
 
-    questions = [
-        inquirer.List(
-            "action",
-            message="What would you like to do?",
-            choices=[
-                ("Add a new team member", "add"),
-                ("Move a member to alumni", "to_alumni"),
-                ("Edit a member's profile", "edit"),
-                ("View all alumni", "view_alumni"),
-                ("Back to main menu", "back"),
-            ],
-        )
-    ]
-
-    answer = inquirer.prompt(questions)
-    if not answer:
-        return
-
-    action = answer["action"]
-
-    if action == "add":
-        add_team_member()
-    elif action == "to_alumni":
-        move_to_alumni(members)
-    elif action == "edit":
-        edit_team_member(members)
-    elif action == "view_alumni":
-        view_alumni(alumni)
-
-
-def parse_member_file(path):
-    """Parse a member markdown file and extract front matter"""
-    with open(path, "r", encoding="utf8") as f:
-        content = f.read()
-
-    if content.startswith("---"):
-        parts = content.split("---", 2)
-        if len(parts) >= 3:
-            front_matter = yaml.load(parts[1], Loader=SafeLoader) or {}
-            bio = parts[2].strip()
-            return {**front_matter, "_bio": bio, "_path": path}
-
-    return {"_bio": content, "_path": path}
-
-
-def add_team_member():
-    """Add a new team member"""
-    console.print("\n[bold]Add New Team Member[/bold]")
-
-    questions = [
-        inquirer.Text("name", message="Full name"),
-        inquirer.List(
-            "role",
-            message="Role",
-            choices=[
-                ("PhD Student", "phd"),
-                ("Postdoc", "postdoc"),
-                ("Master's Student", "masters"),
-                ("Undergraduate", "undergrad"),
-                ("Visiting Researcher", "visiting"),
-                ("Research Assistant", "programmer"),
-            ],
-        ),
-        inquirer.Text("email", message="Email (optional)"),
-        inquirer.Text("homepage", message="Homepage URL (optional)"),
-        inquirer.Editor("bio", message="Biography (press Enter to open editor)"),
-    ]
-
-    answers = inquirer.prompt(questions)
-    if not answers:
-        return
-
-    # Generate filename
-    now = datetime.now()
-    name_slug = answers["name"].lower().replace(" ", "-").replace(".", "")
-    filename = f"{now.year}-{now.month:02d}-{name_slug}.md"
-
-    # Build front matter
-    front_matter = {
-        "name": answers["name"],
-        "role": answers["role"],
-    }
-
-    # Add optional fields
-    links = {}
-    if answers.get("email"):
-        links["email"] = answers["email"]
-    if answers.get("homepage"):
-        links["home-page"] = answers["homepage"]
-    if links:
-        front_matter["links"] = links
-
-    # Create file content
-    content = "---\n"
-    content += yaml.dump(front_matter, default_flow_style=False, sort_keys=False, allow_unicode=True)
-    content += "---\n\n"
-    content += answers.get("bio", "").strip() + "\n"
-
-    # Write file
-    member_path = MEMBERS_DIR / filename
-    with open(member_path, "w", encoding="utf8") as f:
-        f.write(content)
-
-    console.print(f"\n[green]Created member profile: {filename}[/green]")
-    console.print(f"[dim]Don't forget to add a photo to images/member_photos/[/dim]")
-
-
-def move_to_alumni(members):
-    """Move a team member to alumni"""
-    if not members:
-        console.print("[yellow]No members to move.[/yellow]")
-        return
-
-    # Filter out PI
-    movable = []
-    for m in members:
-        info = parse_member_file(m)
-        if info.get("role") != "principal-investigator":
-            movable.append((info.get("name", m.stem), m))
-
-    if not movable:
-        console.print("[yellow]No members available to move to alumni.[/yellow]")
-        return
-
-    questions = [
-        inquirer.List(
-            "member",
-            message="Select member to move to alumni",
-            choices=movable,
-        )
-    ]
-
-    answer = inquirer.prompt(questions)
-    if not answer:
-        return
-
-    member_path = answer["member"]
-
-    # Ensure alumni directory exists
-    ALUMNI_DIR.mkdir(exist_ok=True)
-
-    # Move file
-    new_path = ALUMNI_DIR / member_path.name
-    shutil.move(str(member_path), str(new_path))
-
-    console.print(f"[green]Moved {member_path.name} to alumni/[/green]")
-
-
-def edit_team_member(members):
-    """Edit a team member's profile"""
-    if not members:
-        console.print("[yellow]No members to edit.[/yellow]")
-        return
-
-    choices = []
-    for m in members:
-        info = parse_member_file(m)
-        choices.append((info.get("name", m.stem), m))
-
-    questions = [
-        inquirer.List(
-            "member",
-            message="Select member to edit",
-            choices=choices,
-        )
-    ]
-
-    answer = inquirer.prompt(questions)
-    if not answer:
-        return
-
-    member_path = answer["member"]
-    console.print(f"\n[dim]Opening {member_path} in your default editor...[/dim]")
-    console.print("[dim]Edit the file manually, then save and close.[/dim]")
-
-    # Open in default editor
-    editor = os.environ.get("EDITOR", "nano")
-    subprocess.run([editor, str(member_path)])
-
-
-def view_alumni(alumni):
-    """View all alumni members"""
-    if not alumni:
-        console.print("[yellow]No alumni found.[/yellow]")
-        return
-
-    table = Table(title="Alumni")
-    table.add_column("Name", style="cyan")
-    table.add_column("Role", style="green")
-
-    for alumni_file in sorted(alumni):
-        info = parse_member_file(alumni_file)
-        table.add_row(
-            info.get("name", alumni_file.stem),
-            info.get("role", "member")
-        )
-
-    console.print(table)
+    console.print("\n[dim]Press Enter to return to main menu...[/dim]")
+    input()
 
 
 # ============================================================================
@@ -691,7 +535,6 @@ def main_menu():
                     ("📚 Publications (DBLP)", "publications"),
                     ("⭐ Research Highlights", "highlights"),
                     ("👥 Team Members", "team"),
-                    ("🔄 Run full citation update", "cite"),
                     ("❌ Exit", "exit"),
                 ],
             )
@@ -710,8 +553,6 @@ def main_menu():
             manage_highlights_menu()
         elif section == "team":
             manage_team_menu()
-        elif section == "cite":
-            run_citation_update()
 
         console.print()  # Add spacing
 
