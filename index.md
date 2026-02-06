@@ -2,7 +2,7 @@
 ---
 
 <!-- # Rome wasn’t built in a day — research at RoMA is built step by step. -->
-At [UCL](https://www.ucl.ac.uk/) [RoMA Lab](https://christopherlu.github.io/group_website/), we scale Visual-Language-Action (VLA) foundation models for robotics, transforming multimodal perception into intelligent action. Our work advances embodied AI by tackling **generalization** across diverse sensors, computational **efficiency** on real-world hardware, and **trustworthy** human–robot interaction. The mission is to enable autonomous systems that operate reliably in **complex, dynamic environments**.
+At [UCL](https://www.ucl.ac.uk/) [RoMA Lab](https://christopherlu.github.io/group_website/), we scale foundation models to Visual–Language–Action (VLA) systems for robotics, transforming multimodal perception into intelligent, goal-directed behavior. Our work explores VLA systems built on vision–language and world models, enabling perception, reasoning, and control in embodied settings. We advance embodied AI by tackling **generalization** across different sensors and tasks, computational **efficiency** on resource-constrained hardware, and **trustworthy** human–robot interaction, with the goal of enabling autonomous systems that operate reliably in  **complex, dynamic environments**.
 {% include section.html %}
 
 <!-- ## Highlights -->
