@@ -1,8 +1,8 @@
 ---
 name: Guanming Wang
 image: images/member_photos/guanming_wang.jpg
-role: undergrad
-group: alum
+role: alumni
+alumni: true
 links:
   email: guanming.wang.23@ucl.ac.uk
 ---
