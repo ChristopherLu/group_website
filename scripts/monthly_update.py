@@ -72,7 +72,7 @@ def run_citation_update():
     console.print("\n[bold blue]Running citation update...[/bold blue]")
     # Run from project root since cite.py uses Path.cwd() for finding data files
     result = subprocess.run(
-        ["python", "_cite/cite.py"],
+        [sys.executable, "_cite/cite.py"],
         cwd=PROJECT_ROOT,
         capture_output=True,
         text=True
