@@ -1,5 +1,66 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3810919.3810921
+  title: 'One Workflow Doesn''t Fit All: Adaptive Workflows for Edge AI Development'
+  authors:
+  - Leming Shen
+  - Qiang Yang
+  - Xinyu Huang
+  - Zijing Ma
+  - Yuanqing Zheng
+  - Chris Xiaoxuan Lu
+  publisher: 'GetMobile: Mobile Computing and Communications'
+  date: '2026-04-23'
+  link: https://doi.org/hb9bks
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/TITS.2026.3659202
+  title: mmWave Radar Perception Learning Using Pervasive Visual-Inertial Supervision
+  authors:
+  - Kezhong Liu
+  - Yiwen Zhou
+  - Mozi Chen
+  - Jianhua He
+  - Jingao Xu
+  - Zheng Yang
+  - Chris Xiaoxuan Lu
+  - Shengkai Zhang
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2026-06-01'
+  link: https://doi.org/hb9bkt
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1145/3812836.3814754
+  title: Automating Model Deployment on Mobile Devices
+  authors:
+  - Leming Shen
+  - Qiang Yang
+  - Xinyu Huang
+  - Zijing Ma
+  - Yuanqing Zheng
+  - Chris Xiaoxuan Lu
+  publisher: Proceedings of the 24th Annual International Conference on Mobile Systems,
+    Applications and Services Workshops
+  date: '2026-06-20'
+  link: https://doi.org/hb9bkv
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.2603.18026
+  title: Physically Accurate Differentiable Inverse Rendering for Radio Frequency
+    Digital Twin
+  authors:
+  - Xingyu Chen
+  - Xinyu Zhang
+  - Kai Zheng
+  - Xinmin Fang
+  - Tzu-Mao Li
+  - Chris Xiaoxuan Lu
+  - Zhengxiong Li
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hb9bkw
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/TNNLS.2022.3176677
   title: Learning Selective Sensor Fusion for State Estimation
   authors:
