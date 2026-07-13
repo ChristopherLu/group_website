@@ -1,6 +1,6 @@
 ---
 name: Fangqiang Ding
-image: images/member_photos/fangqiang_ding.jpeg
+image: images/member_photos/fangqiang_ding.png
 role: alumni
 alumni: true
 links:
