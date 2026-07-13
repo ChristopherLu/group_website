@@ -15,7 +15,7 @@
   type: preprint
   description: "A modular Vision-Language-Action architecture that separates semantic (what/where) understanding from procedural (how) execution, improving zero-shot generalization of robot skills to novel objects."
 
-- id: doi:10.48550/ARXIV.2506.07639
+- id: doi:10.48550/arXiv.2506.07639
   title: 'Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse'
   authors:
   - Zhekai Duan
