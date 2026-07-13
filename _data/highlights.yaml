@@ -1,5 +1,20 @@
 # Featured/highlighted publications with custom images and descriptions
 # This file is manually maintained and won't be overwritten by auto-generation
+- id: doi:10.48550/arXiv.2606.21496
+  title: 'Decoupling the Declarative from the Procedural in Vision-Language-Action Models'
+  authors:
+  - Nikolaos Tsagkas
+  - Andreas Sochopoulos
+  - Chris Xiaoxuan Lu
+  - Oisin Mac Aodha
+  - Alexandros Kouris
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hb98h7
+  image: images/works/w2vla.png
+  type: preprint
+  description: "A modular Vision-Language-Action architecture that separates semantic (what/where) understanding from procedural (how) execution, improving zero-shot generalization of robot skills to novel objects."
+
 - id: doi:10.48550/ARXIV.2506.07639
   title: 'Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse'
   authors:

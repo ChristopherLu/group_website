@@ -61,6 +61,20 @@
   link: https://doi.org/hb9bkw
   plugin: dblp.py
   file: dblp.yaml
+- id: doi:10.48550/arXiv.2606.21496
+  title: Decoupling the Declarative from the Procedural in Vision-Language-Action
+    Models
+  authors:
+  - Nikolaos Tsagkas
+  - Andreas Sochopoulos
+  - Chris Xiaoxuan Lu
+  - Oisin Mac Aodha
+  - Alexandros Kouris
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hb98h7
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/TNNLS.2022.3176677
   title: Learning Selective Sensor Fusion for State Estimation
   authors:
