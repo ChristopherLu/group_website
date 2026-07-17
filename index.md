@@ -73,7 +73,7 @@ We are building a dynamic team of researchers passionate about robotics and AI, 
 
 {%
   include feature.html
-  image="images/team_cover.png"
+  image="images/group_photo_2026.png"
   link="team"
   title="Our Team"
   text=text
