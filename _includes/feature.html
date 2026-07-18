@@ -9,6 +9,7 @@
       href="{{ include.link | relative_url | uri_escape }}"
     {% endif %}
     class="feature-image"
+    {% if include.aspect %}style="aspect-ratio: {{ include.aspect }};"{% endif %}
     aria-label="{{ include.title | default: "feature link" | regex_strip }}"
   >
     <img

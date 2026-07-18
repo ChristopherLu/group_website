@@ -77,4 +77,5 @@ We are building a dynamic team of researchers passionate about robotics and AI, 
   link="team"
   title="Our Team"
   text=text
+  aspect="2/1"
 %}
