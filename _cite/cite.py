@@ -286,12 +286,15 @@ log()
 log("Saving updated citations")
 
 
-# save new citations
-try:
-    save_data(output_file, citations)
-except Exception as e:
-    log(e, level="ERROR")
-    errors.append(e)
+# save new citations (skip if errors occurred, to avoid overwriting good data with partial results)
+if errors:
+    log("Errors occurred, keeping existing citations file unchanged", level="WARNING")
+else:
+    try:
+        save_data(output_file, citations)
+    except Exception as e:
+        log(e, level="ERROR")
+        errors.append(e)
 
 
 log()

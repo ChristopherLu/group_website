@@ -29,6 +29,12 @@ def main(entry):
         url = f"https://dblp.org/pid/{pid}.xml"
         request = Request(url=url)
         response = urlopen(request).read()
+        # DBLP may return an HTML bot-check page instead of XML; don't cache it
+        if not response.lstrip().startswith(b"<?xml"):
+            raise Exception(
+                "DBLP did not return XML (likely blocked by its anti-bot check). "
+                "Try again later, or add publications manually in _data/sources.yaml."
+            )
         return response
 
     # fetch publications XML
