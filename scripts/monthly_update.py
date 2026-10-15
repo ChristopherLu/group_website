@@ -80,7 +80,7 @@ def run_citation_update():
     if result.returncode == 0:
         console.print("[green]Citations updated successfully![/green]")
     else:
-        console.print(f"[red]Error updating citations:[/red]\n{result.stderr}")
+        console.print(f"[red]Error updating citations:[/red]\n{result.stderr}\n{result.stdout[-2000:]}")
     return result.returncode == 0
 
 
