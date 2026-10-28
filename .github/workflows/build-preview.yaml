@@ -18,7 +18,8 @@ permissions:
 
 jobs:
   build-preview:
-    runs-on: ubuntu-latest
+    # ubuntu-latest is now 26.04, which has no Ruby 3.1 build for setup-ruby
+    runs-on: ubuntu-24.04
 
     steps:
       - name: Debug dump
