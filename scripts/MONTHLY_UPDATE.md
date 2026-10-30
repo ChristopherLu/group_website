@@ -80,6 +80,18 @@ Your DBLP profile is configured in `_data/dblp.yaml`:
 
 Find your PID: Go to your DBLP page (e.g., `https://dblp.org/pid/154/4313.html`), the PID is `154/4313`.
 
+If DBLP blocks automatic fetching (it returns a "not a bot" page), download the XML manually:
+
+1. Open `https://dblp.org/pid/154/4313.xml` in a browser and save the page as `_data/dblp_154-4313.xml`
+2. Set `xml_file` in `_data/dblp.yaml`:
+
+```yaml
+- author_id: "154/4313"
+  xml_file: dblp_154-4313.xml
+```
+
+The plugin reads the local file instead of fetching from DBLP.
+
 ### BibTeX Import
 
 For publications not in DBLP, you can import from BibTeX:
