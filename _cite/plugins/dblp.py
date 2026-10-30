@@ -5,6 +5,7 @@ Processes entries from _data/dblp*.yaml files
 
 import re
 import xml.etree.ElementTree as ET
+from pathlib import Path
 from urllib.request import Request, urlopen
 from util import *
 
@@ -33,12 +34,17 @@ def main(entry):
         if not response.lstrip().startswith(b"<?xml"):
             raise Exception(
                 "DBLP did not return XML (likely blocked by its anti-bot check). "
-                "Try again later, or add publications manually in _data/sources.yaml."
+                "Try again later, download the XML manually and set xml_file, "
+                "or add publications manually in _data/sources.yaml."
             )
         return response
 
-    # fetch publications XML
-    xml_data = query_by_pid(author_id)
+    # use a manually downloaded DBLP XML file if given, otherwise fetch from DBLP
+    xml_file = get_safe(entry, "xml_file", "")
+    if xml_file:
+        xml_data = (Path("_data") / xml_file).read_bytes()
+    else:
+        xml_data = query_by_pid(author_id)
 
     # parse XML
     root = ET.fromstring(xml_data)
@@ -116,6 +122,7 @@ def main(entry):
 
             # remove the query fields from the source
             source.pop("author_id", None)
+            source.pop("xml_file", None)
 
             # add source to list if it has content
             if source.get("id") or source.get("title"):

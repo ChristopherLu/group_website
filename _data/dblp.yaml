@@ -4,4 +4,9 @@
 # Your DBLP author profile
 # Find your PID at: https://dblp.org/ (search your name, then check the URL)
 # Example URL: https://dblp.org/pid/154/4313.html -> author_id: "154/4313"
+#
+# If DBLP blocks automatic fetching, download https://dblp.org/pid/<PID>.xml in a
+# browser, save it in _data/, and set xml_file to that file name, e.g.:
+# - author_id: "154/4313"
+#   xml_file: dblp_154-4313.xml
 - author_id: "154/4313"
