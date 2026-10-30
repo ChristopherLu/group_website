@@ -30,6 +30,51 @@
   link: https://doi.org/hb9bkt
   plugin: dblp.py
   file: dblp.yaml
+- title: 'M4Human: A Large-Scale Multimodal mmWave Radar Benchmark for Human Mesh
+    Reconstruction'
+  authors:
+  - Junqiao Fan
+  - Yunjiao Zhou
+  - Yizhuo Yang 0001
+  - Xinyuan Cui
+  - Jiarui Zhang
+  - Lihua Xie 0001
+  - Jianfei Yang 0001
+  - Chris Xiaoxuan Lu
+  - Fangqiang Ding
+  publisher: CVPR
+  date: '2026-01-01'
+  link: https://openaccess.thecvf.com/content/CVPR2026/html/Fan_M4Human_A_Large-Scale_Multimodal_mmWave_Radar_Benchmark_for_Human_Mesh_CVPR_2026_paper.html
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/ICRA57385.2026.11696856
+  title: 'The Temporal Trap: Entanglement in Pre-Trained Visual Representations for
+    Visuomotor Policy Learning'
+  authors:
+  - Nikolaos Tsagkas
+  - Andreas Sochopoulos
+  - Duolikun Danier
+  - Chris Xiaoxuan Lu
+  - Oisin Mac Aodha
+  publisher: 2026 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2026-06-01'
+  link: https://doi.org/hcqsx5
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.1109/ICRA57385.2026.11695789
+  title: 'Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse'
+  authors:
+  - Zhekai Duan
+  - Yuan Zhang
+  - Shikai Geng
+  - Gaowen Liu
+  - Joschka Boedecker
+  - Chris Xiaoxuan Lu
+  publisher: 2026 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2026-06-01'
+  link: https://doi.org/hcqsx6
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1145/3812836.3814754
   title: Automating Model Deployment on Mobile Devices
   authors:
@@ -73,6 +118,36 @@
   publisher: arXiv
   date: '2026-01-01'
   link: https://doi.org/hb98h7
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.2609.08280
+  title: 'Seeing is Not Believing: Breaking the Physical-to-Digital Trust Boundary
+    in Robotics'
+  authors:
+  - Leming Shen
+  - Shikai Geng
+  - Yuanqing Zheng
+  - Chris Xiaoxuan Lu
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hcqsx7
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.2609.22973
+  title: An Empirical Study and Open Testbed for Federated Fine-Tuning of Vision-Language-Action
+    Models
+  authors:
+  - Zhekai Duan
+  - Kevin Ziyang Xie
+  - Xinyu Tan
+  - Shikai Geng
+  - Chengxu Zhou
+  - Ramana Kompella
+  - Gaowen Liu
+  - Chris Xiaoxuan Lu
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hcqsx8
   plugin: dblp.py
   file: dblp.yaml
 - id: doi:10.1109/TNNLS.2022.3176677
@@ -134,34 +209,6 @@
   link: https://doi.org/hbmrtp
   plugin: dblp.py
   file: dblp.yaml
-- id: doi:10.48550/arXiv.2502.03270
-  title: 'The Temporal Trap: Entanglement in Pre-Trained Visual Representations for
-    Visuomotor Policy Learning'
-  authors:
-  - Nikolaos Tsagkas
-  - Andreas Sochopoulos
-  - Duolikun Danier
-  - Chris Xiaoxuan Lu
-  - Oisin Mac Aodha
-  publisher: arXiv
-  date: '2025-01-01'
-  link: https://doi.org/hbmrtq
-  plugin: dblp.py
-  file: dblp.yaml
-- id: doi:10.48550/arXiv.2506.07639
-  title: 'Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse'
-  authors:
-  - Zhekai Duan
-  - Yuan Zhang
-  - Shikai Geng
-  - Gaowen Liu
-  - Joschka Boedecker
-  - Chris Xiaoxuan Lu
-  publisher: arXiv
-  date: '2025-01-01'
-  link: https://doi.org/hbmrtr
-  plugin: dblp.py
-  file: dblp.yaml
 - id: doi:10.48550/arXiv.2511.10762
   title: 'Attentive Feature Aggregation or: How Policies Learn to Stop Worrying about
     Robustness and Attend to Task-Relevant Visual Cues'
@@ -176,24 +223,6 @@
   publisher: arXiv
   date: '2025-01-01'
   link: https://doi.org/hbmrtt
-  plugin: dblp.py
-  file: dblp.yaml
-- id: doi:10.48550/arXiv.2512.12378
-  title: 'M4Human: A Large-Scale Multimodal mmWave Radar Benchmark for Human Mesh
-    Reconstruction'
-  authors:
-  - Junqiao Fan
-  - Yunjiao Zhou
-  - Yizhuo Yang
-  - Xinyuan Cui
-  - Jiarui Zhang
-  - Lihua Xie
-  - Jianfei Yang
-  - Chris Xiaoxuan Lu
-  - Fangqiang Ding
-  publisher: arXiv
-  date: '2025-01-01'
-  link: https://doi.org/hbmrtv
   plugin: dblp.py
   file: dblp.yaml
 - id: doi:10.1016/j.engappai.2024.107939
@@ -348,6 +377,18 @@
   link: https://doi.org/hbmrt4
   plugin: dblp.py
   file: dblp.yaml
+- title: 'RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar'
+  authors:
+  - Fangqiang Ding
+  - Xiangyu Wen 0001
+  - Yunzhou Zhu 0001
+  - Yiming Li 0003
+  - Chris Xiaoxuan Lu
+  publisher: NeurIPS
+  date: '2024-01-01'
+  link: http://papers.nips.cc/paper_files/paper/2024/hash/b81d83165e3145a2e7d33bb5e33ea913-Abstract-Conference.html
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1145/3580779
   title: Human Parsing with Joint Learning for Dynamic mmWave Radar Point Cloud
   authors:
@@ -443,6 +484,19 @@
   link: https://doi.org/hbmrt5
   plugin: dblp.py
   file: dblp.yaml
+- title: Robust Human Detection under Visual Degradation via Thermal and mmWave Radar
+    Fusion
+  authors:
+  - Kaiwen Cai
+  - Qiyue Xia
+  - Peize Li
+  - Chris Xiaoxuan Lu
+  - John A. Stankovic
+  publisher: EWSN
+  date: '2023-01-01'
+  link: https://dl.acm.org/doi/10.5555/3639940.3639965
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/IROS55552.2023.10341653
   title: 'RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging
     Conditions'
@@ -470,6 +524,40 @@
     (IROS)
   date: '2023-10-01'
   link: https://doi.org/g56w5k
+  plugin: dblp.py
+  file: dblp.yaml
+- title: 'MetaWave: Attacking mmWave Sensing with Meta-material-enhanced Tags'
+  authors:
+  - Xingyu Chen
+  - Zhengxiong Li
+  - Baicheng Chen
+  - Yi Zhu 0012
+  - Chris Xiaoxuan Lu
+  - Zhengyu Peng
+  - Feng Lin 0004
+  - Wenyao Xu
+  - Kui Ren 0001
+  - Chunming Qiao
+  publisher: NDSS
+  date: '2023-01-01'
+  link: https://www.ndss-symposium.org/ndss-paper/metawave-attacking-mmwave-sensing-with-meta-material-enhanced-tags/
+  plugin: dblp.py
+  file: dblp.yaml
+- title: 'MM-Fi: Multi-Modal Non-Intrusive 4D Human Dataset for Versatile Wireless
+    Sensing'
+  authors:
+  - Jianfei Yang 0001
+  - He Huang
+  - Yunjiao Zhou
+  - Xinyan Chen 0002
+  - Yuecong Xu
+  - Shenghai Yuan 0001
+  - Han Zou
+  - Chris Xiaoxuan Lu
+  - Lihua Xie 0001
+  publisher: NeurIPS
+  date: '2023-01-01'
+  link: http://papers.nips.cc/paper_files/paper/2023/hash/3baf7a39d07e9f4f1e258a412df94521-Abstract-Datasets_and_Benchmarks.html
   plugin: dblp.py
   file: dblp.yaml
 - id: doi:10.1145/3625687.3628398
@@ -566,6 +654,17 @@
   link: https://doi.org/gsk3bp
   plugin: dblp.py
   file: dblp.yaml
+- title: Multiagent Model-based Credit Assignment for Continuous Control
+  authors:
+  - Dongge Han
+  - Chris Xiaoxuan Lu
+  - Tomasz P. Michalak
+  - Michael J. Wooldridge
+  publisher: AAMAS
+  date: '2022-01-01'
+  link: https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p571.pdf
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/ICRA46639.2022.9811869
   title: 'AutoPlace: Robust Place Recognition with Single-chip Automotive Radar'
   authors:
@@ -630,6 +729,23 @@
     (IROS)
   date: '2022-10-23'
   link: https://doi.org/gsk4cr
+  plugin: dblp.py
+  file: dblp.yaml
+- title: 'SpiralSpy: Exploring a Stealthy and Practical Covert Channel to Attack Air-gapped
+    Computing Devices via mmWave Sensing'
+  authors:
+  - Zhengxiong Li
+  - Baicheng Chen
+  - Xingyu Chen
+  - Huining Li
+  - Chenhan Xu
+  - Feng Lin 0004
+  - Chris Xiaoxuan Lu
+  - Kui Ren 0001
+  - Wenyao Xu
+  publisher: NDSS
+  date: '2022-01-01'
+  link: https://www.ndss-symposium.org/ndss-paper/auto-draft-219/
   plugin: dblp.py
   file: dblp.yaml
 - id: doi:10.1109/SECON55815.2022.9918553
@@ -755,6 +871,33 @@
   link: https://doi.org/g946xs
   plugin: dblp.py
   file: dblp.yaml
+- id: doi:10.48550/arXiv.2101.07061
+  title: Deep Inertial Odometry with Accurate IMU Preintegration
+  authors:
+  - Rooholla Khorrambakht
+  - Chris Xiaoxuan Lu
+  - Hamed Damirchi
+  - Zhenghua Chen
+  - Zhengguo Li
+  publisher: arXiv
+  date: '2021-01-01'
+  link: https://doi.org/hcqsx9
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.2112.05665
+  title: Deep Odometry Systems on Edge with EKF-LoRa Backend for Real-Time Positioning
+    in Adverse Environment
+  authors:
+  - Zhuangzhuang Dai
+  - Muhamad Risqi U. Saputra
+  - Chris Xiaoxuan Lu
+  - Andrew Markham
+  - Niki Trigoni
+  publisher: arXiv
+  date: '2021-01-01'
+  link: https://doi.org/hcqszh
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1109/JIOT.2020.2966773
   title: 'Deep-Learning-Based Pedestrian Inertial Navigation: Methods, Data Set, and
     On-Device Inference'
@@ -876,6 +1019,38 @@
   publisher: Proceedings of The Web Conference 2020
   date: '2020-04-20'
   link: https://doi.org/gh97vh
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.2006.02266
+  title: 'milliEgo: Single-chip mmWave Radar Aided Egomotion Estimation via Deep Sensor
+    Fusion'
+  authors:
+  - Chris Xiaoxuan Lu
+  - Muhamad Risqi U. Saputra
+  - Peijun Zhao
+  - Yasin Almalioglu
+  - Pedro P. B. de Gusmao
+  - Changhao Chen
+  - Ke Sun
+  - Niki Trigoni
+  - Andrew Markham
+  publisher: arXiv
+  date: '2020-01-01'
+  link: https://doi.org/hcqszm
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.2006.12567
+  title: 'A Survey on Deep Learning for Localization and Mapping: Towards the Age
+    of Spatial Machine Intelligence'
+  authors:
+  - Changhao Chen
+  - Bing Wang
+  - Chris Xiaoxuan Lu
+  - Niki Trigoni
+  - Andrew Markham
+  publisher: arXiv
+  date: '2020-01-01'
+  link: https://doi.org/hcqszn
   plugin: dblp.py
   file: dblp.yaml
 - id: doi:10.1109/JIOT.2019.2926645
@@ -1018,6 +1193,70 @@
   link: https://doi.org/ghcqrs
   plugin: dblp.py
   file: dblp.yaml
+- id: doi:10.48550/arXiv.1909.03557
+  title: 'AtLoc: Attention Guided Camera Localization'
+  authors:
+  - Bing Wang
+  - Changhao Chen
+  - Chris Xiaoxuan Lu
+  - Peijun Zhao
+  - Niki Trigoni
+  - Andrew Markham
+  publisher: arXiv
+  date: '2019-01-01'
+  link: https://doi.org/hcqszv
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.1909.05774
+  title: 'Milli-RIO: Ego-Motion Estimation with Low-Cost Millimetre-Wave Radar'
+  authors:
+  - Yasin Almalioglu
+  - Mehmet Turan
+  - Chris Xiaoxuan Lu
+  - Niki Trigoni
+  - Andrew Markham
+  publisher: arXiv
+  date: '2019-01-01'
+  link: https://doi.org/hcqszw
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.1912.04836
+  title: 'Snoopy: Sniffing Your Smartwatch Passwords via Deep Sequence Learning'
+  authors:
+  - Chris Xiaoxuan Lu
+  - Bowen Du
+  - Hongkai Wen
+  - Sen Wang
+  - Andrew Markham
+  - Ivan Martinovic
+  - Yiran Shen
+  - Niki Trigoni
+  publisher: arXiv
+  date: '2019-01-01'
+  link: https://doi.org/hcqszz
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.1912.13077
+  title: Learning Selective Sensor Fusion for States Estimation
+  authors:
+  - Changhao Chen
+  - Stefano Rosa
+  - Chris Xiaoxuan Lu
+  - Bing Wang
+  - Niki Trigoni
+  - Andrew Markham
+  publisher: arXiv
+  date: '2019-01-01'
+  link: https://doi.org/hcqsz2
+  plugin: dblp.py
+  file: dblp.yaml
+- title: Robustly inferring identity across digital and physical worlds
+  authors:
+  - Xiaoxuan Lu 0001
+  date: '2018-01-01'
+  link: https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.772559
+  plugin: dblp.py
+  file: dblp.yaml
 - id: doi:10.1609/aaai.v32i1.12102
   title: 'IONet: Learning to Cure the Curse of Drift in Inertial Odometry'
   authors:
@@ -1105,6 +1344,34 @@
   publisher: Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems
   date: '2018-11-04'
   link: https://doi.org/g6d5s8
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.1809.07491
+  title: 'OxIOD: The Dataset for Deep Inertial Odometry'
+  authors:
+  - Changhao Chen
+  - Peijun Zhao
+  - Chris Xiaoxuan Lu
+  - Wei Wang
+  - Andrew Markham
+  - Niki Trigoni
+  publisher: arXiv
+  date: '2018-01-01'
+  link: https://doi.org/hcqsz4
+  plugin: dblp.py
+  file: dblp.yaml
+- id: doi:10.48550/arXiv.1810.02076
+  title: Transferring Physical Motion Between Domains for Neural Inertial Tracking
+  authors:
+  - Changhao Chen
+  - Yishu Miao
+  - Chris Xiaoxuan Lu
+  - Phil Blunsom
+  - Andrew Markham
+  - Niki Trigoni
+  publisher: arXiv
+  date: '2018-01-01'
+  link: https://doi.org/hcqsz5
   plugin: dblp.py
   file: dblp.yaml
 - id: doi:10.1145/3161196
