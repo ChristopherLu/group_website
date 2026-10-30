@@ -15,7 +15,7 @@
   type: preprint
   description: "A modular Vision-Language-Action architecture that separates semantic (what/where) understanding from procedural (how) execution, improving zero-shot generalization of robot skills to novel objects."
 
-- id: doi:10.48550/arXiv.2506.07639
+- id: doi:10.1109/ICRA57385.2026.11695789
   title: 'Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse'
   authors:
   - Zhekai Duan
@@ -24,11 +24,11 @@
   - Gaowen Liu
   - Joschka Boedecker
   - Chris Xiaoxuan Lu
-  publisher: CoRR
-  date: '2025-06-15'
-  link: https://doi.org/10.48550/arXiv.2506.07639
+  publisher: 2026 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2026-06-01'
+  link: https://doi.org/hcqsx6
   image: images/works/fast_ecot.png
-  type: preprint
+  type: paper-conference
   description: "Efficient embodied reasoning through thought reuse, enabling faster decision-making in robotic applications."
 
 - id: doi:10.48550/arXiv.2405.14014
